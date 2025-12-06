@@ -1,0 +1,54 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 9,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "doom",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "hardened_subsystems",
+        "reinforcedhull",
+        "safetyoverrides",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "doom_Tri",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "sabotpod",
+                "WS 001": "sabotpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "sabot",
+                "WS 004": "sabot",
+                "WS 005": "sabot",
+                "WS 003": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "miningblaster",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,48 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 35,
+    "fluxVents": 3,
+    "goalVariant": true,
+    "hullId": "WthC_fury_IE_B",
+    "hullMods": [
+        "fluxbreakers",
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "magazines",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_fury_IE_B_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "miningblaster",
+                "WS0003": "ionpulser",
+                "WS0002": "miningblaster",
+                "WS0004": "ionpulser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "WthC_starsnode_elementS_fire",
+                "WS 005": "WthC_starsnode_elementS_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

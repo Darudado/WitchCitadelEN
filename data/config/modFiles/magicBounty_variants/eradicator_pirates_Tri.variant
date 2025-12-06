@@ -1,0 +1,82 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 22,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "eradicator_pirates",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "converted_hangar",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "eradicator_pirates_Tri",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "reaper",
+                "WS 001": "reaper",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "sabot",
+                "WS 003": "sabot",
+                "WS 004": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "miningblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "chaingun",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heavymg",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

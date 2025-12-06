@@ -1,0 +1,89 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 0,
+    "fluxVents": 39,
+    "goalVariant": true,
+    "hullId": "WthC_Onslaught_IE",
+    "hullMods": [
+        "armoredweapons",
+        "crimsonmodificationrra",
+        "fluxbreakers",
+        "heavyarmor",
+        "magazines",
+        "ringinterferecross",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Onslaught_IE_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "tpc",
+                "WS 016": "tpc",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 024": "WthC_starsnode_element_gold",
+                "WS 021": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 022": "WthC_starsnode_element_fire",
+                "WS 023": "WthC_starsnode_element_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "ionbeam",
+                "WS 012": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "devastator",
+                "WS 018": "devastator",
+                "WS 020": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 002": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "flak",
+                "WS 003": "flak",
+                "WS 011": "flak",
+                "WS 001": "flak",
+                "WS 010": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

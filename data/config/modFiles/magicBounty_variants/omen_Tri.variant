@@ -1,0 +1,42 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 8,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "omen",
+    "hullMods": [
+        "missile_autoloader",
+        "stabilizedshieldemitter",
+        "hardened_subsystems",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "missile_autoloader",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "missile_autoloader",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "omen_Tri",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "irpulse",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "reaper",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

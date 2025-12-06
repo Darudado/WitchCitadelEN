@@ -1,0 +1,44 @@
+{
+    "displayName": "Overload",
+    "fluxCapacitors": 90,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "tempest",
+    "hullMods": [
+        "high_scatter_amp",
+        "expanded_deck_crew",
+        "missile_autoloader",
+        "missleracks",
+        "nav_relay",
+        "ringfog",
+        "ringinterferedust",
+        "ringsup2",
+        "shadowremainelf",
+        "targetingunit",
+        "unstable_injector",
+        "missile_reload"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "tempest_Overload",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "tachyonlance",
+                "WS 001": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "cyclone",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

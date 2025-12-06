@@ -1,0 +1,36 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 12,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "WthC_hyperion_SS",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+        "safetyoverrides",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_hyperion_SS_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_starsnode_element_water",
+                "WS 001": "WthC_starsnode_element_water",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

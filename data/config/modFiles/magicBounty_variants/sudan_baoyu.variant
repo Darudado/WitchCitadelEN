@@ -1,0 +1,44 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "tempest",
+    "hullMods": [
+        "ecm",
+        "frontemitter",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+        
+    ],
+    "permaMods": [
+        "ecm",
+        "frontemitter",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "ecm",
+        "frontemitter",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_baoyu",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "disintegrator",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

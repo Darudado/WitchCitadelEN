@@ -1,0 +1,47 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 11,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "enforcer_d_pirates",
+    "hullMods": [
+        "converted_hangar",
+        "escort_package",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "enforcer_d_pirates_Ju2",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "hveldriver",
+                "WS 002": "hveldriver",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "harpoon",
+                "WS 009": "harpoon",
+                "WS 006": "harpoon",
+                "WS 007": "harpoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavymauler",
+            }
+        },
+    ],
+    "wings": [
+        "mining_drone_wing",
+    ],
+    "modules": [],
+}

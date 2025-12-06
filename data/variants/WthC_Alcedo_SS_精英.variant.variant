@@ -1,0 +1,45 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 8,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "WthC_Alcedo_SS",
+    "hullMods": [
+        "eccm",
+        "ringinterfereelf",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Alcedo_SS_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "flak",
+                "WS0007": "flak",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_starsnode_elementS_soil",
+                "WS0002": "WthC_starsnode_elementS_wood",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "WthC_MicroNodeBeam",
+                "WS0004": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_RCH_wing",
+    ],
+    "modules": [],
+}

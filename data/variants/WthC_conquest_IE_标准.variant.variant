@@ -1,0 +1,76 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 55,
+    "fluxVents": 39,
+    "goalVariant": true,
+    "hullId": "WthC_conquest_IE",
+    "hullMods": [
+        "extendedshieldemitter",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_conquest_IE_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "tachyonlance",
+                "WS 014": "tachyonlance",
+                "WS 011": "tachyonlance",
+                "WS 012": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_element_gold",
+                "WS 001": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_BreezeTacticalLaser",
+                "WS 003": "WthC_BreezeTacticalLaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 022": "gravitonbeam",
+                "WS 023": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 010": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "flak",
+                "WS 016": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

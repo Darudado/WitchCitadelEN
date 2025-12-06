@@ -1,0 +1,50 @@
+{
+	"ranks":{
+		"WthC_WitchS":{"name":"Entropy's Manifestation"},
+		"WthC_DR":{"name":"Shadow of Annihilation"},
+		"WthC_WitchSD":{"name":"Shadow of Possibility"},
+		"WthC_RRA":{"name":"Artistic Witch"},
+		"WthC_Cross":{"name":"Cross Witch"},
+		"WthC_IE":{"name":"Primordial Witch"},
+		"WthC_SSoul":{"name":"Soul Witch"},
+		"WthC_Elf":{"name":"Spirit Witch"},
+		"WthC_Dust":{"name":"Dust Witch"},
+		"WthC_Witch":{"name":"Council Witch"},
+		"WthC_RM1":{"name":"Pale King"},
+
+		"WthC_Sudan":{"name":"Sultan"},
+		"WthC_Ju":{"name":"Flower Yet Not Flower"},
+
+		"WthC_MZGSJ":{"name":"Lively Innocent Girl"},
+		"WthC_NIKUSHOKU":{"name":"Carnivorous Sister"},
+		"WthC_HANABI":{"name":"Firework Sage"},
+
+		"WthC_DEVIL":{"name":"????Song??"},
+
+		"Diamond1":{"name":"Diamond"}
+	},
+	
+	"posts":{
+		"WthC_WitchS":{"name":"Pale Phantom"},
+		"WthC_DR":{"name":"Embodiment of Reality's Gap"},
+		"WthC_WitchSD":{"name":"Pale Entropy Shadow"},
+		"WthC_RRA":{"name":"Artistic Witch"},
+		"WthC_Cross":{"name":"Cross Witch"},
+		"WthC_IE":{"name":"Primordial Witch"},
+		"WthC_SSoul":{"name":"Soul Witch"},
+		"WthC_Elf":{"name":"Spirit Witch"},
+		"WthC_Dust":{"name":"Dust Witch"},
+		"WthC_RM2":{"name":"Ancient Ruler"},
+
+		"WthC_Sudan2":{"name":"Prisoner"},
+		"WthC_Ju2":{"name":"Mist Yet Not Mist"},
+
+		"WthC_MZGSJ":{"name":"Lively Innocent Girl"},
+		"WthC_NIKUSHOKU":{"name":"Carnivorous Sister"},
+		"WthC_HANABI":{"name":"Firework Artisan"},
+
+		"WthC_DEVIL":{"name":"??Machine????"},
+
+		"Diamond2":{"name":"Veteran"}
+	}
+}

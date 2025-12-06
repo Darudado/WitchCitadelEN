@@ -1,0 +1,85 @@
+{
+    "displayName": "SD-IE",
+    "fluxCapacitors": 35,
+    "fluxVents": 23,
+    "goalVariant": false,
+    "hullId": "WthC_Eagle_IE_B",
+    "hullMods": [
+        "fluxcoil",
+        "ringinterferessoul",
+        "targetingunit",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "ringinterferessoul",
+        "targetingunit",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "ringinterferessoul",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Eagle_IE_B_SD-IE",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_OceanCurrent",
+                "WS 007": "WthC_OceanCurrent",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_wood",
+                "WS 001": "WthC_starsnode_elementS_wood",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "WthC_starsnode_elementS_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_StarryEmbellishment",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 011": "WthC_MicroNodeBeam",
+                "WS 012": "WthC_MicroNodeBeam",
+                "WS 010": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

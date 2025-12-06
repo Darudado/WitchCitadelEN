@@ -1,0 +1,90 @@
+{
+    "displayName": "S-Cross",
+    "fluxCapacitors": 55,
+    "fluxVents": 41,
+    "goalVariant": false,
+    "hullId": "WthC_Mithril_IE",
+    "hullMods": [
+        "heavyarmor",
+        "ringinterferessoul",
+        "crimsonmodificationcross",
+        "eccm",
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "ringinterferessoul",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "ringinterferessoul",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Mithril_IE_S-Cross",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "WthC_Thundersuite",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "WthC_starsnode_element_wood",
+                "WS0005": "WthC_starsnode_element_wood",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "lightdualac",
+                "WS0013": "lightdualac",
+                "WS0010": "pulselaser",
+                "WS0009": "pulselaser",
+                "WS0018": "shredder",
+                "WS0017": "shredder",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "guardian",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "WthC_Lumen",
+                "WS0011": "WthC_Lumen",
+                "WS0016": "WthC_Lumen",
+                "WS0015": "WthC_Lumen",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "WthC_MicroNodeBeam",
+                "WS0020": "WthC_MicroNodeBeam",
+                "WS0019": "WthC_MicroNodeBeam",
+                "WS0004": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

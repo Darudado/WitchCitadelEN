@@ -1,0 +1,49 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 31,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "astral",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "astral_Tri",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "ionbeam",
+                "WS 023": "ionbeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 011": "squall",
+                "WS 012": "squall",
+            }
+        },
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+    ],
+    "modules": [],
+}

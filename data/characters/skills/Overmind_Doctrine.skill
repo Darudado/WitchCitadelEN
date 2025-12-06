@@ -1,0 +1,27 @@
+{
+	"id":"Overmind_Doctrine",
+	"governingAptitude":"leadership",
+	"compressHullmods":false,
+	"elite":true,
+	"scope":CUSTOM,
+	"scopeStr":"Ship",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"data.skills.Overmind_Doctrine$Level1A"},
+				{"type":"SHIP", "script":"data.skills.Overmind_Doctrine$Level1B"},
+			]
+		},
+		{
+			"name":"Elite",
+			"requiredSkillLevel":2,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"data.skills.Overmind_Doctrine$Level2A"},
+				{"type":"SHIP", "script":"data.skills.Overmind_Doctrine$Level2B"},
+			]
+		},
+	],
+}

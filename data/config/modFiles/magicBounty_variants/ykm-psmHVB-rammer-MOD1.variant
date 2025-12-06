@@ -1,0 +1,25 @@
+{
+    "displayName": "独立装甲",
+    "fluxCapacitors": 4,
+    "fluxVents": 0,
+    "hullId": "PSM_rammer1",
+    "hullMods": [
+        "heavyarmor",
+        "frontshield",
+        "armoredweapons",
+        "extendedshieldemitter",
+        "hardenedshieldemitter"
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "frontshield",
+        "armoredweapons"
+    ],
+    "sMods": [
+        "heavyarmor",
+        "frontshield",
+        "armoredweapons"
+    ],
+    "variantId": "ykm-psmHVB-rammer-MOD1",
+    "weaponGroups": []
+}

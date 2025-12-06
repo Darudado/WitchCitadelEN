@@ -1,0 +1,45 @@
+{
+    "displayName": "LD",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "mora",
+    "hullMods": [
+        "heavyarmor",
+        "reinforcedhull",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "mora_LD",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "lightmortar",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "sabotpod",
+                "WS 004": "sabotpod",
+            }
+        },
+    ],
+    "wings": [
+        "perdition_wing",
+        "perdition_wing",
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

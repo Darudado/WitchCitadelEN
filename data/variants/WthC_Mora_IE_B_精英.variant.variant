@@ -1,0 +1,54 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 1,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "WthC_Mora_IE_B",
+    "hullMods": [
+        "crimsonmodificationelf",
+        "ringinterfererra",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Mora_IE_B_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0009": "WthC_starsnode_element_wood",
+                "WS0008": "WthC_starsnode_element_wood",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "WthC_starsnode_elementS_soil",
+                "WS0004": "WthC_starsnode_elementS_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [
+        "sarissa_wing",
+        "sarissa_wing",
+        "WthC_SMS_wing",
+    ],
+    "modules": [],
+}

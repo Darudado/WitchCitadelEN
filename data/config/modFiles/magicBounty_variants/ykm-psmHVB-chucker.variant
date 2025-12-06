@@ -1,0 +1,62 @@
+{
+    "displayName": "支援",
+    "fluxCapacitors": 30,
+    "fluxVents": 20,
+    "hullId": "PSM_chucker",
+    "hullMods": [
+        "eccm",
+        "targetingunit",
+        "converted_hangar",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "extendedshieldemitter",
+        "ringinterfereie",
+        "magazines",
+        "malfunctioning_comms",
+        "increased_maintenance",
+        "faulty_auto",
+        "defective_manufactory",
+        "damaged_deck"
+    ],
+    "permaMods": [
+        "eccm",
+        "targetingunit",
+        "converted_hangar"
+    ],
+    "sMods": [
+        "eccm",
+        "targetingunit",
+        "converted_hangar"
+    ],
+    "variantId": "ykm-psmHVB-chucker",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "PSM_tubular_cannon_twin",
+                "WS0015": "PSM_lightmortar_TSM",
+                "WS0016": "PSM_lightmortar_TSM",
+                "WS0017": "PSM_lightmortar_TSM",
+                "WS0018": "PSM_lightmortar_TSM"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "PSM_cargocatapult",
+                "WS0003": "PSM_tubular_cannon_twin",
+                "WS0004": "PSM_cargocatapult",
+                "WS0005": "PSM_cargocatapult",
+                "WS0007": "PSM_cargocatapult"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0014": "PSM_rangingmg"}
+        }
+    ],
+    "wings": ["WthC_HGB_wing"]
+}

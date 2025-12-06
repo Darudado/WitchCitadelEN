@@ -1,0 +1,51 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 19,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "harbinger",
+    "hullMods": [
+        "heavyarmor",
+        "high_scatter_amp",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "missleracks",
+        "phase_anchor",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "high_scatter_amp",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "high_scatter_amp",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "harbinger_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_CHB",
+                "WS 002": "WthC_CHB",
+                "WS 003": "WthC_CHB",
+                "WS 004": "sabot",
+                "WS 005": "sabot",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

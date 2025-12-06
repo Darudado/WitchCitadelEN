@@ -1,0 +1,10 @@
+id,first name,last name,character
+# unique string,"if one name is specified, check if it matches","if both are, must match both",
+# for multiple matching entries the first one is picked,two-name matches are preferred,,
+# note that if the character name is same as the officer's full name it automatically matches without checking this file,,,
+WthC_Rika,Rika,Primordial Seeker,WthC_Rika
+WthC_YouYu,Youyu,Wuxin,WthC_YouYu
+WthC_Nizer,Nizer,Dust,WthC_Nizer
+WthC_Cross,Rosalia,Cross,WthC_Cross
+WthC_Su,Su,Soul,WthC_Su
+WthC_Elf,Eden,L Faust,WthC_Elf

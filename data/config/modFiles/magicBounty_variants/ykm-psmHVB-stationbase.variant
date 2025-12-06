@@ -1,0 +1,40 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 38,
+    "hullId": "PSM_station_base",
+    "hullMods": [
+        "crimsonmodificationie",
+        "frontshield",
+        "fluxdistributor",
+        "fluxcoil",
+        "converted_hangar",
+        "fragile_subsystems",
+        "malfunctioning_comms",
+        "faulty_auto",
+        "defective_manufactory",
+        "increased_maintenance"
+    ],
+    "modules": [
+        {"WS0003": "ykm-psmHVB-stationbase-Mod1"},
+        {"WS0005": "ykm-psmHVB-stationbase-Mod2"},
+        {"WS0004": "ykm-psmHVB-stationbase-Mod3"}
+    ],
+    "permaMods": [
+        "crimsonmodificationie",
+        "frontshield",
+        "fluxdistributor",
+        "fluxcoil",
+        "converted_hangar"
+    ],
+    "sMods": [
+        "crimsonmodificationie",
+        "frontshield",
+        "fluxdistributor",
+        "fluxcoil",
+        "converted_hangar"
+    ],
+    "variantId": "ykm-psmHVB-stationbase",
+    "weaponGroups": [],
+    "wings": ["flash_wing"]
+}

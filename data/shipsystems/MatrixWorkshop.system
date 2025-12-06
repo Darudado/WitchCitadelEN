@@ -1,0 +1,21 @@
+{
+	"id":"MatrixWorkshop",
+	"type":"STAT_MOD",
+	"aiType":"WEAPON_BOOST",
+	
+	"statsScript":"data.shipsystems.MatrixWorkshop",
+	
+	"flameoutOnImpactChance":0,
+
+	"clampTurnRateAfter":true,
+	"clampMaxSpeedAfter":false,
+
+	"useSound":"MatrixWorkshopOpen",
+	"deactivateSound":"MatrixWorkshopEnd",
+	
+	"aiHints":{
+		"activeSpeedIncrease":-100,
+		"burstMovementPotential":0,
+		"averageSpeedIncrease":0,
+	}
+}

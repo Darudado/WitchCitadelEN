@@ -1,0 +1,34 @@
+{
+    "displayName": "IE",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "goalVariant": false,
+    "hullId": "brawler_tritachyon",
+    "hullMods": [
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "brawler_tritachyon_IE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "ionpulser",
+                "WS 002": "ionpulser",
+                "WS 003": "gorgon",
+                "WS 004": "gorgon",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,75 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 25,
+    "fluxVents": 15,
+    "goalVariant": false,
+    "hullId": "WthC_champion_IE",
+    "hullMods": [
+        "crimsonmodificationrra",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "targetingunit",
+        "eccm",
+        "missleracks",
+        "no_weapon_flux",
+        "missile_reload",
+        "fluxshunt",
+    ],
+    "permaMods": [
+        "crimsonmodificationrra",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "sMods": [
+        "crimsonmodificationrra",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_champion",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_starsnode_elementS_gold",
+                "WS 001": "WthC_starsnode_elementS_gold",
+                "WS 002": "WthC_starsnode_elementS_gold",
+                "WS 003": "WthC_starsnode_elementS_gold",
+                "WS 009": "WthC_TwinMovement",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "realitydisruptor",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "WthC_StarryEmbellishment",
+                "WS 007": "WthC_StarryEmbellishment",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "WthC_MicroNodeBeam-A",
+                "WS 011": "WthC_MicroNodeBeam-A",
+                "WS 004": "WthC_MicroNodeBeam-A",
+                "WS 005": "WthC_MicroNodeBeam-A",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

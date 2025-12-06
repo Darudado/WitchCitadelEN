@@ -1,0 +1,34 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "goalVariant": true,
+    "hullId": "WthC_HundredEyes",
+    "hullMods": [
+        "eccm",
+        "frontemitter",
+        "ringinterfererra",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_HundredEyes_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "WthC_starsnode_elementS_wood",
+                "WS0006": "WthC_starsnode_elementS_wood",
+                "WS0007": "WthC_starsnode_elementS_water",
+                "WS0001": "gazer",
+                "WS0002": "gazer",
+                "WS0003": "gazer",
+                "WS0004": "gazer",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

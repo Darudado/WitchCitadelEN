@@ -1,0 +1,86 @@
+{
+    "displayName": "主力",
+    "fluxCapacitors": 50,
+    "fluxVents": 46,
+    "hullId": "PSM_Prasrity",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationcross",
+        "ringinterferessoul",
+        "extendedshieldemitter",
+        "fluxbreakers",
+        "fragile_subsystems",
+        "defective_manufactory",
+        "damaged_deck",
+        "faulty_auto",
+        "increased_maintenance"
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationcross"
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationcross"
+    ],
+    "variantId": "ykm-psmHVB-prasrity",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "PSM_tubular_cannon_twin",
+                "WS0006": "PSM_tubular_cannon_twin",
+                "WS0010": "PSM_tubular_cannon_twin",
+                "WS0018": "PSM_lightmortar_TSM",
+                "WS0019": "PSM_lightmortar_TSM",
+                "WS0020": "PSM_lightmortar_TSM",
+                "WS0021": "PSM_lightmortar_TSM",
+                "WS0022": "PSM_lightmortar_TSM",
+                "WS0023": "PSM_lightmortar_TSM"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0025": "PSM_fuel_launcher"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "PSM_cargocatapult",
+                "WS0004": "railgun",
+                "WS0007": "railgun",
+                "WS0008": "railgun",
+                "WS0009": "railgun",
+                "WS0011": "lightneedler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0024": "PSM_rangingmg"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "WthC_MicroNodeBeam",
+                "WS0012": "WthC_MicroNodeBeam",
+                "WS0013": "WthC_MicroNodeBeam",
+                "WS0014": "WthC_MicroNodeBeam",
+                "WS0015": "WthC_MicroNodeBeam",
+                "WS0016": "WthC_MicroNodeBeam",
+                "WS0017": "WthC_MicroNodeBeam"
+            }
+        }
+    ],
+    "wings": ["PSM_P_whaler"]
+}

@@ -1,0 +1,62 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 11,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "enforcer_xiv",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "converted_hangar",
+        "reinforcedhull",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "enforcer_xiv_GE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "atropos",
+                "WS 009": "atropos",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "sabot",
+                "WS 007": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightneedler",
+                "WS 003": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "flak",
+                "WS 001": "flak",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

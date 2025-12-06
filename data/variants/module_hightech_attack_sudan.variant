@@ -1,0 +1,87 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 15,
+    "fluxVents": 15,
+    "goalVariant": false,
+    "hullId": "module_hightech_attack",
+    "hullMods": [
+        "advancedoptics",
+        "advancedshieldemitter",
+        "armoredweapons",
+        "autorepair",
+        "auxiliarythrusters",
+        "blast_doors",
+        "eccm",
+        "ecm",
+        "extendedshieldemitter",
+        "fluxbreakers",
+        "fluxcoil",
+        "fluxdistributor",
+        "frontshield",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "magazines",
+        "missile_autoloader",
+        "missleracks",
+        "nav_relay",
+        "neural_interface",
+        "operations_center",
+        "pointdefenseai",
+        "reinforcedhull",
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "turretgyros",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "module_hightech_attack_sudan",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 007": "amsrm",
+                "WS 012": "amsrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "resonatormrm",
+                "WS 004": "resonatormrm",
+                "WS 005": "resonatormrm",
+                "WS 003": "resonatormrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_LiLancecrimson",
+                "WS 000": "WthC_LiLancecrimson",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_LiLancepale",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_BreezeTacticalLaser",
+                "WS 009": "WthC_BreezeTacticalLaser",
+                "WS 011": "WthC_BreezeTacticalLaser",
+                "WS 010": "WthC_BreezeTacticalLaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

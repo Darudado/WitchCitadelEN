@@ -1,0 +1,68 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 15,
+    "fluxVents": 15,
+    "goalVariant": false,
+    "hullId": "module_hightech_citadel",
+    "hullMods": [
+        "adaptiveshields",
+        "advancedoptics",
+        "advancedshieldemitter",
+        "armoredweapons",
+        "autorepair",
+        "auxiliarythrusters",
+        "blast_doors",
+        "eccm",
+        "ecm",
+        "extendedshieldemitter",
+        "fluxbreakers",
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "magazines",
+        "missleracks",
+        "nav_relay",
+        "neural_interface",
+        "operations_center",
+        "pointdefenseai",
+        "reinforcedhull",
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "turretgyros",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "module_hightech_citadel_sudan",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "amsrm",
+                "WS 006": "amsrm",
+                "WS 004": "amsrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "resonatormrm",
+                "WS 010": "resonatormrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_LiLancecrimson",
+                "WS 001": "WthC_LiLancecrimson",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

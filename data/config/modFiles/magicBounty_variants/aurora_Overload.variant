@@ -1,0 +1,99 @@
+{
+    "displayName": "Overload",
+    "fluxCapacitors": 530,
+    "fluxVents": 90,
+    "goalVariant": true,
+    "hullId": "aurora",
+    "hullMods": [
+        "high_scatter_amp",
+        "crimsonmodificationssoul",
+        "hardenedshieldemitter",
+        "ringinterferecross",
+        "supercomputer",
+        "nav_relay",
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "missile_reload",
+        "armoredweapons",
+        "ecm",
+        "heavyarmor",
+        "missleracks",
+        "reinforcedhull",
+        "ringie",
+        "ringsup",
+        "shadowremainssoul",
+        "autorepair",
+        "converted_hangar",
+        "crimsonmodificationie",
+        "hiressensors",
+        "ringfog",
+        "ringsup2",
+        "shadowremainrra",
+        "solar_shielding",
+        "advancedoptics",
+        "crimsonmodificationssoul",
+        "dedicated_targeting_core",
+        "escort_package",
+        "fluxbreakers",
+        "ringba",
+        "ringsup3",
+        "shadowremainie",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "aurora_Overload",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "cyclone",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "dragonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 013": "typhoon",
+                "WS 011": "typhoon",
+                "WS 012": "typhoon",
+                "WS 010": "typhoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_NewMoon",
+                "WS 007": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "tachyonlance",
+                "WS 005": "tachyonlance",
+                "WS 003": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "pilum",
+                "WS 001": "pilum",
+            }
+        },
+    ],
+    "wings": ["longbow_wing",],
+    "modules": [],
+}

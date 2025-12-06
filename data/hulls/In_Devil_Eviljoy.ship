@@ -1,0 +1,159 @@
+{
+    "hullName": "In_Devil_Eviljoy",
+    "hullId": "In_Devil_Eviljoy",
+    "hullSize": "FRIGATE",
+    "style": "RIE_WITCH",
+    "spriteName": "graphics/ships/Eviljoy.png",
+    "height": 70,
+    "width": 110,
+    "center": [
+        61.5, 28
+    ],
+    "collisionRadius": 55.5,
+    "coversColor": "",
+    "shieldCenter": [
+        2.5, 1
+    ],
+    "shieldRadius": 51.5,
+    "viewOffset": 0,
+    "builtInMods": [
+        "safetyoverrides",
+        "defensive_targeting_array",
+        "delicate",
+        "insulatedengine",
+        "advancedshieldemitter",
+		"evilintegration",
+        "auxiliarythrusters",
+        "bdeck",
+        "blast_doors",
+        "ringinterfereie",
+		"hardened_subsystems",
+        "ringinterfereelf",
+        "ringinterfererra",
+        "witch_emblem",
+        "ringintegration",
+        "iebaptism"
+    ],
+    "builtInWeapons": {
+        "WS 000": "WthC_starsnode_elementS_water",
+        "WS 001": "WthC_starsnode_elementS_water"
+    },
+    "builtInWings": [
+        "sarissa_wing"
+    ],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    19.5,    -11.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      13,    -11.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                     7.5,    -28.5
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      11,       31,
+                    13.5,     27.5,
+                      11,     27.5,
+                     8.5,     27.5,
+                     5.5,       27
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    12.5,       22
+            ]
+        },
+        {
+            "id": "LB 002",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     6.5,       31
+            ]
+        },
+        {
+            "id": "LB 003",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     6.5,     23.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -23.5, 25.5
+            ],
+            "length": 19,
+            "width": 13,
+            "angle": 179.5,
+            "contrailSize": 12,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -20.5, -20
+            ],
+            "length": 28,
+            "width": 18,
+            "angle": 179.5,
+            "contrailSize": 12,
+            "style": "RIE_WITCH"
+        }
+    ],
+    "bounds": [
+            16.5,    -31.5,
+               2,     18.5,
+            14.5,       25,
+            13.5,       31,
+           -17.5,       39,
+        
+             -11,      -29
+    ]
+}

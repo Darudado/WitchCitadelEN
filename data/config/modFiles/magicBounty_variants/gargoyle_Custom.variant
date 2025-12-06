@@ -1,0 +1,40 @@
+{
+  "variantId": "gargoyle_Custom",
+  "hullId": "gargoyle",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 20,
+  "fluxVents": 20,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "ringfog",
+    "ringinterferessoul",
+    "ringsup2",
+    "shadowremainie",
+    "comp_storage",
+    "comp_hull",
+    "comp_armor",
+    "comp_structure",
+    "damaged_deck",
+    "eccm",
+    "ecm",
+    "fluxdistributor",
+    "fluxbreakers",
+    "fluxcoil",
+    "hardenedshieldemitter",
+    "no_weapon_flux",
+    "solar_shielding"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 000": "realitydisruptor"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

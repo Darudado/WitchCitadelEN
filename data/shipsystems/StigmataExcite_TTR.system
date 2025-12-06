@@ -1,0 +1,18 @@
+{
+	"id":"StigmataExcite_TTR",
+	"type":"STAT_MOD",
+	"aiType":"WEAPON_BOOST",
+	
+	"statsScript":"data.shipsystems.StigmataExcite_TTR",
+	
+	"flameoutOnImpactChance":0,
+
+	"clampTurnRateAfter":true,
+	"clampMaxSpeedAfter":false,
+
+	
+	"useSound":"StigmataExciteOpen",
+	"loopSound":"system_plasma_burn_loop",
+	"outOfUsesSound":"engine_disabled",
+	"deactivateSound":"StigmataExciteEnd",
+}

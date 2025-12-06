@@ -1,0 +1,69 @@
+{
+    "displayName": "angel",
+    "fluxCapacitors": 27,
+    "fluxVents": 35,
+    "goalVariant": false,
+    "hullId": "WthC_champion_IE_B",
+    "hullMods": [
+        "crimsonmodificationdust",
+        "ringinterfererra",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "crimsonmodificationdust",
+        "ringinterfererra",
+    ],
+    "sMods": [
+        "crimsonmodificationdust",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_champion_IE_B_angel",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "plasma",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_gold",
+                "WS 003": "WthC_starsnode_elementS_gold",
+                "WS 000": "WthC_starsnode_elementS_gold",
+                "WS 001": "WthC_starsnode_elementS_gold",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "plasma",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "flak",
+                "WS 007": "flak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 011": "WthC_MicroNodeBeam",
+                "WS 010": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

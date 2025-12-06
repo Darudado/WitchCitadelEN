@@ -1,0 +1,43 @@
+{
+    "displayName": "Familiar",
+    "fluxCapacitors": 15,
+    "fluxVents": 11,
+    "goalVariant": true,
+    "hullId": "WthC_hyperion_SS_S",
+    "hullMods": [
+        "advancedoptics",
+        "extendedshieldemitter",
+        "fluxbreakers",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_hyperion_SS_S_Familiar",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_GKL_R",
+                "WS 001": "WthC_GKL_B",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0001": "WthC_starsnode_elementS_gold",
+                "WS0002": "WthC_starsnode_elementS_gold",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "phasecl",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

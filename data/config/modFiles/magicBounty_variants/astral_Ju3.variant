@@ -1,0 +1,76 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 38,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "astral",
+    "hullMods": [
+        "expanded_deck_crew",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "expanded_deck_crew",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "sMods": [
+        "expanded_deck_crew",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "astral_Ju3",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "gravitonbeam",
+                "WS 023": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 011": "pilum_large",
+                "WS 012": "pilum_large",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "lrpdlaser",
+                "WS 006": "lrpdlaser",
+                "WS 007": "lrpdlaser",
+                "WS 005": "lrpdlaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "lrpdlaser",
+                "WS 024": "lrpdlaser",
+            }
+        },
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+    ],
+    "modules": [],
+}

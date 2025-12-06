@@ -1,0 +1,49 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 20,
+    "fluxVents": 9,
+    "hullId": "valk_elysium",
+    "hullMods": [
+        "converted_hangar",
+        "targetingunit",
+        "fluxcoil",
+        "valk_peakfire"
+    ],
+    "permaMods": [
+        "converted_hangar",
+        "targetingunit"
+    ],
+    "sMods": [
+        "converted_hangar",
+        "targetingunit"
+    ],
+    "variantId": "elysium_novtry_2",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "gauss"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0007": "valk_spectre",
+                "WS0008": "valk_spectre"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_irpdcannon",
+                "WS0002": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0012": "valk_irpdcannon"
+            }
+        }
+    ],
+    "wings": ["wasp_wing"]
+}

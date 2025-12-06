@@ -1,0 +1,52 @@
+{
+  "variantId": "paragon_lryx",
+  "hullId": "paragon",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 50,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "auxiliarythrusters",
+    "eccm",
+    "hardenedshieldemitter",
+    "missleracks",
+    "ringfog",
+    "ringinterferedust",
+    "ringsup2",
+    "shadowremainssoul",
+    "unstable_injector",
+    "safetyoverrides",
+    "increased_maintenance",
+    "degraded_life_support",
+    "degraded_drive_field",
+    "damaged_deck",
+    "comp_hull",
+    "missile_reload"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 007": "sabotpod",
+        "WS 008": "sabotpod",
+        "WS 012": "atropos",
+        "WS 014": "atropos",
+        "WS 018": "atropos",
+        "WS 020": "atropos",
+        "WS 001": "cyclone",
+        "WS 002": "cyclone",
+        "WS 003": "cyclone",
+        "WS 004": "cyclone",
+        "WS 005": "sabotpod",
+        "WS 006": "sabotpod",
+        "WS 009": "sabotpod",
+        "WS 010": "sabotpod",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

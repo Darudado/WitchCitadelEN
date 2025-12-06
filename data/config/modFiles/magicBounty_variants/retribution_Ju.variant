@@ -1,0 +1,87 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "retribution",
+    "hullMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "advancedcore",
+        "ballistic_rangefinder",
+        "missile_autoloader",
+    ],
+    "permaMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "heavyarmor",
+    ],
+    "sMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "heavyarmor",
+    ],
+    "suppressedMods": [],
+    "variantId": "retribution_Ju",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "hellbore",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "gorgon",
+                "WS 009": "gorgon",
+                "WS 007": "gorgon",
+                "WS 020": "gorgon",
+                "WS 010": "gorgon",
+                "WS 021": "gorgon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "arbalest",
+                "WS 003": "arbalest",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "lightdualac",
+                "WS 013": "lightdualac",
+                "WS 014": "lightdualac",
+                "WS 011": "lightdualac",
+                "WS 012": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "devastator",
+                "WS 001": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "flak",
+                "WS 017": "vulcan",
+                "WS 005": "flak",
+                "WS 016": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

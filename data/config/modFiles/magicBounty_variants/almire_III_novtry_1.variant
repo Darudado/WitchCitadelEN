@@ -1,0 +1,73 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 26,
+    "hullId": "valk_almire_III",
+    "hullMods": [
+        "crimsonmodificationrra",
+        "fluxcoil",
+        "valk_skogulmodernization",
+        "targetingunit",
+        "hardenedshieldemitter",
+        "valk_fluxfog"
+    ],
+    "permaMods": [
+        "crimsonmodificationrra",
+        "fluxcoil",
+        "valk_skogulmodernization"
+    ],
+    "sMods": [
+        "crimsonmodificationrra",
+        "fluxcoil",
+        "valk_skogulmodernization"
+    ],
+    "variantId": "almire_III_novtry_1",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0022": "valk_imbc",
+                "WS0023": "valk_imbc",
+                "WS0024": "valk_imbc"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "reaper"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "valk_bcnn",
+                "WS0015": "valk_bcnn",
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "valk_irpdcannon",
+                "WS0003": "valk_irpdcannon",
+                "WS0004": "WthC_MicroNodeBeam",
+                "WS0005": "WthC_MicroNodeBeam",
+                "WS0006": "WthC_MicroNodeBeam",
+                "WS0007": "WthC_MicroNodeBeam",
+                "WS0008": "valk_irpdcannon",
+                "WS0009": "valk_irpdcannon",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0018": "valk_irpdcannon",
+                "WS0019": "valk_irpdcannon",
+                "WS0020": "valk_irpdcannon",
+                "WS0021": "valk_irpdcannon",
+                "WS0045": "valk_irpdcannon",
+                "WS0046": "valk_irpdcannon"
+            }
+        }
+    ]
+}

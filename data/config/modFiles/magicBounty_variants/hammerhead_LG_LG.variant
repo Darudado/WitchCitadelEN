@@ -1,0 +1,45 @@
+{
+    "displayName": "LG",
+    "fluxCapacitors": 17,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "hammerhead_LG",
+    "hullMods": [
+        "converted_hangar",
+        "hardenedshieldemitter",
+        "high_scatter_amp",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "converted_hangar",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "converted_hangar",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "hammerhead_LG_LG",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "phasebeam",
+                "WS 002": "phasebeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "sabot",
+                "WS 004": "sabot",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

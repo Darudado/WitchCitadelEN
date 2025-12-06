@@ -1,0 +1,38 @@
+{
+  "variantId": "monitor_lryx",
+  "hullId": "monitor",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 10,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "eccm",
+    "missleracks",
+    "ringfog",
+    "ringinterfererra",
+    "ringsup2",
+    "shadowremainie",
+    "missile_reload",
+    "malfunctioning_comms",
+    "increased_maintenance",
+    "destroyed_mounts",
+    "degraded_drive_field",
+    "degraded_life_support"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "flak",
+        "WS 002": "flak",
+        "WS 003": "atropos",
+        "WS 004": "atropos",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

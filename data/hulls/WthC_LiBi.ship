@@ -1,0 +1,76 @@
+{
+  "hullName": "WthC_LiBi",
+  "hullId": "WthC_LiBi",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/LiBi.png",
+  "style": "HIGH_TECH",
+  "height": 24,
+  "width": 24,
+  "center": [12, 11],
+  "collisionRadius": 16,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 16,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [-6, -6]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": -0,
+      "locations": [-6, 6]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [-0.5, 2.5]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": -0,
+      "locations": [-0.5, -2.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-10, 5],
+      "length": 24,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "OMEGA"
+    },
+    {
+      "location": [-10, -5],
+      "length": 24,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "OMEGA"
+    }
+  ],
+  "bounds": [
+    12, 3.5,
+    -6, 10,
+    -6, -9,
+    12, -3.5
+  ]
+}

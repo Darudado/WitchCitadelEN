@@ -1,0 +1,100 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 300,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "gryphon",
+    "hullMods": [
+        "ecm",
+        "nav_relay",
+        "crimsonmodificationssoul",
+        "hardenedshieldemitter",
+        "ringinterferecross",
+        "supercomputer",
+        "nav_relay",
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "missile_reload",
+        "armoredweapons",
+        "ecm",
+        "heavyarmor",
+        "reinforcedhull",
+        "ringie",
+        "ringsup",
+        "shadowremainssoul",
+        "autorepair",
+        "converted_hangar",
+        "crimsonmodificationie",
+        "hiressensors",
+        "ringfog",
+        "ringsup2",
+        "shadowremainrra",
+        "solar_shielding",
+        "advancedoptics",
+        "crimsonmodificationssoul",
+        "dedicated_targeting_core",
+        "escort_package",
+        "fluxbreakers",
+        "ringba",
+        "ringsup3",
+        "shadowremainie",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "gryphon_Custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "dragonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 011": "hydra",
+                "WS 012": "hydra",
+                "WS 010": "hydra",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "dragonpod",
+                "WS 009": "dragonpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_NewMoon",
+                "WS 003": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "dragon",
+                "WS 007": "dragon",
+                "WS 005": "dragon",
+            }
+        },
+    ],
+    "wings": [
+        "flash_wing",
+],
+    "modules": [],
+}

@@ -1,0 +1,54 @@
+{
+  "variantId": "pegasuss_lryx",
+  "hullId": "pegasuss",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 50,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "crimsonmodificationssoul",
+    "eccm",
+    "missleracks",
+    "ringfog",
+    "ringinterferedust",
+    "ringsup2",
+    "shadowremainie",
+    "unstable_injector",
+    "degraded_life_support",
+    "degraded_drive_field",
+	"no_weapon_flux",
+    "damaged_deck",
+    "comp_structure",
+    "comp_storage"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 008": "resonatormrm",
+        "WS 009": "resonatormrm",
+        "WS 010": "resonatormrm",
+        "WS 000": "rifttorpedo",
+        "WS 001": "rifttorpedo",
+        "WS 012": "rifttorpedo",
+        "WS 013": "rifttorpedo",
+        "WS 090": "rifttorpedo",
+        "WS 092": "rifttorpedo",
+        "WS 093": "rifttorpedo",
+        "WS 094": "rifttorpedo",
+        "WS 002": "resonatormrm",
+        "WS 003": "resonatormrm",
+        "WS 004": "resonatormrm",
+        "WS 005": "resonatormrm",
+        "WS 006": "resonatormrm",
+        "WS 007": "resonatormrm",
+        "WS 011": "resonatormrm",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

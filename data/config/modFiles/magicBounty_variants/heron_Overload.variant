@@ -1,0 +1,55 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 400,
+    "fluxVents": 80,
+    "goalVariant": false,
+    "hullId": "heron",
+    "hullMods": [
+        "advancedoptics",
+        "ringfog",
+        "ringinterferedust",
+        "supercomputer",
+        "ringsup2",
+        "nav_relay",
+        "shadowremainelf",
+        "targetingunit",
+        "missile_reload"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "heron_Custom",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_NewMoon",
+                "WS 003": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "dragonpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "dragon",
+                "WS 002": "dragon",
+                "WS 001": "dragon",
+                "WS 010": "dragon",
+            }
+        },
+    ],
+    "wings": [
+        "flash_wing",
+        "flash_wing",
+        "flash_wing",
+    ],
+    "modules": [],
+}

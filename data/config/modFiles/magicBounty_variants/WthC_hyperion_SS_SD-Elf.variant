@@ -1,0 +1,46 @@
+{
+    "displayName": "SD-Elf",
+    "fluxCapacitors": 15,
+    "fluxVents": 14,
+    "goalVariant": false,
+    "hullId": "WthC_hyperion_SS",
+    "hullMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "ringinterfererra",
+        "fluxbreakers",
+        "insulatedengine",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "ringinterfererra",
+    ],
+    "sMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_hyperion_SS_SD-Elf",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_element_water",
+                "WS 001": "WthC_starsnode_element_water",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

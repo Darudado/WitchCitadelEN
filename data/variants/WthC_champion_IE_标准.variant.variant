@@ -1,0 +1,66 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 35,
+    "fluxVents": 28,
+    "goalVariant": true,
+    "hullId": "WthC_champion_IE",
+    "hullMods": [
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_champion_IE_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_gold",
+                "WS 003": "WthC_starsnode_elementS_gold",
+                "WS 000": "WthC_starsnode_elementS_gold",
+                "WS 001": "WthC_starsnode_elementS_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "hveldriver",
+                "WS 007": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "WthC_Lumen",
+                "WS 010": "WthC_Lumen",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

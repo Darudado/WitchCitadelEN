@@ -1,0 +1,81 @@
+package data.campaign.archives.kingdom;
+
+import com.fs.starfarer.api.Global;
+import com.fs.starfarer.api.campaign.CampaignFleetAPI;
+import com.fs.starfarer.api.campaign.CargoTransferHandlerAPI;
+import com.fs.starfarer.api.campaign.SpecialItemData;
+import com.fs.starfarer.api.campaign.impl.items.BaseSpecialItemPlugin;
+import com.fs.starfarer.api.ui.TooltipMakerAPI;
+import com.fs.starfarer.api.util.Misc;
+import data.util.WthC_ColorData;
+import data.util.WthC_Util;
+
+// Stitched together from items like the Two-Faced God
+public class Data_Be_1 extends BaseSpecialItemPlugin{
+
+    public static final WthC_Util.I18nSection strings = WthC_Util.I18nSection.getInstance("items", "WthC_");
+
+    protected CampaignFleetAPI player_fleet;
+
+    @Override
+    public String getDesignType() {
+        return null;
+    }
+
+    @Override
+    public void createTooltip(TooltipMakerAPI tooltip, boolean expanded, CargoTransferHandlerAPI transferHandler, Object stackSource) {
+        float pad = 10f;
+        float padS = 2f;
+
+        tooltip.addTitle(getName());
+
+        String design = getDesignType();
+
+        if (design != null) {
+            Misc.addDesignTypePara(tooltip, design, 10f);
+        }
+
+        if (!spec.getDesc().isEmpty()) {
+            tooltip.addPara(spec.getDesc(), Misc.getTextColor(), pad);
+        }
+        tooltip.addPara("Pale Kingdom:", WthC_ColorData.MYSTERIOUS_PURPLE, pad);
+
+        tooltip.addPara("Except for the title, the text on the tablet has long since become illegible...", WthC_ColorData.B_WHITE, pad);
+
+        tooltip.addPara("It seems the writing contains language you cannot comprehend at all...", WthC_ColorData.B_WHITE, pad);
+
+        tooltip.addPara("Yet for some reason, the title remains remarkably clear and understandable...", WthC_ColorData.B_WHITE, pad);
+
+    }
+
+    @Override
+    public float getTooltipWidth() {
+        return super.getTooltipWidth();
+    }
+
+    @Override
+    public boolean isTooltipExpandable() {
+        return false;
+    }
+
+    @Override
+    public boolean hasRightClickAction() {
+        return true;
+    }
+
+    @Override
+    public boolean shouldRemoveOnRightClickAction() {
+        return true;
+    }
+
+    @Override
+    public void performRightClickAction() {
+        this.player_fleet = Global.getSector().getPlayerFleet();
+
+        player_fleet.getCargo().addSpecial(new SpecialItemData("Data_Be_2", "special_items"), 1.0F);
+
+        Global.getSoundPlayer().playUISound(getSpec().getSoundId(), 1f, 1f);
+        Global.getSector().getCampaignUI().getMessageDisplay().addMessage(
+                "You turned the page...");
+    }
+}

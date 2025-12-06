@@ -1,0 +1,56 @@
+{
+
+	"combatSmallForSmallFleet":{
+		"WthC_Centurion_SS_Standard":10,
+		"WthC_Brawler_SS_Standard":10,
+		"WthC_glimmer_SS_Standard":10,
+		"WthC_hyperion_SS_Standard":10,
+		"WthC_lumen_SS_Standard":10,
+		"WthC_monitor_SS_Standard":10,
+		"WthC_scarab_SS_Standard":10,
+		"WthC_whitebird_SS_Standard":10,
+
+	},
+
+	"combatSmall":{
+		"WthC_Centurion_SS_Standard":10,
+		"WthC_Brawler_SS_Standard":10,
+		"WthC_glimmer_SS_Standard":10,
+		"WthC_hyperion_SS_Standard":10,
+		"WthC_lumen_SS_Standard":10,
+		"WthC_monitor_SS_Standard":10,
+		"WthC_scarab_SS_Standard":10,
+		"WthC_whitebird_SS_Standard":10,
+
+	},
+	"combatMedium":{
+		"WthC_Falcon_IE_B_Standard":10,
+		"WthC_Falcon_IE_Standard":10,
+		"WthC_fury_IE_B_Standard":10,
+		"WthC_fury_IE_Standard":10,
+		"WthC_Medusa_SS_Standard":10,
+	},
+	"combatLarge":{
+		"WthC_champion_IE_B_Standard":10,
+		"WthC_champion_IE_Standard":10,
+		"WthC_irises_IE_Standard":10,
+		"WthC_Eagle_IE_B_Standard":10,
+		"WthC_Mora_IE_Standard":10,
+		"WthC_Mora_IE_B_Standard":10,
+		"WthC_dominator_IE_B_Standard":10,
+		"WthC_dominator_IE_Standard":10,
+		"WthC_Eagle_IE_Standard":10,
+		
+	},
+	"combatCapital":{
+		"WthC_Murderers_IE_Standard":10,
+		"WthC_Onslaught_IE_Standard":10,
+		"WthC_pegasus_IE_Standard":10,
+		"WthC_legion_IE_B_Standard":10,
+		"WthC_legion_IE_Standard":10,
+		"WthC_conquest_IE_Standard":10,
+		"WthC_Minerva_IE_Standard":10,
+		"WthC_Mithril_IE_Standard":10,
+	},
+
+}

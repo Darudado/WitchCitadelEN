@@ -1,0 +1,59 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 14,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "fulgent",
+    "hullMods": [
+        "eccm",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "frontemitter",
+        "ringinterferessoul",
+        "safetyoverrides",
+        "no_weapon_flux",
+        "missile_reload",
+        "fluxshunt",
+    ],
+    "permaMods": [
+        "eccm",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "eccm",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_fulgent",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "jackhammer",
+                "WS 004": "jackhammer",
+                "WS 001": "ionpulser",
+                "WS 009": "sabot",
+                "WS 010": "sabot",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "shockrepeater",
+                "WS 006": "shockrepeater",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

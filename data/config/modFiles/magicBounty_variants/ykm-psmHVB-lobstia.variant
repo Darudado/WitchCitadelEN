@@ -1,0 +1,58 @@
+{
+    "displayName": "打击",
+    "fluxCapacitors": 50,
+    "fluxVents": 12,
+    "hullId": "PSM_Lobstia",
+    "hullMods": [
+        "missleracks",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationcross",
+        "hardenedshieldemitter",
+        "converted_hangar",
+        "fluxbreakers",
+        "frontemitter",
+        "defective_manufactory",
+        "fragile_subsystems",
+        "faulty_auto",
+        "increased_maintenance",
+        "malfunctioning_comms",
+        "heavyarmor"
+    ],
+    "permaMods": [
+        "missleracks",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationcross"
+    ],
+    "sMods": [
+        "missleracks",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationcross"
+    ],
+    "variantId": "ykm-psmHVB-lobstia",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "PSM_hveldriver_TSM",
+                "WS0007": "PSM_hveldriver_TSM",
+                "WS0008": "hveldriver",
+                "WS0009": "hveldriver",
+                "WS0010": "PSM_lightmortar_TSM",
+                "WS0011": "PSM_lightmortar_TSM"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "PSM_devastator_TSM",
+                "WS0015": "PSM_devastator_TSM"
+            }
+        }
+    ],
+    "wings": ["PSM_P_blocker"]
+}

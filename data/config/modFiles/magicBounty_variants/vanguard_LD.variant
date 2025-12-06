@@ -1,0 +1,70 @@
+{
+    "displayName": "LD",
+    "fluxCapacitors": 0,
+    "fluxVents": 3,
+    "goalVariant": false,
+    "hullId": "vanguard",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "armoredweapons",
+        "autorepair",
+        "blast_doors",
+        "eccm",
+        "fluxbreakers",
+        "insulatedengine",
+        "reinforcedhull",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "vanguard_LD",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "hammer",
+                "WS 002": "hammer",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "lightdualac",
+                "WS 007": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "vulcan",
+                "WS 006": "lightdualac",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

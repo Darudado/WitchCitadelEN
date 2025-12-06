@@ -1,0 +1,29 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 47,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "prometheus",
+    "hullMods": [
+        "heavyarmor",
+        "reinforcedhull",
+        "armoredweapons",
+        "autorepair",
+        "converted_hangar",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "prometheus_Ju",
+    "weaponGroups": [],
+    "wings": [
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

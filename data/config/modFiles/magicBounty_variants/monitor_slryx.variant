@@ -1,0 +1,41 @@
+{
+  "variantId": "monitor_slryx",
+  "hullId": "monitor",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 50,
+  "fluxVents": 30,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "missleracks",
+    "ringfog",
+    "ringinterfereie",
+    "ringsup2",
+    "shadowremainssoul",
+    "degraded_drive_field",
+    "degraded_life_support",
+    "faulty_auto",
+    "glitched_sensors",
+    "increased_maintenance",
+	"no_weapon_flux",
+    "missile_reload",
+    "hardenedshieldemitter",
+    "hardened_subsystems",
+    "shield_always_on"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "flak",
+        "WS 002": "flak",
+        "WS 003": "amsrm",
+        "WS 004": "amsrm",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

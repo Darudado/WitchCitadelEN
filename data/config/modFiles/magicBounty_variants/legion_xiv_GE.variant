@@ -1,0 +1,75 @@
+{
+    "displayName": "GE",
+    "fluxCapacitors": 0,
+    "fluxVents": 12,
+    "goalVariant": false,
+    "hullId": "legion_xiv",
+    "hullMods": [
+        "heavyarmor",
+        "shield_shunt",
+        "armoredweapons",
+        "auxiliarythrusters",
+        "expanded_deck_crew",
+        "fluxbreakers",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "shield_shunt",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "shield_shunt",
+    ],
+    "suppressedMods": [],
+    "variantId": "legion_xiv_GE",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "lightneedler",
+                "WS 018": "lightneedler",
+                "WS 007": "lightneedler",
+                "WS 004": "lightneedler",
+                "WS 005": "lightneedler",
+                "WS 020": "lightneedler",
+                "WS 021": "lightneedler",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "cyclone",
+                "WS 001": "cyclone",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "mininglaser",
+                "WS 009": "mininglaser",
+                "WS 015": "mininglaser",
+                "WS 014": "mininglaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "dualflak",
+                "WS 003": "dualflak",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+        "broadsword_wing",
+        "broadsword_wing",
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

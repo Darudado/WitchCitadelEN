@@ -1,0 +1,19 @@
+{
+	"id":"forthrightmoon_shot",
+	"specClass":"projectile",
+	"onFireEffect":"data.weapons.onfire.SunMoonOnFireEffect",
+	"spawnType":"BALLISTIC",
+	"collisionClass":"PROJECTILE_FF",
+	"collisionClassByFighter":"PROJECTILE_FIGHTER",
+	"length":40.0,
+	"hitGlowRadius":40,
+	"width":10.5,
+	"fadeTime":0.15,
+	#"fringeColor":[255,155,125,255],
+	#"coreColor":[255,255,200,150],
+	"fringeColor":[179,185,141,235],
+	"coreColor":[238,241,198,150],	
+	"textureScrollSpeed":64.0,
+	"pixelsPerTexel":10.0,
+	"bulletSprite":"graphics/missiles/shell_large_green.png"
+}

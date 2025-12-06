@@ -1,0 +1,48 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 8,
+    "goalVariant": false,
+    "hullId": "prometheus",
+    "hullMods": [
+        "auxiliarythrusters",
+        "converted_hangar",
+        "insulatedengine",
+        "ringinterferedust",
+        "shield_shunt",
+        "shard_spawner",
+        "do_not_back_off",
+    ],
+    "permaMods": [
+        "assault_package",
+        "crimsonmodificationelf",
+        "militarized_subsystems",
+        "targetingunit",
+        "unstable_injector",
+    ],
+    "sMods": [
+        "assault_package",
+        "crimsonmodificationelf",
+        "militarized_subsystems",
+        "targetingunit",
+        "unstable_injector",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_prometheus",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "arbalest",
+                "WS 004": "lightmortar",
+                "WS 005": "lightmg",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+        "talon_wing",
+    ],
+    "modules": [],
+}

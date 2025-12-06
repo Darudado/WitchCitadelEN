@@ -1,0 +1,70 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 20,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "doom",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "phase_anchor",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "doom_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "typhoon",
+                "WS 002": "typhoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "WthC_CHB",
+                "WS 008": "WthC_CHB",
+                "WS 003": "lightneedler",
+                "WS 004": "lightneedler",
+                "WS 005": "lightneedler",
+                "WS 006": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 011": "WthC_MicroNodeBeam",
+                "WS 012": "WthC_MicroNodeBeam",
+                "WS 010": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

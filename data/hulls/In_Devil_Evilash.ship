@@ -1,0 +1,271 @@
+{
+    "hullName": "In_Devil_Evilash",
+    "hullId": "In_Devil_Evilash",
+    "hullSize": "CRUISER",
+    "style": "RIE_WITCH",
+    "spriteName": "graphics/ships/Evilash.png",
+    "height": 222,
+    "width": 162,
+    "center": [
+        67.5, 99
+    ],
+    "collisionRadius": 122,
+    "coversColor": "",
+    "shieldCenter": [
+        4, -2
+    ],
+    "shieldRadius": 114,
+    "viewOffset": 0,
+    "builtInMods": [
+        "iebaptism",
+        "ringinterfereelf",
+        "ringinterferecross",
+        "ringintegration",
+		"evilintegration",
+        "starssynchronous",
+        "blasstbaptism",
+        "witch_emblem",
+        "heavyequipmentintegration",
+        "crimsonmodificationelf",
+        "crimsonmodificationssoul"
+    ],
+    "builtInWeapons": {
+        "WS 007": "WthC_starsnode_element_fire",
+        "WS 001": "WthC_starsnode_element_fire"
+    },
+    "builtInWings": [
+        "WthC_SMS_wing",
+        "WthC_SMS_wing",
+        "WthC_RCH_wing"
+    ],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      96,     16.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      95,     -9.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                    46.5,      -66
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      26,        3
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                     -14,      -12
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 227,
+            "angle": 321.5,
+            "locations": [
+                     6.5,    -15.5
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 222,
+            "angle": 274.5,
+            "locations": [
+                     -16,      -36
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 233,
+            "locations": [
+                   -36.5,    -52.5
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                   -72.5,       13
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     -29,     43.5
+            ]
+        },
+        {
+            "id": "LB 001",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                   -34.5,       44
+            ]
+        },
+        {
+            "id": "LB 002",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     -40,       44
+            ]
+        },
+        {
+            "id": "LB 003",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     -35,     41.5,
+                   -30.5,       41,
+                     -32,     43.5,
+                     -38,     44.5,
+                     -39,     41.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -90, 55.5
+            ],
+            "length": 16.5,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -91, 45
+            ],
+            "length": 16.5,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -91, 33
+            ],
+            "length": 18,
+            "width": 8,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -93.5, 23.5
+            ],
+            "length": 21,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -95, 13
+            ],
+            "length": 22,
+            "width": 12,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "RIE_WITCH"
+        },
+        {
+            "location": [
+                -96, 2
+            ],
+            "length": 22.5,
+            "width": 13,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "LOW_TECH"
+        }
+    ],
+    "bounds": [
+              71,    -43.5,
+            85.5,     15.5,
+            61.5,       24,
+           -16.5,     44.5,
+             -79,       58,
+        
+             -82,      1.5,
+             -56,        6,
+           -26.5,        0,
+             -32,      -32,
+              -6,      -40,
+        
+              14,       -9,
+              42,      -26,
+              14,      -88
+    # 13 points total.
+    ]
+}

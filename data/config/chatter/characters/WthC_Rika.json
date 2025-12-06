@@ -1,0 +1,101 @@
+{
+   "name": "Rika",
+   "personalities": ["cautious", "steady", "precise", "aggressive"],
+   "gender": ["f"],
+   "chance": 0,
+   "talkativeness": 1.75,
+   "categoryTags": ["othermedia"],
+   
+   "lines": {
+       "start": [
+           {"text": "You're really passionate about this job..."},
+           {"text": "Ready to fight?"},
+           {"text": "I'm indeed better at handling war... but not as a warrior."},
+           {"text": "So... which ship are you on this time?"},
+           {"text": "I'll try to meet your expectations... probably."},
+           {"text": "Even light-years away, this warship and I are still in sync."},
+           {"text": "Fortunately, I don't hate this kind of killing that's like an electronic game..."}
+       ],
+       "start_boss": [
+           {"text": "Let me clarify... I'm several light-years away..."},
+           {"text": "Don't worry... you won't die, just end up half-dead at most."},
+           {"text": "Perhaps some people would be quite excited about this?"},
+           {"text": "How interesting... after all, neither of us will truly pay with our lives."},
+           {"text": "Anyway, there are no real living people on this ship..."}
+       ],
+       "retreat": [
+           {"text": "Is this really necessary? It's just another repair bill..."},
+           {"text": "I'll leave the rest to Eden..."},
+           {"text": "Are you sure you want a person far away to retreat?"},
+           {"text": "Looks like you're not as wealthy as I imagined?"},
+           {"text": "Preserving combat strength is the nature of Persean Sector inhabitants?"}
+       ],
+       "out_of_missiles": [
+           {"text": "This is why I would never join such a design..."},
+           {"text": "Ha... so these things were actually on this ship?"}
+       ],
+       "engaged": [
+           {"text": "Casualties on only one side is extremely unfair."},
+           {"text": "How nostalgic, reminiscing about developing destructive magic..."},
+           {"text": "Engagement confirmed... though I mostly play the role of a staff officer."},
+           {"text": "Hope your ship's weapons are more lethal than my magic."},
+           {"text": "Sadly... this seemingly life-or-death bloody exercise is just a game."}
+       ],
+       "need_help": [
+           {"text": "Ready to pay a repair bill? Maybe you can get reimbursement from Crimson City...?"},
+           {"text": "Every command comes with corresponding consequences... you should have known that long ago?"},
+           {"text": "Don't forget, being honored as the Primordial Witch doesn't mean I'm particularly good at remote control..."},
+           {"text": "Don't try to waste effort saving an unmanned ship, this is advice from the Primordial Witch."}
+       ],
+       "pursuing": [
+           {"text": "Usually, the battle ends just by me standing in place..."},
+           {"text": "Looks like even I need to move this time?"},
+           {"text": "If it were me, I'd prefer ending this cat-and-mouse game with long-range weapons."},
+           {"text": "Before a light lance, whether you move in a straight or curved line makes no practical difference."},
+           {"text": "Do you want to recover this ship... or should I just destroy it?"}
+       ],
+       "running": [
+           {"text": "Your ship seems more suited for this kind of thing."},
+           {"text": "I prefer defense over maneuverability... you know that."},
+           {"text": "Next time, you should find me a more solid ship..."},
+           {"text": "Your ship is slowly moving, while I'm just sitting in a chair, spacing out..."}
+       ],
+       "hull_90": [
+           {"text": "Normally, damage would already be tallied... too bad this ship is in my hands."},
+           {"text": "After the shield reaches critical point... taking some damage is only natural."},
+           {"text": "You must be curious how these damages get repaired without crew? Honestly, I'm not quite sure either..."}
+       ],
+       "hull_50": [
+           {"text": "Looks like there's no difference as long as the health bar isn't empty... really lacking realism."},
+           {"text": "Normally, combat capability should be declining at this point, right? Strange..."},
+           {"text": "Does this warship have any half-health berserk mechanism...? Probably not."},
+           {"text": "Things are getting interesting... would a normal person really say that?"}
+       ],
+       "hull_30": [
+           {"text": "Ha... hope you'll find me a more robust ship next time..."},
+           {"text": "Warships can't instantly recover damage."},
+           {"text": "Seems like the Persean Sector doesn't have any damage control magic..."},
+           {"text": "Maybe it's time for a cup of tea... the battle's almost over anyway."},
+           {"text": "Have you prepared a second unit? Probably not..."}
+       ],
+       "overload": [
+           {"text": "Feels a bit like an energy bar hitting rock bottom?"},
+           {"text": "Perhaps disappointing you... I don't actually feel anything substantial."},
+           {"text": "Though the Wraith link lets me merge with the ship, it doesn't mean I'll actually get electrocuted..."},
+           {"text": "Wonder if you have any weird hobbies?"}
+       ],
+       "death": [
+           {"text": "Dead. Are you satisfied?"},
+           {"text": "Now you should worry about yourself, after all, it's not me who'll get hurt..."},
+           {"text": "Don't worry... at least no one on this ship has insurance."},
+           {"text": "Eden told me your battlefield command scored zero."}
+       ],
+       "victory": [
+           {"text": "Opponent connection terminated."},
+           {"text": "Hope next time you'll find me at a less private moment..."},
+           {"text": "Eden? It's yours again..."},
+           {"text": "If I were directly commanding, it might have ended earlier."},
+           {"text": "Should I say you did well? At least for your skill level, it's acceptable."}
+       ]
+   }
+}

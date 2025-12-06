@@ -1,0 +1,62 @@
+{
+    "displayName": "Pri",
+    "fluxCapacitors": 0,
+    "fluxVents": 3,
+    "goalVariant": false,
+    "hullId": "vanguard_pirates",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "armoredweapons",
+        "autorepair",
+        "blast_doors",
+        "eccm",
+        "insulatedengine",
+        "reinforcedhull",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "vanguard_pirates_Pri",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "sabot",
+                "WS 002": "sabot",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "reaper",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "lightneedler",
+                "WS 007": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "vulcan",
+                "WS 006": "vulcan",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

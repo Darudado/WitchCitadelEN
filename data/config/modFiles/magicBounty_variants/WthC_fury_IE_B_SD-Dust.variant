@@ -1,0 +1,72 @@
+{
+    "displayName": "SD-Dust",
+    "fluxCapacitors": 35,
+    "fluxVents": 22,
+    "goalVariant": false,
+    "hullId": "WthC_fury_IE_B",
+    "hullMods": [
+        "crimsonmodificationdust",
+        "fogtransformed",
+        "ringinterferessoul",
+        "erosion1",
+        "erosion2",
+        "erosion3",
+        "erosion4",
+        "erosion5",
+        "fluxcoil",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "crimsonmodificationdust",
+        "fogtransformed",
+        "ringinterferessoul",
+        "erosion1",
+        "erosion2",
+        "erosion3",
+        "erosion4",
+        "erosion5",
+    ],
+    "sMods": [
+        "crimsonmodificationdust",
+        "fogtransformed",
+        "ringinterferessoul",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_fury_IE_B_SD-Dust",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "heavyneedler",
+                "WS0002": "heavyneedler",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "WthC_starsnode_elementS_fire",
+                "WS 005": "WthC_starsnode_elementS_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "heavyblaster",
+                "WS0004": "heavyblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

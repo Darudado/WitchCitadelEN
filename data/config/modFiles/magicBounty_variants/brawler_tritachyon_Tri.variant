@@ -1,0 +1,56 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 5,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "brawler_tritachyon",
+    "hullMods": [
+        "missleracks",
+        "stabilizedshieldemitter",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "missleracks",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "missleracks",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "brawler_tritachyon_Tri",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "ionpulser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "sabot",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "reaper",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "miningblaster",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

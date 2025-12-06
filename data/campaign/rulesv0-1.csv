@@ -1,0 +1,398 @@
+id,trigger,conditions,script,text,options,notes,
+,,,,,,,
+relLevelNeutralCC,RelationshipLevelDesc,"$faction.rel == NEUTRAL 
+$faction.id == Crimson_citadel",,"$theFaction is perhaps just a legend to you, or maybe you haven't yet begun further interactions with these otherworldly visitors.",,,
+relLevelFavorableCC,RelationshipLevelDesc,"$faction.rel == FAVORABLE
+$faction.id == Crimson_citadel",,It seems you've met the Crimson Lord and gained a sliver of recognition... but should your relationship remain at this level?,,,
+relLevelWelcomingCC,RelationshipLevelDesc,"$faction.rel == WELCOMING
+$faction.id == Crimson_citadel",,You've grown quite familiar with $theFaction. Stepping into these legends fills you with pride—at least you'll have more bragging rights among drunkards.,,,
+relLevelFriendlyCC,RelationshipLevelDesc,"$faction.rel == FRIENDLY
+$faction.id == Crimson_citadel",,"You know most of $theFaction's key figures, and the rest already know you. Interacting with these outsiders isn't as perilous as you once imagined.",,,
+relLevelCooperativeCC,RelationshipLevelDesc,"$faction.rel == COOPERATIVE
+$faction.id == Crimson_citadel",,"The Crimson Lord seems fond of you, short-lived human that you are. Perhaps after tiring of Perseus' conflicts, retiring in this isolated fortress wouldn't be a bad choice?",,,
+relLevelSuspiciousCC,RelationshipLevelDesc,"$faction.rel == SUSPICIOUS
+$faction.id == Crimson_citadel",,"Your fear of $theFaction has triggered a chain of adverse reactions. Fortunately, they don't seem inclined to pursue the matter.",,,
+relLevelInhospitableCC,RelationshipLevelDesc,"$faction.rel == INHOSPITABLE
+$faction.id == Crimson_citadel",,"Your fear of $theFaction has triggered a chain of adverse reactions. Fortunately, they don't seem inclined to pursue the matter.",,,
+relLevelHostileCC,RelationshipLevelDesc,"$faction.rel == HOSTILE
+$faction.id == Crimson_citadel",,"Your fear of $theFaction has triggered a chain of adverse reactions. Fortunately, they don't seem inclined to pursue the matter.",,,
+relLevelVengefulCC,RelationshipLevelDesc,"$faction.rel == VENGEFUL
+$faction.id == Crimson_citadel",,"Your fear of $theFaction has triggered a chain of adverse reactions. Fortunately, they don't seem inclined to pursue the matter.",,,
+,,,,,,,
+flavorTextMarketCrimson_citadel,TradePanelFlavorText,"$global.tradePanelMode == MARKET
+$faction.id == Crimson_citadel
+$market.id == Crimson_citadel score:100","AddText ""This place has almost no living beings except a few maids and men in suits. You start wondering how they maintain such vast space. The overly ornate decor feels alien to your pragmatic sensibilities, followed by an eerie emptiness."" marketFlavorTextColor
+AddText ""A massive bordered metal door looms at the corridor's end. A long-eared maid informs you it's the Crimson Vault, where the Crimson Lord casually stores her disinterested treasures."" marketFlavorTextColor",,,,
+,,,,,,,
+flavorTextMarketStarship_dust,TradePanelFlavorText,"$global.tradePanelMode == MARKET
+$faction.id == Crimson_citadel
+$market.id == Starship_dust score:100","AddText ""Even for a capital ship, its corridors are excessively wide. You encounter no crew—it seems stripped of combat capabilities, floating inertly as a makeshift habitat."" marketFlavorTextColor
+AddText ""Find who you need and leave quickly... unless you want to settle here..."" marketFlavorTextColor",,,,
+,,,,,,,
+flavorTextMarketStarship_lose,TradePanelFlavorText,"$global.tradePanelMode == MARKET
+$faction.id == Crimson_citadel
+$market.id == Starship_lose score:100","AddText ""Even for a capital ship, its corridors are excessively wide. You encounter no crew—it seems stripped of combat capabilities, floating inertly as a makeshift habitat."" marketFlavorTextColor
+AddText ""Resupply and depart. This wretched place has no one to talk to..."" marketFlavorTextColor",,,,
+,,,,,,,
+flavorTextMarketdark_world_w,TradePanelFlavorText,"$global.tradePanelMode == MARKET
+$faction.id == Pale_Phantom
+$market.id == dark_world_w score:100","AddText ""A scene like an ink painting unfolds. The space feels fragile, as if reality might rupture, yet the solid ground beneath anchors you."" marketFlavorTextColor
+AddText ""No one would linger here... resisting madness from reality's fractures demands formidable willpower."" marketFlavorTextColor",,,,
+,,,,,,,
+Hillya_TxT,PickGreeting,"$Hillya_Person score:100
+$rel <= 0.59","ShowPersonVisual
+SetTextHighlightColors LIGHT_CRIMSON
+SetTextHighlights ""\""Greetings... wanderer from another star...\""""","When you initiate contact, a white-haired noblewoman appears... Her strangeness makes you question if she's even human... 
+But upon closer inspection, it's just a recording—the woman mechanically repeats:
+""Greetings... wanderer from another star...""",cutCommLink:How tasteless...(Leave),,
+,,,,,,,
+Rika_TxT,PickGreeting,"$Rika_Person score:100
+$rel <= 0.4","ShowPersonVisual
+SetTextHighlightColors IE_WHITE
+SetTextHighlights ""\""Expected me to say something...?\""""","After your request, there's no response. Soon, a prerecorded video appears. 
+A white-haired woman in a witch-like hat dominates the frame. Her mature demeanor exudes reliability... but the clip ends abruptly:
+""Expected me to say something...?""",cutCommLink:She does fit the 'witch' image...(Leave),,
+,,,,,,,
+YouYu_TxT,PickGreeting,"$YouYu_Person score:100
+$rel <= 0.4","ShowPersonVisual
+SetTextHighlightColors DEEP_BLUE
+SetTextHighlights ""\""Apologies... our formal meeting must wait...\""""","After your request, a video appears. A black-haired girl in a blue-white hat captivates you—her beauty freezes time itself. The clip ends with:
+""Apologies... our formal meeting must wait...""",cutCommLink:Is this... enchantment magic...?(Leave),,
+,,,,,,,
+NeiZer_TxT,PickGreeting,"$Neizer_Person score:100
+$rel <= 0.4","ShowPersonVisual
+SetTextHighlightColors DUST_RED
+SetTextHighlights ""\""You shall go no further... mortal...\""""","A prerecorded video shows a fiery-haired woman radiating danger. Her warning echoes:
+""You shall go no further... mortal...""",cutCommLink:A chill runs down your spine...(Leave),,
+,,,,,,,
+Eden_TxT,PickGreeting,"$Eden_Person score:100
+$rel <= 0.4","ShowPersonVisual
+SetTextHighlightColors EIF_ORANGE
+SetTextHighlights ""\""Please don't feed them...(transmission ends)\""""","A hooded brunette girl appears surrounded by fluffy pets. The clip cuts abruptly:
+""Please don't feed them...(transmission ends)""",cutCommLink:They... feed who?(Leave),,
+,,,,,,,
+Su_TxT,PickGreeting,"$Su_Person score:100
+$rel <= 0.4","ShowPersonVisual
+SetTextHighlightColors SOUL_GREEN
+SetTextHighlights ""\""Would you embrace death shrouded in darkness?\""""","A crown-wearing spectral woman materializes—her form flickers with soulfire. Her question lingers:
+""Would you embrace death not shrouded in darkness?""",cutCommLink:Did I... see a ghost?(Leave),,
+,,,,,,,
+Rosalia_TxT,PickGreeting,"$Rosalia_Person score:100
+$rel <= 0.4","ShowPersonVisual
+SetTextHighlightColors CROSS_GARY
+SetTextHighlights ""\""Offer your purest self to the divine... or to me...\""""","A towering holy woman radiates sacred light, yet subtle corruption seeps through:
+""Offer your purest self to the divine... or to me...""",cutCommLink:Such... generosity...(Leave),,
+,,,,,,,
+Rosalia_TxT2,PickGreeting,"$Rosalia_Person score:100
+$rel > 0.4","ShowPersonVisual
+FireAll RosaliaTrigger 
+SetTextHighlightColors CROSS_GARY
+SetTextHighlights ""\""Come to hear holy words, lost lamb? Hmm... seems not~\""""","The Cross Witch appears fully now, her presence overwhelming:
+""Come to hear holy words, lost lamb? Hmm... seems not~""",,,
+Rosalia_Option1,RosaliaTrigger,,,,Rosaliatalk1:Did you truly kill so many?,,
+Rosalia_Option2,RosaliaTrigger,,,,Rosaliatalk2:Which religion do you follow?,,
+Rosalia_Option3,RosaliaTrigger,,,,Rosaliatalk3:Why such... generous proportions?(Literally),,
+Rosalia_Option4,RosaliaTrigger,,,,Rosaliatalk4:Care to share 'holy words'?,,
+Rosalia_OptionLeave,RosaliaTrigger,,,,defaultLeave:What a peculiar being...(Leave),,
+Rosalia_Option1Text,DialogOptionSelected,$option == Rosaliatalk1,"FireAll RosaliaTrigger
+SetTextHighlightColors CROSS_GARY
+SetTextHighlights ""\""Not just humans~ But trust that Elis is never wrong—as you should trust me~\"""" ""\""You're doubting my trustworthiness, aren't you?\"""" ""\""Or why I lack solemnity?\"""" ""\""Hmm... Be less predictable, Persean.\"""" ""\""Rest assured—I can't read minds through screens.\""""","""Not just humans~ But trust that Elis is never wrong—as you should trust me~"" 
+Seriously... that kill count in the records seems fabricated. 
+Do I truly trust her? This sacred apparence may be a front, it does seem frivolous... 
+
+""You're doubting my trustworthiness, aren't you?"" 
+""Or why I lack solemnity?"" 
+
+......Got it. 
+She must have mind-reading magic. 
+
+""Hmm... Be less predictable, Persean."" 
+""Rest assured—I can't read minds through screens."" 
+
+So... face-to-face it works?",,,
+Rosalia_Option2Text,DialogOptionSelected,$option == Rosaliatalk2,"FireAll RosaliaTrigger
+SetTextHighlightColors CROSS_GARY
+SetTextHighlights ""\""I mastered all theologies in human history... but faith is another matter~\"""" ""\""You know... most divine doctrines come with troublesome rules...\"""" ""\""Would a being like me believe such contradictions?\"""" ""\""Yet humans cling to faith wherever they go~\"""" ""\""Whose cross shall I become this time?\""""","""I mastered all theologies in human history... but faith is another matter~"" 
+""You know... most divine doctrines come with troublesome rules..."" 
+""Would a being like me believe such contradictions?"" 
+
+So... she's a self-serving historical villain. 
+
+""Yet humans cling to faith wherever they go~"" 
+""Whose cross shall I become this time?"" 
+
+...... 
+First time sympathizing with Luddic faithfuls...",,,
+Rosalia_Option3Text,DialogOptionSelected,$option == Rosaliatalk3,"FireAll RosaliaTrigger
+SetTextHighlightColors CROSS_GARY
+SetTextHighlights ""\""Hmm... All witches beautify themselves...\"""" ""\""But perhaps my human form was more appealing~\"""" ""\""Size-wise... they were larger then?\"""" ""\""Even if it ruined proportions... men adore that, no?\""""","""Hmm... All witches beautify themselves..."" 
+""But perhaps my human form was more appealing~"" 
+
+So supernatural changes caused her stature? 
+Such proportions would strain even Persean biology... 
+
+""Size-wise... they were larger then?"" 
+""Even if it ruined proportions... men adore that, no?"" 
+
+...... 
+Were you even human before?",,,
+Rosalia_Option4Text,DialogOptionSelected,$option == Rosaliatalk4,"FireAll RosaliaTrigger
+SetTextHighlightColors CROSS_GARY
+SetTextHighlights ""\""You wouldn't want to join the faithful, would you?\"""" ""\""Even if I can't read your mind through screens...\"""" ""\""I can still plant suggestions...\"""" ""\""Ready to begin?\""""","""You wouldn't want to join the  faithful, would you?"" 
+""Even if I can't read your mind through screens..."" 
+""I can still plant suggestions..."" 
+""Ready to begin?"" 
+
+...... 
+I decline.",,,
+,,,,,,,
+Su_TxT2,PickGreeting,"$Su_Person score:100
+$rel > 0.4","ShowPersonVisual
+FireAll SuTrigger 
+SetTextHighlightColors SOUL_GREEN
+SetTextHighlights ""\""Speak... what past shall I recount?\""""","The Soul Witch materializes clearly now, her ionized form transcendent:
+""Speak... what past shall I recount?""",,,
+SuOption1,SuTrigger,,,,Sutalk1:Are you... a ghost?,,
+SuOption2,SuTrigger,,,,Sutalk2:Is reincarnation real?,,
+SuOption3,SuTrigger,,,,Sutalk3:Are we in the same dimension?,,
+SuOption4,SuTrigger,,,,Sutalk4:How many 'Gap Realms' exist?,,
+SuOptionLeave,SuTrigger,,,,defaultLeave:This feels... heavy...(Leave),,
+SuOption1Text,DialogOptionSelected,$option == Sutalk1,"FireAll SuTrigger
+SetTextHighlightColors SOUL_GREEN
+SetTextHighlights ""\""Even as Realm's ruler, I remain bound...\"""" ""\""My flesh perished... but duty persists...\"""" ""\""Stellar energy sustains this form...\"""" ""\""What you see is past... and future...\""""","""Even as Realm's ruler, I remain bound..."" 
+""My flesh perished... but duty persists..."" 
+""Stellar energy sustains this form..."" 
+""What you see is past... and future..."" 
+
+...... 
+This will be a long tale...?",,,
+SuOption2Text,DialogOptionSelected,$option == Sutalk2,"FireAll SuTrigger
+SetTextHighlightColors SOUL_GREEN
+SetTextHighlights ""\""For you... this fate is possible.\"""" ""\""For most, it's a fleeting dream...\"""" ""\""Existed... exists... persists...\"""" ""\""Fear not... face it...\""""","""For you... this fate is possible."" 
+""For most, it's a fleeting dream..."" 
+""Existed... exists... persists..."" 
+""Fear not... face it..."" 
+
+...... 
+Some wish for death... others a fresh start?",,,
+SuOption3Text,DialogOptionSelected,$option == Sutalk3,"FireAll SuTrigger
+SetTextHighlightColors SOUL_GREEN
+SetTextHighlights ""\""Only she shatters dimensional chains...\"""" ""\""We boundary-crossers are barely mirages...\"""" ""\""This realm remains tangible...\"""" ""\""But looking back... all becomes illusion...\""""","""Only she shatters dimensional chains..."" 
+""We boundary-crossers are barely mirages..."" 
+""This realm remains tangible..."" 
+""But looking back... all becomes illusion..."" 
+
+...... 
+Grateful to be alive...",,,
+SuOption4Text,DialogOptionSelected,$option == Sutalk4,"FireAll SuTrigger
+SetTextHighlightColors SOUL_GREEN
+SetTextHighlights ""\""Countless... yet few isolated realms...\"""" ""\""Beyond tangible reality...\"""" ""\""All soul-bound voids are Gap Realms...\""""","""Countless... yet few isolated realms..."" 
+""Are a tangible reality..."" 
+""All soul-bound voids are Gap Realms..."" 
+
+...... 
+Guess I live in my own Gap Realm?",,,
+,,,,,,,
+Eden_TxT2,PickGreeting,"$Eden_Person score:100
+$rel > 0.4","ShowPersonVisual
+FireAll EdenTrigger 
+SetTextHighlightColors EIF_ORANGE
+SetTextHighlights ""\""Bringing treats?\""""","The Spirit Witch slouches lazily:
+""Bringing treats?""
+",,,
+EdenOption1,EdenTrigger,,,,Edentalk1:Why dress so cutely?,,
+EdenOption2,EdenTrigger,,,,Edentalk2:Why act childlike?,,
+EdenOption3,EdenTrigger,,,,Edentalk3:What were you like before?,,
+EdenOption4,EdenTrigger,,,,Edentalk4:Do you even need food?,,
+EdenOptionLeave,EdenTrigger,,,,defaultLeave:I don't like lolis...(Leave),,
+EdenOption1Text,DialogOptionSelected,$option == Edentalk1,"FireAll EdenTrigger
+SetTextHighlightColors EIF_ORANGE
+SetTextHighlights ""\""Historical reasons... now just habit?\"""" ""\""No temperature issues... no laundry needed.\"""" ""\""Why care about human concerns?\"""" ""\""It's cute, no?\""""","""Historical reasons... now just habit?"" 
+""No temperature issues... no laundry needed."" 
+""Why care about human concerns?"" 
+""It's cute, no?"" 
+
+Certain fetishists might prefer it...",,,
+EdenOption2Text,DialogOptionSelected,$option == Edentalk2,"FireAll EdenTrigger
+SetTextHighlightColors EIF_ORANGE
+SetTextHighlights ""\""...Effective, no?\"""" ""\""Humans adore this... incredibly so.\"""" ""\""Maybe mature partners gave them despair?\"""" ""\""Would you date a loli?\"""" ""\""Hey... listening?\""""","""...Effective, no?"" 
+""Humans adore this... incredibly so."" 
+""Maybe mature partners gave them despair?"" 
+""Would you date a loli?"" 
+""Hey... listening?"" 
+
+...... 
+Still immoral... I hope she's actually ancient.",,,
+EdenOption3Text,DialogOptionSelected,$option == Edentalk3,"FireAll EdenTrigger
+SetTextHighlightColors EIF_ORANGE
+SetTextHighlights ""\""Not much different...\"""" ""\""Myths paint me as a butcher...\"""" ""\""Only aesthetics changed...\"""" ""\""Hillya tried retro designs...\"""" ""\""Now cuter prevails...\""""","""Not much different..."" 
+""Myths paint me as a butcher..."" 
+""Only aesthetics changed..."" 
+""Hillya tried retro designs..."" 
+""Now cuter prevails..."" 
+
+Odd choices... after all the others aren't lolis?",,,
+EdenOption4Text,DialogOptionSelected,$option == Edentalk4,"FireAll EdenTrigger
+SetTextHighlightColors EIF_ORANGE
+SetTextHighlights ""\""Of course~ They eat quickly...\"""" ""\""I released them on the planetside... rarely feed them now.\"""" ""\""Bring me snacks instead...\"""" ""\""I'm interested in Persean cuisine...\""""","""Of course~ They eat quickly..."" 
+""I released them on the planetside... rarely feed them now."" 
+""Bring me snacks instead..."" 
+""I'm interested in Persean cuisine...""",,,
+,,,,,,,
+Neizer_TxT2,PickGreeting,"$Neizer_Person score:100
+$rel > 0.4","ShowPersonVisual
+FireAll NeizerTrigger
+SetTextHighlightColors DUST_RED
+SetTextHighlights ""\""State your purpose... mortal?\""""","A burning silhouette flickers on-screen:
+""State your purpose... mortal?""
+",,,
+NeizerOption1,NeizerTrigger,,,,Neizertalk1:Why the poor signal?,,
+NeizerOption2,NeizerTrigger,,,,Neizertalk2:Can we meet in person?,,
+NeizerOption3,NeizerTrigger,,,,Neizertalk3:Are you truly that powerful?,,
+NeizerOption4,NeizerTrigger,,,,Neizertalk4:How do you research like this?,,
+NeizerOptionLeave,NeizerTrigger,,,,defaultLeave:Unnerving...(Leave),,
+NeizerOption1Text,DialogOptionSelected,$option == Neizertalk1,"""Radiation disrupts electronics...""
+Static-filled audio confirms her point...","""Radiation disrupts electronics...""
+
+Static-filled audio confirms her point...",,,
+NeizerOption2Text,DialogOptionSelected,$option == Neizertalk2,"FireAll NeizerTrigger
+SetTextHighlightColors DUST_RED
+SetTextHighlights ""\""...Unless prepared to die...\""""","""...Unless prepared to die...""
+
+No malice detected—just lethal radiation.",,,
+NeizerOption3Text,DialogOptionSelected,$option == Neizertalk3,"FireAll NeizerTrigger
+SetTextHighlightColors DUST_RED
+SetTextHighlights ""\""Test me with your blade... mortal?\""""","""Test me with your blade... mortal?""
+
+A fleet might fare better... but still lose.",,,
+NeizerOption4Text,DialogOptionSelected,$option == Neizertalk4,"FireAll NeizerTrigger
+SetTextHighlightColors DUST_RED
+SetTextHighlights ""\""...This era needs no hands-on work...\""""","""...This era needs no hands-on work...""
+
+Like AI cores...
+",,,
+,,,,,,,
+YouYu_TxT2,PickGreeting,"$YouYu_Person score:100
+$rel > 0.4","ShowPersonVisual
+FireAll YouYuTrigger 
+SetTextHighlightColors DEEP_BLUE
+SetTextHighlights ""\""Greetings~ How may Crimson Citadel assist?\""""","The Azure Witch greets gracefully:
+""Greetings~ How may Crimson Citadel assist?""
+",,,
+YouYuOption1,YouYuTrigger,,,,YouYutalk1:May I see your true form?,,
+YouYuOption2,YouYuTrigger,,,,YouYutalk2:Do you have male friends?,,
+YouYuOption3,YouYuTrigger,,,,YouYutalk3:Are you... an angel?,,
+YouYuOption4,YouYuTrigger,,,,YouYutalk4:Why so kind to humans?,,
+YouYuOptionLeave,YouYuTrigger,,,,defaultLeave:A shame...(Leave),,
+YouYuOption1Text,DialogOptionSelected,$option == YouYutalk1,"FireAll YouYuTrigger
+SetTextHighlightColors DEEP_BLUE
+SetTextHighlights ""\""Certainly... but Rika needs me...\"""" ""\""My schedule is booked for a year...\"""" ""\""Unexpected popularity...\""""",Clearly an excuse.,,,
+YouYuOption2Text,DialogOptionSelected,$option == YouYutalk2,"FireAll YouYuTrigger
+SetTextHighlightColors DEEP_BLUE
+SetTextHighlights ""\""Many heroes... respected me...\"""" ""\""Few survive today...\"""" ""\""Mortality claims even the strong...\""""",She misses the point... intentionally?,,,
+YouYuOption3Text,DialogOptionSelected,$option == YouYutalk3,"FireAll YouYuTrigger
+SetTextHighlightColors DEEP_BLUE
+SetTextHighlights ""\""Winged beings? No...\"""" ""\""Most call me witch... or odd human...\"""" ""\""Apologies... I ramble...\""""",Her purity is her charm.,,,
+YouYuOption4Text,DialogOptionSelected,$option == YouYutalk4,"FireAll YouYuTrigger
+SetTextHighlightColors DEEP_BLUE
+SetTextHighlights ""\""No reason for hostility...\"""" ""\""Even in Perseus' chaos... all are welcome...\""""",My instincts warn against pushing further...,,,
+,,,,,,,
+Rika_TxT2,PickGreeting,"$Rika_Person score:100
+$rel > 0.4","ShowPersonVisual
+FireAll RikaTrigger
+SetTextHighlightColors IE_WHITE
+SetTextHighlights ""\""What do you seek... chosen one?\""""","The Primordial Witch glances up from her work:
+""What do you seek... chosen one?""
+",,,
+RikaOption1,RikaTrigger,,,,Rikatalk1:Why only you look 'witchy'?,,
+RikaOption2,RikaTrigger,,,,Rikatalk2:How to master space tech?,,
+RikaOption3,RikaTrigger,,,,Rikatalk3:Infinite resources?,,
+RikaOption4,RikaTrigger,,,,Rikatalk4:Why the fake black hole?,,
+RikaOptionLeave,RikaTrigger,,,,defaultLeave:At least she's sane...(Leave),,
+RikaOption1Text,DialogOptionSelected,$option == Rikatalk1,"FireAll RikaTrigger
+SetTextHighlightColors IE_WHITE
+SetTextHighlights ""\""Witch is just a label...\"""" ""\""Any immortal woman with supernatural powers is a witch...\"""" ""\""That kind of appearance is just your stereotype...\""""","""Witch is just a label...""
+""Any immortal woman with supernatural powers is a witch...""
+""That kind of appearance is just your stereotype...""
+
+Need to check Persean lore...",,,
+RikaOption2Text,DialogOptionSelected,$option == Rikatalk2,"FireAll RikaTrigger
+SetTextHighlightColors IE_WHITE
+SetTextHighlights ""\""Live from medieval times...\"""" ""\""With a super AI... and curiosity...\"""" ""\""Talent, not luck...\""""",Confident genius... rightly so.,,,
+RikaOption3Text,DialogOptionSelected,$option == Rikatalk3,"FireAll RikaTrigger
+SetTextHighlightColors IE_WHITE
+SetTextHighlights ""\""Blame the universe...\"""" ""\""Survival ceased being an issue...\"""" ""\""No interest in conquest...\""""",Retiring here sounds nice...,,,
+RikaOption4Text,DialogOptionSelected,$option == Rikatalk4,"FireAll RikaTrigger
+SetTextHighlightColors IE_WHITE
+SetTextHighlights ""\""A deterrent...\"""" ""\""Did you feel the event horizon?\""""",Fake black holes? Why not conquer the galaxy?,,,
+,,,,,,,
+Hillya_TxT2,PickGreeting,"$Hillya_Person score:100
+$rel > 0.59","ShowPersonVisual
+FireAll HillyaTrigger
+SetTextHighlightColors LIGHT_CRIMSON
+SetTextHighlights ""\""Such crude audience... uncivilized...\""""","The Crimson Lord smirks mockingly:
+""Such crude audience... uncivilized...""
+",,,
+HillyaOption1,HillyaTrigger,,,,Hillyatalk1:Another prank?,,
+HillyaOption2,HillyaTrigger,,,,Hillyatalk2:What's 'Crimson' mean?,,
+HillyaOption3,HillyaTrigger,,,,Hillyatalk3:Be serious!,,
+HillyaOption4,HillyaTrigger,,,,Hillyatalk4:Any limits?,,
+HillyaOptionLeave,HillyaTrigger,,,,defaultLeave:Enough...(Leave),,
+HillyaOption1Text,DialogOptionSelected,$option == Hillyatalk1,"FireAll HillyaTrigger
+SetTextHighlightColors LIGHT_CRIMSON
+SetTextHighlights ""\""Flattered? Or think me a true queen?\"""" ""\""What if I am?\""""",...Glad I'm not her subject.,,,
+HillyaOption2Text,DialogOptionSelected,$option == Hillyatalk2,"FireAll HillyaTrigger
+SetTextHighlightColors LIGHT_CRIMSON
+SetTextHighlights ""\""A deep tale... first, it's a cool color?\"""" ""\""Don't you agree?\""""",...That's it?,,,
+HillyaOption3Text,DialogOptionSelected,$option == Hillyatalk3,"FireAll HillyaTrigger
+SetTextHighlightColors LIGHT_CRIMSON
+SetTextHighlights ""\""Very well... lowly being...\"""" ""\""What gifts bring you...\"""" ""\""Prove your worth!\""""",Regret asking...,,,
+HillyaOption4Text,DialogOptionSelected,$option == Hillyatalk4,"FireAll HillyaTrigger
+SetTextHighlightColors LIGHT_CRIMSON
+SetTextHighlights ""\""Not omnipotent...\"""" ""\""Stealing your heart?\"""" ""\""Joking~ Physically easy...\""""",Almost drew my PDW...,,,
+,,,,,,,
+Romena_TxT,PickGreeting,"$Romena_Person score:100
+$rel < 0.59","ShowPersonVisual
+FireAll RomenaTrigger
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""You return... to this shadowed kingdom...\""""",A corrupted angel appears: You return... to this shadowed kingdom...,,,
+RomenaOption1,RomenaTrigger,,,,Romenatalk1:Necessary sacrifices?,,
+RomenaOption2,RomenaTrigger,,,,Romenatalk2:What is this place?,,
+RomenaOption3,RomenaTrigger,,,,Romenatalk3:Their leader?,,
+RomenaOption4,RomenaTrigger,,,,Romenatalk4:Stop riddles!,,
+RomenaOptionLeave,RomenaTrigger,,,,defaultLeave:Can't stand enigmas...(Leave),,
+RomenaOption1Text,DialogOptionSelected,$option == Romenatalk1,"FireAll RomenaTrigger
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""Countless sacrifices... for eternal prosperity...\""""",Dark kingdom...?,,,
+RomenaOption2Text,DialogOptionSelected,$option == Romenatalk2,"FireAll RomenaTrigger
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""A prison for souls...\""""",Soul prison...?,,,
+RomenaOption3Text,DialogOptionSelected,$option == Romenatalk3,"FireAll RomenaTrigger
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""Exiles' kinship...\""""",Exiles...?,,,
+RomenaOption4Text,DialogOptionSelected,$option == Romenatalk4,"FireAll RomenaTrigger
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""Normalcy... correctness... determined by none...\""""",By whom then?,,,
+,,,,,,,
+Romena_TxT2,PickGreeting,"$Romena_Person score:100
+$rel > 0.89","ShowPersonVisual
+FireAll RomenaTriggerEx
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""You return... though this realm is no longer mine...\""""",The Pale King speaks plainly now: You return... though this realm is no longer mine...,,,
+RomenaOptionEx1,RomenaTriggerEx,,,,RomenatalkEx1:Was it always this abstract?,,
+RomenaOptionEx2,RomenaTriggerEx,,,,RomenatalkEx2:Connection to winged ones?,,
+RomenaOptionEx3,RomenaTriggerEx,,,,RomenatalkEx3:Crimson demons your people?,,
+RomenaOptionEx4,RomenaTriggerEx,,,,RomenatalkEx4:Still desire kingship?,,
+RomenaOptionExLeave,RomenaTriggerEx,,,,defaultLeave:Civil conversation...(Leave),,
+RomenaOptionEx1Text,DialogOptionSelected,$option == RomenatalkEx1,"FireAll RomenaTriggerEx
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""A shadow construct...\"""" ""\""Soul Witch trapped me...\"""" ""\""Recreated my city...\""""",Ghostly world-building...,,,
+RomenaOptionEx2Text,DialogOptionSelected,$option == RomenatalkEx2,"FireAll RomenaTriggerEx
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""Shared persecution...\"""" ""\""They pledged loyalty...\"""" ""\""War ended my reign...\""""",Ancient Earth history?,,,
+RomenaOptionEx3Text,DialogOptionSelected,$option == RomenatalkEx3,"FireAll RomenaTriggerEx
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""Survivors...\"""" ""\""Crimson Lord's quirks helped...\"""" ""\""Others scattered...\""""",Familiar plight...,,,
+RomenaOptionEx4Text,DialogOptionSelected,$option == RomenatalkEx4,"FireAll RomenaTriggerEx
+SetTextHighlightColors B_WHITE
+SetTextHighlights ""\""Lovain perished... my role ended...\"""" ""\""A spectral symbol now...\""""",Poetic...,,,

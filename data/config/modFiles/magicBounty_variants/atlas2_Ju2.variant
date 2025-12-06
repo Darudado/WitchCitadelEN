@@ -1,0 +1,50 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 33,
+    "goalVariant": false,
+    "hullId": "atlas2",
+    "hullMods": [
+        "targetingunit",
+        "converted_hangar",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "targetingunit",
+    ],
+    "sMods": [
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "atlas2_Ju2",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "gauss",
+                "WS 009": "gauss",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 013": "pilum_large",
+                "WS 012": "pilum_large",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "flak",
+                "WS 014": "flak",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

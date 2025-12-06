@@ -1,0 +1,49 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "colossus3",
+    "hullMods": [
+        "ecm",
+        "nav_relay",
+        "escort_package",
+    ],
+    "permaMods": [
+        "ecm",
+        "nav_relay",
+    ],
+    "sMods": [
+        "ecm",
+        "nav_relay",
+    ],
+    "suppressedMods": [],
+    "variantId": "colossus3_Tri",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "lightac",
+                "WS 011": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "mininglaser",
+                "WS 016": "mininglaser",
+                "WS 001": "mininglaser",
+                "WS 003": "mininglaser",
+                "WS 014": "mininglaser",
+                "WS 013": "mininglaser",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

@@ -1,0 +1,31 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "gargoyle",
+    "hullMods": [
+        "ringba",
+        "ringinterfereie",
+        "ringsup3",
+        "nav_relay",
+        "targetingunit",
+        "autorepair",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "gargoyle_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_NewMoon",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

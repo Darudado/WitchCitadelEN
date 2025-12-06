@@ -1,0 +1,50 @@
+{
+    "displayName": "angel",
+    "fluxCapacitors": 3,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "shard_left",
+    "hullMods": [
+        "fluxcoil",
+        "frontemitter",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "frontemitter",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "frontemitter",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "shard_left_angel",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "cryoblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "shockrepeater",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "riftlance",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

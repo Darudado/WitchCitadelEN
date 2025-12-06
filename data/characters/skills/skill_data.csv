@@ -1,0 +1,139 @@
+id,name,order,tier,reqPoints,reqPointsPerExtraSkill,description,author,combat officer,admiral,admin,tags,icon,,
+# COMBAT,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+WitchDust,Oath of Stardust Shattering,1.2,5,0,,"Perhaps one day, she will grow powerful enough to shatter the dazzling stars with her own hands, along with her own eternally burning life. When that time comes... only dust shall remain in the cosmos.",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_Dust_Skills.png,,
+,,,,,,,,,,,,,,
+WitchIE,Primordial Rite,1.1,5,0,,"When you comprehend the heavens above and the earth below, mastering all worldly knowledge, choosing inaction becomes the lifestyle requiring greatest courage. 
+
+But who truly hides behind the titles of 'First', 'Strongest', 'Most Ancient', and endless glorious epithets?
+Just a little girl who loves fantasies.",-Crimson Lord Silvia Crimson,TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_IE_Skills.png,,
+,,,,,,,,,,,,,,
+WitchSSoul,Sole Claimant of Ten Thousand Rifts,1.1,5,0,,"If nothing remains after death, then life itself holds no meaning.
+So... do you enjoy this death that's not entirely darkness?",-Soul Witch Su,TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_SSoul_Skills.png,,
+,,,,,,,,,,,,,,
+WitchCross,Sacrilegious Eternity,1.1,5,0,,"If gods still existed, my blasphemy would never be permitted...
+If faith were absolute, my deceit would never be forgiven...
+If mortals saw clearly, my sins would be laid bare...",-Cross Witch Rosalia Cross,TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_Cross_Skills.png,,
+,,,,,,,,,,,,,,
+WitchElf,Divinity's Huntsman,1.1,5,0,,"In any corner of that castle, you might find a hooded girl taking casual naps... Surrounded by vibrantly furred pets, her innocent sleeping face appears utterly endearing... How long has it been since she last wielded her lance to fulfill her hunting mission through countless cycles of life and death? The question may be meaningless - a hunter remains ever a hunter... Just as her eternally youthful visage persists, so does the bone-deep thrill of the hunt...",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_Elf_Skills.png,,
+,,,,,,,,,,,,,,
+Dali,Divine Lee's Descent,1.1,5,0,,"Slayer... Conqueror... Devastator... Lee, hailed as the mightiest deity, now stands by your side. Submit, mortals! The entire world shall soon prostrate beneath her feet!",,TRUE,,,"npc_only, player_only",graphics/icons/skills/Dali.png,,
+,,,,,,,,,,,,,,
+CrimsonContract,Crimson Pact,1.1,5,0,,"Your blood... tears... sweat... These worthless fluids from decaying flesh mean nothing to Crimson City. She only takes what truly matters...
+Your will... destiny... ultimate purpose...",,TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_Contract_Skills.png,,
+,,,,,,,,,,,,,,
+Contract,Pale Pact,1.1,5,0,,"Demons ever seek their proxies, each chosen one guided by invisible strings toward fabricated fates...
+
+Did you know your fate was sealed to end alongside the Void from the moment you first dared gaze into it?",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only",graphics/icons/skills/Cangbai.png,,
+,,,,,,,,,,,,,,
+# LEADERSHIP,,,,,,,,,,,,,,
+Overmind_Doctrine,Overmind Doctrine,0,5,0,,In war  while a proper army is essential... individuals of sufficient power can still overturn entire battlefields.,-Dust Witch Nazzel Dust,TRUE,,,"npc_only, player_only",graphics/icons/skills/Overmind_Doctrine.png,,
+WitchSup,Support Module,0,5,0,,Supplementary plugin skill,,,,,"npc_only, player_only",graphics/icons/skills/Overmind_Doctrine.png,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+#TECHNOLOGY,,,,,,,,,,,,,,
+WitchRRA,Observer's Battle Doctrine,1.2,5,0,,She is both natural artist and divine artwork. Their greatest commonality? Fragility... Thus she must not be harmed. This I shall enforce absolutely.,-Primordial Witch Rika Genesis,TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_RRA_Skills.png,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+#INDUSTRY,,,,,,,,,,,,,,
+SENetLink,Ringwraith Network Link,0.1,5,0,,"This officer doesn't physically join your fleet, instead providing secure remote command through a 'Ringwraith Network' - a massive stellar energy matrix. To deploy her, simply insert a protocol card into the main terminal. While skeptical of this quantum-esque tech, explanations won't be forthcoming. 
+
+Once linked, nearly all ship functions become mind-controlled, described as neural-linked automation. This allows immersive combat command without crew - all manual operations replaced by inexplicable stellar energy. 
+
+However, maintaining the network requires extra supplies. Moreover, lacking maintenance crew causes rapid combat effectiveness loss post-peak performance.","Had you not met her... you might be deceived by the youthful avatar
+Doubt not - the real person behind the screen is far more mature",TRUE,,,"npc_only, player_only",graphics/icons/skills/WthC_Network_Skills.png,,
+,,,,,,,,,,,,,,
+#DARKREAL-BOSS,,,,,,,,,,,,,,
+DR_WitchRRA,Shattered Azure Rose (Reality Rift),0.2,1,0,,"Perhaps you once dismissed feeble art...
+Perhaps you lost yourself in that resplendent form...
+Perhaps you retained shreds of mercy...
+But remember - she remains a Witch, chaotic existence plaguing creation...",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_RRA.png,,
+,,,,,,,,,,,,,,
+DR_WitchCross,Divine Abandonment (Reality Rift),0.2,1,0,,"Holy Spirit... Sacred Son... Heavenly Father...
+Jade Emperor... Allah... Buddha...
+Their doctrines diverge...
+Our ends converge...",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_Cross.png,,
+,,,,,,,,,,,,,,
+DR_WitchIE,Ultimate Sin Proxy (Reality Rift),0.2,1,0,,"When current proxies leave the stage, who shall stand center...?
+You? Me? Or that damned demon...?",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_IE.png,,
+,,,,,,,,,,,,,,
+DR_WitchSSoul,Apocalyptic Calamity (Reality Rift),0.2,1,0,,At least... return to us... the right to die with dignity...,-Another Rift Wanderer,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_SSoul.png,,
+,,,,,,,,,,,,,,
+DR_WitchElf,Extinction Herald (Reality Rift),0.2,1,0,,"Survive... Tell our descendants of the ruin brought by that herald...
+Just as her Supreme Deity did to their kind...",-Excerpt from Dark World Survivors' Chronicle Ch.1,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_Elf.png,,
+,,,,,,,,,,,,,,
+DR_WitchDust,Terminus of Annihilation (Reality Rift),0.2,1,0,,"Imagine... a world without light or shadow...
+Formless... Unbound... Lawless... Unaware...
+But I'll still be there, so stop pondering~",-Crimson Lord Silvia Crimson,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_Dust.png,,
+,,,,,,,,,,,,,,
+ShadowCreation,Profane Creation,0.2,1,0,,They don't belong here... But perhaps she wants them to stay...,-Gaze Demon Illys Raquekbarde,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_ShadowCreation_Skills.png,,
+,,,,,,,,,,,,,,
+#PALE-UNIVERSAL,,,,,,,,,,,,,,
+Pale_helmsmanship,Void Voyager,10,1,0,,"For the entire G.C. Era, the 35th day of the 4th season marks celebratory departure - symbolizing beginning of cosmic conquest.",-Chronicles of the Old Capital Ch.1,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/helmsmanship_pale.png,,
+Pale_combat_endurance,Unrelenting Zeal,20,1,0,,Later scholars never understood how the Spire War lasted millennia - persisting through Wingkin's post-apocalyptic age like resurgence itself.,-Chronicles of the Old Capital Ch.9,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/combat_endurance3_pale.png,,
+Pale_impact_mitigation,Impact Divestment,30,1,0,,Wingless Wingkin prove sturdier - trivial impacts harm them not. Yet mortal blows prove harder to evade.,-Chronicles of the Old Capital Ch.2,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/impact_mitigation_pale.png,,
+Pale_damage_control,Agony Protocol,40,1,0,,"Not fleshly pain enslaved the winged, but despair at wisdom's decay. This misery forged into blade for crippled sovereign.",-Chronicles of the Old Capital Ch.5,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/damage_control2_pale.png,,
+Pale_field_modulation,Absolute Barrier,50,1,0,,None should breach the Gaze Demon's field... Until she succeeded - burning remains to end buried scrutiny.,-Chronicles of the Old Capital Ch.7,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/field_modulation_pale.png,,
+Pale_point_defense,Reversal Stratagem,60,1,0,,Overcoming stronger foes proves unwise gamble. Wingkin prefer absolute dominance through advantage.,-Chronicles of the Old Capital Ch.4,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/advanced_countermeasures_pale.png,,
+Pale_target_analysis,Malice Dissection,70,1,0,,"Beyond ceremony, no guards surround her. Not arrogance - all hostility lies exposed.",-Chronicles of the Old Capital Ch.6,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/target_analysis2_pale.png,,
+Pale_ballistic_mastery,Projectile Mastery,80,1,0,,"Since First Pillar Battle, ranged weapons dominated. Yet to few, such kinetics mean nothing.",-Chronicles of the Old Capital Ch.5,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/ranged_specialization_pale.png,,
+Pale_systems_expertise,Mirrorforge Core,90,1,0,,These war machines bear massive exposed cores - absurd as nudity in court. Not design flaws - surrounding armor needs protection.,-Chronicles of the Old Capital Ch.7,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/systems_expertise_pale.png,,
+Pale_missile_specialization,Trump Card,100,1,0,,Once-majestic Witness now brims with explosives... Sacrilege. But wartime demands resourcefulness.,-Chronicles of the Old Capital Ch.6,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/missile_specialization2_pale.png,,
+Pale_gunnery_implants,Psychic Precognition,1020,1,0,,"They hold no secrets... no chances. For omniscient demons, destruction remains sole fate.",-Chronicles of the Old Capital Ch.7,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/gunnery_implants_pale.png,,
+Pale_energy_weapon_mastery,Energy Dominion,1030,1,0,,Birthright of Wingkin through azure stellar energy. Now they cannot even flutter wings.,-Chronicles of the Old Capital Ch.2,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/energy_weapon_mastery_pale.png,,
+Pale_ordnance_expert,Ordnance Savant,1530,1,0,,"Though brute force proved effective through eras, deny not progress's promise. Someday...",-Chronicles of the Old Capital Ch.2,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/ordnance_expert2_pale.png,,
+Pale_polarized_armor,Phantasmal Corpus,1540,1,0,,Mere flesh cannot hold all our past - sometimes more ephemeral substances are needed.,-Chronicles of the Old Capital Ch.8,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/polarized_armor_pale.png,,
+Pale_SENetLink,Pale-Crimson Ringwraith,0.1,1,0,,She'll write something here... Eventually...,-Gaze Demon Illys Raquekbarde,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/pale/WthC_Network_Pale_Skills.png,,
+,,,,,,,,,,,,,,
+#PALE-EXCLUSIVE,,,,,,,,,,,,,,
+Pale_WitchDust,Terminus of Annihilation,0.2,1,0,,"Imagine... a world without light or shadow...
+Formless... Unbound... Lawless... Unaware...
+But I'll still be there, so stop pondering~",-Crimson Lord Silvia Crimson,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_Dust.png,,
+,,,,,,,,,,,,,,
+Pale_WitchSSoul,Apocalyptic Calamity,0.2,1,0,,At least... return to us... the right to die with dignity...,-Another Rift Wanderer,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_SSoul.png,,
+,,,,,,,,,,,,,,
+Pale_WitchRRA,Shattered Azure Rose,0.2,1,0,,"Perhaps you once dismissed feeble art...
+Perhaps you lost yourself in that resplendent form...
+Perhaps you retained shreds of mercy...
+But remember - she remains a Witch, chaotic existence plaguing creation...",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_RRA.png,,
+,,,,,,,,,,,,,,
+Pale_WitchCross,Divine Abandonment,0.2,1,0,,"Holy Spirit... Sacred Son... Heavenly Father...
+Jade Emperor... Allah... Buddha...
+Their doctrines diverge...
+Our ends converge...",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_Cross.png,,
+,,,,,,,,,,,,,,
+Pale_WitchIE,Ultimate Sin Proxy,0.2,1,0,,"When current proxies leave the stage, who shall stand center...?
+You? Me? Or that damned demon...?",-Pale Sovereign Lovnya Blast,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_IE.png,,
+,,,,,,,,,,,,,,
+Pale_WitchElf,Extinction Herald,0.2,1,0,,"Survive... Tell our descendants of the ruin brought by that herald...
+Just as her Supreme Deity did to their kind...",-Excerpt from Dark World Survivors' Chronicle Ch.1,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_DS_Elf.png,,
+,,,,,,,,,,,,,,
+#DARKREAL-VALKYRIE,,,,,,,,,,,,,,
+DR_YueBenBase,Death Defiance,0.2,1,0,,We never retreat! We fight till final breath!,-Brynhildr,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YueBenBase.png,,
+DR_YueBen,Guiding Light,0.2,1,0,,She leads us to victory - we are Valkyries!,-Brynhildr,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YueBen.png,,
+DR_YueBen2,Valiant Defender - Overdrive,0.2,1,0,,"Come, let us dance together.",-Brynhildr,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YueBen3.png,,
+DR_YueBen2EX,Valiant Defender - Final Mode,0.2,1,0,,This is our finale... The ultimate coda...,-Brynhildr,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YueBen3.png,,
+DR_YueBen3,Brynhildr's Waltz,0.2,1,0,,We are Brynhildr's warriors - unstoppable!,-Brynhildr,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YueBen2.png,,
+DR_YueBen3EX,Athena's Blessing,0.2,1,0,,Athena is with us - none shall withstand!,-Brynhildr,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YueBen2EX.png,,
+DR_YueBenJunGuan,Bygone Tales,0.2,1,0,,Once I fought for others - all gone like smoke. Now I fight for myself.,-Brynhildr,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YueBenJunGuan.png,,
+,,,,,,,,,,,,,,
+DR_Diamond,Assault Doctrine,0.2,1,0,,A player's unique combat philosophy - offense as ultimate defense! Unpredictable chain reactions torment foes.,,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_ZuanShi.png,,
+DR_DaLei,Missile Maestro,0.2,1,0,,More missiles! Stronger missiles!,,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YuanXingZhe.png,,
+,,,,,,,,,,,,,,
+#DARKREAL-SULTAN,,,,,,,,,,,,,,
+DR_SuDan,Behold Sultan's Rise!,0.2,1,0,,"With D-modded ships, I stride with flair... Seek power through Sultan!",-Candy Witch Sultan·Ye Jueqi,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_SuDan.png,,
+DR_SuDanBase,Lash of Motivation,0.2,1,0,,Ships need whipping to work properly... Just like crew.,-Sultan·Ye Jueqi,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_SuDan2.png,,
+,,,,,,,,,,,,,,
+#DARKREAL-DREAMPRISON,,,,,,,,,,,,,,
+DR_OceansideRemodeling,Oceanside Retrofit,0.2,1,0,,"All ships modified for hyperspace endurance. Every gun manned, every missile chip calibrated. Crews prepared never to return - laboring endlessly amidst scrap-filled holds, clinging to false dawns.",,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YKM1.png,,
+DR_PrasirityDreaming,Prosperity Vision,0.2,1,0,,"Through rifts, they glimpsed thriving futures - homes of their own.",,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YKM2.png,,
+DR_WeiLianChaoZai,Wei-Chain Overdrive,0.2,1,0,,"Unique drone retrofit. Ink Fleet vanguards minimize flux - even life support heat. Ships mimic cosmic background radiation - ambushing as dark spots. Hull analysis suggests possible (static) involvement. AI coordination suspected, though living controller theorized. (Static) warning: 'Don't inquire'.",-Excerpt from Velocity Corp AI Risk Report 'INK' Meeting 4,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/WthC_YKM3.png,,
+,,,,,,,,,,,,,,
+#DARKREAL-CASUAL,,,,,,,,,,,,,,
+DR_Hanabi,Firework Artisan,0.2,1,0,,Firework bursts eclipse your blushing face,,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/Hanabi.png,,
+DR_MizugiChikara,Swimsuit Power,0.2,1,0,,That swimsuit suits you well,,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/Mizugi.png,,
+DR_Nikushoku,Carnivore,0.2,1,0,,They're hunters... We're prey,,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/Nikushoku.png,,
+DR_ToshiUe,Elder Energy,0.2,1,0,,"Seniority is state of being, not mere age",,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/ToshiUe.png,,
+DR_Umida,Sea's Embrace,0.2,1,0,,Sunscreen... applied. Warmups... done.,,TRUE,,,"npc_only, player_only, deprecated",graphics/icons/skills/Umida.png,,
+,,,,,,,,,,,,,,
+WthC_aptitude_darkreal,,1,5,0,,,,,,,"npc_only, player_only, deprecated",,,

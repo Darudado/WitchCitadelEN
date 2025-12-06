@@ -1,0 +1,52 @@
+{
+	"id":"starsnode_element_wood2_shot",
+	"specClass":"missile",
+	"missileType":"MISSILE",
+	"onHitEffect":"data.weapons.onhit.StarsNodeWoodOnHitEffect",
+	"sprite":"graphics/missiles/resonator_mrm.png",
+	#"size":[10,14],
+	#"center":[5,7],
+	"size":[20,90],	
+	"center":[10,45],
+	"collisionRadius":20,
+	"collisionClass":"MISSILE_NO_FF",
+	"explosionColor":[16,200,72,255],  # purely visual, will get a white additively blended core on top of this color
+	"explosionRadius":50, # purely visual
+	#"alwaysAccelerate":true,
+	"reduceDamageWhileFading":true,
+	"useHitGlowWhenDestroyed":true,
+	"fizzleOnReachingWeaponRange":true,
+	"dudProbabilityOnFlameout":0,
+	"armingTime":0,
+	"flameoutTime":0.5,
+	"noEngineGlowTime":0.5,
+	"fadeTime":0.5,
+	"glowColor":[16,200,72,75],
+	"glowRadius":30,
+	"engineSpec":{"turnAcc":300,
+				  "turnRate":60,
+				  "acc":150,
+				  "dec":150},
+	"engineSlots":[{"id":"ES1",
+					#"loc":[-7, 0],
+					"loc":[0, 0],
+				    "style":"CUSTOM",
+					"styleSpec":{
+						"mode":"QUAD_STRIP", # PARTICLES or QUAD_STRIP, determines which params are used
+						"engineColor":[0,0,0,0],
+						"glowSizeMult":0.1,
+						"glowAlternateColor":[16,200,72,75],
+						"contrailDuration":2,
+						"contrailWidthMult":1,
+						"contrailWidthAddedFractionAtEnd":2,  # can be negative. makes trail spread out/narrow at the end
+						"contrailMinSeg":5, # min segment length, in pixels
+						"contrailMaxSpeedMult":.0f,
+						"contrailAngularVelocityMult":0.5f,
+						"contrailSpawnDistMult":.5, # how far away from engine it starts
+						"contrailColor":[16,200,72,35],
+						"type":"GLOW" # GLOW or SMOKE; additive or regular blend mode
+					},
+				    "width":7.5,
+				    "length":20.0,
+				    "angle":180.0}]
+}

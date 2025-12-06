@@ -1,0 +1,61 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 10,
+    "fluxVents": 5,
+    "goalVariant": false,
+    "hullId": "merlon",
+    "hullMods": [
+        "armoredweapons",
+        "auxiliarythrusters",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "frontshield",
+        "ringinterfereie",
+        "no_weapon_flux",
+        "fluxshunt",
+    ],
+    "permaMods": [
+        "armoredweapons",
+        "auxiliarythrusters",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "armoredweapons",
+        "auxiliarythrusters",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_merlon",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_gonggonqarray",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightac",
+                "WS 003": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightac",
+                "WS 001": "lightac",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

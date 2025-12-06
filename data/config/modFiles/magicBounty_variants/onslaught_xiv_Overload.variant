@@ -1,0 +1,120 @@
+{
+    "displayName": "Overload",
+    "fluxCapacitors": 500,
+    "fluxVents": 100,
+    "goalVariant": false,
+    "hullId": "onslaught_xiv",
+    "hullMods": [
+        "converted_hangar",
+        "dedicated_targeting_core",
+        "supercomputer",
+        "missile_reload",
+        "ringfog",
+        "ringinterfereelf",
+        "ringsup2",
+        "ringba",
+        "ringinterfereie",
+        "ringsup3",
+        "advancedoptics",
+        "armoredweapons",
+        "autorepair",
+        "auxiliarythrusters",
+        "ballistic_rangefinder",
+        "blast_doors",
+        "crimsonmodificationrra",
+        "defensive_targeting_array",
+        "eccm",
+        "ecm",
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "insulatedengine",
+        "missleracks",
+        "nav_relay",
+        "reinforcedhull",
+        "ringie",
+        "ringinterferecross",
+        "ringreverse",
+        "ringsup",
+        "shadowremaindust",
+        "solar_shielding",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": ["magazines",],
+    "suppressedMods": [],
+    "variantId": "onslaught_xiv_Overload",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "tpc",
+                "WS 016": "tpc",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 024": "cyclone",
+                "WS 022": "cyclone",
+                "WS 023": "cyclone",
+                "WS 021": "cyclone",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "tachyonlance",
+                "WS 003": "tachyonlance",
+                "WS 001": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "tpc",
+                "WS 013": "WthC_NewMoon",
+                "WS 012": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "WthC_NewMoon",
+                "WS 020": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "heavymg",
+                "WS 009": "heavymg",
+                "WS 006": "heavymg",
+                "WS 004": "heavymg",
+                "WS 005": "heavymg",
+                "WS 002": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "pilum_large",
+                "WS 014": "pilum_large",
+                "WS 011": "pilum_large",
+                "WS 010": "pilum_large",
+            }
+        },
+    ],
+    "wings": [
+        "sarissa_wing",
+    ],
+    "modules": [],
+}

@@ -1,0 +1,56 @@
+{
+    "displayName": "S-SSoul",
+    "fluxCapacitors": 15,
+    "fluxVents": 11,
+    "goalVariant": false,
+    "hullId": "WthC_scarab_SS",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_scarab_SS_S-SSoul",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_water",
+                "WS 003": "WthC_starsnode_elementS_water",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "atropos",
+                "WS 009": "atropos",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "WthC_ForthrightMoon",
+                "WS 010": "WthC_ForthrightMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_blazingassault",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

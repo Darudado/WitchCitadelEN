@@ -1,0 +1,21 @@
+{
+    "playableFaction":false,
+    "corvusCompatible":true,
+    "allowAgentActions":false,
+    "allowPrisonerActions":true,
+    "dropPrisoners":false,
+    
+    "marketSpawnWeight":1,
+
+	"diplomacyPositiveChance":{ "persean":0 },
+    "diplomacyNegativeChance":{ "persean":0 },
+    
+    "diplomacyTraits":["pacifist", "stalwart", "submissive", "lowprofile"],
+    
+    "colonyExpeditionChance":0,
+    "colonyTargetValuator":"exerelin.campaign.colony.IndustrialColonyTargetValuator",
+    
+    "groundBattleSettings":{
+        "moraleDamageTakenMult":0.9
+    }
+}

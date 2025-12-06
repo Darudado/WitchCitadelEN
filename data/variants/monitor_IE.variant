@@ -1,0 +1,40 @@
+{
+    "displayName": "IE",
+    "fluxCapacitors": 3,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "monitor",
+    "hullMods": [
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "ringinterfereie",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "ringinterfereie",
+    ],
+    "suppressedMods": [],
+    "variantId": "monitor_IE",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "flak",
+                "WS 001": "flak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "atropos_single",
+                "WS 004": "atropos_single",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

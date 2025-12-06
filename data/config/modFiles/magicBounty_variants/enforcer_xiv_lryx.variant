@@ -1,0 +1,56 @@
+{
+  "variantId": "enforcer_xiv_lryx",
+  "hullId": "enforcer_xiv",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 20,
+  "fluxVents": 20,
+  "quality": 1,
+  "permaMods": [
+    "eccm",
+    "heavyarmor",
+    "missleracks"
+  ],
+  "hullMods": [
+    "eccm",
+    "heavyarmor",
+    "fluxbreakers",
+    "ringfog",
+    "ringinterferedust",
+    "ringsup2",
+    "safetyoverrides",
+    "shadowremainie",
+    "solar_shielding",
+    "unstable_injector",
+    "missleracks",
+    "missile_reload",
+    "comp_structure",
+    "comp_storage",
+    "malfunctioning_comms",
+    "glitched_sensors"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "annihilatorpod",
+        "WS 002": "annihilatorpod",
+        "WS 003": "annihilatorpod",
+        "WS 004": "annihilatorpod",
+        "WS 005": "annihilatorpod",
+        "WS 006": "sabot",
+        "WS 007": "sabot",
+        "WS 008": "sabot",
+        "WS 009": "sabot"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

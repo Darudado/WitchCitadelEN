@@ -1,0 +1,49 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 300,
+    "fluxVents": 100,
+    "goalVariant": false,
+    "hullId": "drover",
+    "hullMods": [
+        "missile_autoloader",
+        "missleracks",
+        "nav_relay",
+        "ringfog",
+        "ringinterferedust",
+        "ringsup2",
+        "shadowremainelf",
+        "targetingunit",
+        "unstable_injector",
+        "missile_reload"
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "drover_Custom",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "hydra",
+                "WS 001": "hydra",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "dragon",
+                "WS 005": "dragon",
+                "WS 002": "dragon",
+                "WS 003": "dragon",
+            }
+        },
+    ],
+    "wings": [
+        "thunder_wing",
+        "thunder_wing",
+        
+    ],
+    "modules": [],
+}

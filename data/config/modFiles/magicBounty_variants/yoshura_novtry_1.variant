@@ -1,0 +1,89 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 19,
+    "hullId": "valk_yoshura",
+    "hullMods": [
+        "heavyarmor",
+        "valk_skogulmodernization",
+        "crimsonmodificationrra",
+        "fluxbreakers",
+        "armoredweapons",
+        "stabilizedshieldemitter",
+        "autorepair",
+        "targetingunit",
+        "hardenedshieldemitter",
+        "valk_fluxfog"
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "valk_skogulmodernization",
+        "crimsonmodificationrra"
+    ],
+    "sMods": [
+        "heavyarmor",
+        "valk_skogulmodernization",
+        "crimsonmodificationrra"
+    ],
+    "variantId": "yoshura_novtry_1",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0022": "valk_hyperbeam",
+                "WS0023": "valk_hyperbeam"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0024": "sabot",
+                "WS0026": "sabot",
+                "WS0027": "sabot",
+                "WS0028": "sabot",
+                "WS0029": "sabot",
+                "WS0030": "sabot",
+                "WS0031": "sabot",
+                "WS0032": "sabot"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn",
+                "WS0018": "valk_bcnn",
+                "WS0019": "valk_bcnn",
+                "WS0020": "valk_bcnn",
+                "WS0021": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_irpdcannon",
+                "WS0003": "valk_irpdcannon",
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "WthC_MicroNodeBeam",
+                "WS0007": "WthC_MicroNodeBeam",
+                "WS0008": "valk_nxk_pd",
+                "WS0009": "valk_nxk_pd",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0012": "valk_nxk_pd",
+                "WS0013": "valk_nxk_pd",
+                "WS0014": "valk_irpdcannon",
+                "WS0015": "valk_irpdcannon",
+                "WS0025": "WthC_MicroNodeBeam",
+                "WS0044": "WthC_MicroNodeBeam",
+                "WS0045": "valk_irpdcannon",
+                "WS0046": "valk_irpdcannon"
+            }
+        }
+    ]
+}

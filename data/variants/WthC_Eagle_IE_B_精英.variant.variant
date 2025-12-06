@@ -1,0 +1,60 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 33,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "WthC_Eagle_IE_B",
+    "hullMods": [
+        "crimsonmodificationdust",
+        "magazines",
+        "ringinterferecross",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Eagle_IE_B_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "miningblaster",
+                "WS 007": "miningblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_wood",
+                "WS 001": "WthC_starsnode_elementS_wood",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "WthC_starsnode_elementS_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "lightdualac",
+                "WS 012": "lightdualac",
+                "WS 010": "lightdualac",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,51 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 13,
+    "fluxVents": 25,
+    "goalVariant": false,
+    "hullId": "manticore",
+    "hullMods": [
+        "escort_package",
+        "hardenedshieldemitter",
+        "targetingunit",
+        "erosion1",
+        "erosion2",
+        "erosion3",
+        "erosion4",
+        "erosion5",
+        "fogtransformed",
+        
+    ],
+    "permaMods": [
+        "escort_package",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "sMods": [
+        "escort_package",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_shiweixie",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_TwinMovement",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 001": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

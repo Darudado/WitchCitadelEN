@@ -1,0 +1,24 @@
+{
+	"quality":1,
+	"displayName":"Heavy Fighter",
+	"hullId":"WthC_SMS",
+	"variantId":"WthC_SMS_Fighter",
+	"fluxVents":0,
+	"fluxCapacitors":0,
+	"hullMods":["no_weapon_flux"], # array of strings
+	
+	# mode is either LINKED or ALTERNATING
+	# slot ids (WS ***) must match what's in the .ship file
+	"weaponGroups":[
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0001":"WthC_blazingassault"
+		 		   },
+		},
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0002":"WthC_ForthrightMoon"
+		 		   },
+		},
+	],
+}

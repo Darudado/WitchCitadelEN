@@ -1,0 +1,47 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 13,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "phaeton",
+    "hullMods": [
+        "ecm",
+        "heavyarmor",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "ecm",
+        "heavyarmor",
+        "unstable_injector",
+    ],
+    "sMods": [
+        "ecm",
+        "heavyarmor",
+        "unstable_injector",
+    ],
+    "suppressedMods": [],
+    "variantId": "phaeton_Ju",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightac",
+                "WS 003": "lightac",
+                "WS 001": "lightac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightac",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+        "claw_wing",
+    ],
+    "modules": [],
+}

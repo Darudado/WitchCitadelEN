@@ -1,0 +1,29 @@
+{
+	"id":"WthC_gonggonq",  # this id must match what's in the spreadsheet
+	"specClass":"projectile",
+	"type":"BALLISTIC",
+	"size":"SMALL",
+	"displayArcRadius":350,
+	"turretSprite":"graphics/weapons/WthC_gonggonq_turret_base.png",
+	"turretGunSprite":"graphics/weapons/WthC_gonggonq_turret_recoil.png",
+	"hardpointSprite":"graphics/weapons/WthC_gonggonq_hardpoint_base.png",
+	"hardpointGunSprite":"graphics/weapons/WthC_gonggonq_hardpoint_recoil.png",
+	"renderHints":[RENDER_BARREL_BELOW],
+	"visualRecoil":4.0,  # the gun sprites are only used if this is non-0
+	"turretOffsets":[12, -3, 12, 0, 12, 3],
+	"turretAngleOffsets":[-3, 0, 3],
+	"hardpointOffsets":[10, -3, 10, 0, 10, 3],
+	"hardpointAngleOffsets":[-3, 0, 3],
+	"barrelMode":"LINKED", # or LINKED.  whether barrels fire at the same time or alternate.
+	"animationType":"MUZZLE_FLASH",
+	"muzzleFlashSpec":{"length":20.0,   # only used if animationType = MUZZLE_FLASH
+					   "spread":6.0,
+					   "particleSizeMin":6.0,
+					   "particleSizeRange":8.0,
+					   "particleDuration":0.15,
+					   "particleCount":7,
+					   "particleColor":[255,240,165,200]},
+	"projectileSpecId":"gonggonq_shot",  # projectile that will be fired
+	#"fireSoundOne":"vulcan_cannon_intro",
+	"fireSoundTwo":"vulcan_cannon_fire",
+}

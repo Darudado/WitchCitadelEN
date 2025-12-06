@@ -1,0 +1,98 @@
+{
+   "name": "Su",
+   "personalities": ["cautious", "steady", "aggressive"],
+   "gender": ["f"],
+   "chance": 0,
+   "talkativeness": 1.75,
+   "categoryTags": ["othermedia"],
+   
+   "lines": {
+       "start": [
+           {"text": "The game leading to death officially begins..."},
+           {"text": "Where are those who wish to perish?"},
+           {"text": "The afterlife can still accommodate countless souls... but you aren't worthy of experiencing it."},
+           {"text": "Why not give me a cruise ship full of living people?"},
+           {"text": "Perhaps entire swathes of death are what you're looking forward to... isn't that right?"},
+           {"text": "I only need to glance at them to end their pathetic lives..."},
+           {"text": "How can one truly taste death when separated by billions of stars...?"}
+       ],
+       "start_boss": [
+           {"text": "Looks like things are about to get interesting..."},
+           {"text": "Seems you're someone who can't die... how unfortunate"},
+           {"text": "It's time to let those ancient beings die once..."},
+           {"text": "Don't think lifeless things won't encounter death..."},
+           {"text": "Just dying once... no need to worry too much..."}
+       ],
+       "retreat": [
+           {"text": "A cowardly act... coming from you..."},
+           {"text": "Is this the reason you disturbed me...?"},
+           {"text": "The living always care about assets that become meaningless after death..."},
+           {"text": "This ship could still cause so many more deaths?"},
+           {"text": "You want to take it home... when it possesses nothing?"}
+       ],
+       "out_of_missiles": [
+           {"text": "Even the most brilliant fireworks must have a final moment..."},
+           {"text": "Next... I'll have to find another way to create death..."}
+       ],
+       "engaged": [
+           {"text": "Will you be excited by this...?"},
+           {"text": "Every tiny creature has yearned for that eternal moment..."},
+           {"text": "Tell me, do you prefer heaven or hell?"},
+           {"text": "This is your passport to the other world..."},
+           {"text": "Between this world and the next, there might only be a single bullet's distance..."}
+       ],
+       "need_help": [
+           {"text": "Hurry... let more living beings come to their death..."},
+           {"text": "Is this the powerless resistance of living souls...?"},
+           {"text": "Looks like... now you'll have to pay a real price..."},
+           {"text": "Seems like you want to know how long you have before truly dying..."}
+       ],
+       "pursuing": [
+           {"text": "I'm coming... only to take away your life that has reached its limit..."},
+           {"text": "People always flee... without exception."},
+           {"text": "Even across thousands of years, people still cannot overcome their fear of death."},
+           {"text": "Give me a reason not to kill you... but it has never existed..."},
+           {"text": "Now, you only await a light that symbolizes death..."}
+       ],
+       "running": [
+           {"text": "A meaningless action..."},
+           {"text": "I will always reach where I need to go... no matter how long..."},
+           {"text": "Time means nothing to me..."},
+           {"text": "Don't rush... I've already reached your future in your past..."}
+       ],
+       "hull_90": [
+           {"text": "Let time progress further..."},
+           {"text": "When you feel time slowing around you... I have already arrived beside you."},
+           {"text": "Please calibrate your clock..."}
+       ],
+       "hull_50": [
+           {"text": "Come... sacrifice souls to gain more powerful strength!"},
+           {"text": "Sadly... even this won't add half a death..."},
+           {"text": "Can you feel that trembling of the soul?"},
+           {"text": "Looks like... returning to their homeland is their only wish..."}
+       ],
+       "hull_30": [
+           {"text": "Only when near death do people gradually understand life's true meaning..."},
+           {"text": "Hanging by a thread also means you're about to find life in death..."},
+           {"text": "Placed in a desperate situation and then dying... how wonderful..."},
+           {"text": "The further from the void... the closer to death..."},
+           {"text": "That door has quietly opened just a crack..."}
+       ],
+       "overload": [
+           {"text": "Just as it should be..."},
+           {"text": "Finally... embracing that beautiful death..."}
+       ],
+       "death": [
+           {"text": "At least in dying... I lived more than most..."},
+           {"text": "I wish this ship's cabins were filled with crew..."},
+           {"text": "Did you do as I said... stuffing more slaves in the cargo hold? Heh... what a pity."},
+           {"text": "I sincerely await the day you personally embrace death..."}
+       ],
+       "victory": [
+           {"text": "This time... how many did I take?"},
+           {"text": "Don't you feel heartache...? At least I don't."},
+           {"text": "When lost souls fill this entire star sector... you'll have some credit for that..."},
+           {"text": "Congratulations... you've successfully added more death to this star sector..."}
+       ]
+   }
+}

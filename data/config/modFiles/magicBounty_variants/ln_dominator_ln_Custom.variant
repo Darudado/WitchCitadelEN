@@ -1,0 +1,68 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 35,
+    "fluxVents": 11,
+    "goalVariant": false,
+    "hullId": "ln_dominator_ln",
+    "hullMods": [
+        "defensive_targeting_array",
+        "hardenedshieldemitter",
+        "missleracks",
+        "auxiliarythrusters",
+        "eccm",
+        "fluxcoil",
+        "targetingunit",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "defensive_targeting_array",
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "defensive_targeting_array",
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "ln_dominator_ln_Custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "dragonpod",
+                "WS0002": "dragonpod",
+                "WS0003": "dragon",
+                "WS0004": "dragon",
+                "WS0016": "dragon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "flak",
+                "WS0006": "flak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "vulcan",
+                "WS0011": "vulcan",
+                "WS0010": "vulcan",
+                "WS0009": "vulcan",
+                "WS0008": "vulcan",
+                "WS0015": "vulcan",
+                "WS0007": "vulcan",
+            }
+        },
+    ],
+    "wings": [
+        "sarissa_wing",
+        "sarissa_wing",
+    ],
+    "modules": [],
+}

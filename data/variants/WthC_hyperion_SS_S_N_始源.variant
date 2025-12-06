@@ -1,0 +1,18 @@
+{
+    "displayName": "Origin",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "WthC_hyperion_SS_S_N",
+    "hullMods": [
+    ],
+    "permaMods": [
+    ],
+    "sMods": [
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_hyperion_SS_S_N_New",
+    "weaponGroups": [],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,20 @@
+{
+	"id":"WthC_starsnode_elementS_fire",
+	"specClass":"projectile",
+	"type":"MISSILE",
+	"size":"SMALL",
+	"turretSprite":"graphics/weapons/node/nodeS_fire_turret.png",
+	"hardpointSprite":"",
+	# glow sprites?
+	#"glowColor":[235,255,215,255],
+	"hardpointOffsets":[8, 0],
+	"turretOffsets":[9, 0],
+	"hardpointAngleOffsets":[0],
+	"turretAngleOffsets":[0],
+	#"renderHints":[RENDER_LOADED_MISSILES],
+	"barrelMode":"LINKED",
+	"animationType":"NONE",
+	"interruptibleBurst":false,
+	"projectileSpecId":"starsnode_element_fire_shot",
+	"fireSoundTwo":"rifttorpedo_fire",
+}

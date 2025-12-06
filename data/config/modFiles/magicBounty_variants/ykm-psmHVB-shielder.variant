@@ -1,0 +1,73 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 30,
+    "fluxVents": 25,
+    "hullId": "PSM_shielder",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationelf",
+        "fluxbreakers",
+        "ringinterferessoul",
+        "converted_hangar",
+        "extendedshieldemitter",
+        "armoredweapons",
+        "fragile_subsystems",
+        "increased_maintenance",
+        "malfunctioning_comms",
+        "faulty_auto",
+        "degraded_life_support"
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationelf"
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "eccm",
+        "targetingunit",
+        "crimsonmodificationelf"
+    ],
+    "variantId": "ykm-psmHVB-shielder",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0014": "PSM_drill_anchor"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "PSM_hveldriver_TSM",
+                "WS0004": "PSM_hveldriver_TSM",
+                "WS0005": "PSM_hveldriver_TSM"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0010": "PSM_cargocatapult",
+                "WS0011": "PSM_cargocatapult"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0013": "devastator"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0012": "PSM_cargocatapult"}
+        }
+    ],
+    "wings": ["PSM_P_whaler"]
+}

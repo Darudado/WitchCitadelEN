@@ -1,0 +1,92 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "dominator_xiv",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "shield_shunt",
+        "damaged_mounts",
+        "degraded_life_support",
+        "degraded_shields",
+        "faulty_auto",
+        "increased_maintenance",
+        "armoredweapons",
+        "autorepair",
+        "blast_doors",
+        "crimsonmodificationrra",
+        "fluxbreakers",
+        "insulatedengine",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+        "shield_shunt",
+        "damaged_mounts",
+        "degraded_life_support",
+        "degraded_shields",
+        "faulty_auto",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+        "shield_shunt",
+    ],
+    "suppressedMods": [],
+    "variantId": "dominator_xiv_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "WthC_MicroNodeBeam-A",
+                "WS 003": "WthC_MicroNodeBeam-A",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "phasecl",
+                "WS 016": "phasecl",
+                "WS 014": "phasecl",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "devastator",
+                "WS 012": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam-A",
+                "WS 009": "WthC_MicroNodeBeam-A",
+                "WS 006": "WthC_MicroNodeBeam-A",
+                "WS 007": "WthC_MicroNodeBeam-A",
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 002": "WthC_MicroNodeBeam-A",
+                "WS 001": "WthC_MicroNodeBeam-A",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "heavymg",
+                "WS 010": "heavymg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

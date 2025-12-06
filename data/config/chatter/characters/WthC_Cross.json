@@ -1,0 +1,97 @@
+{
+	"name":"Rosalia",
+	"personalities":["cautious", "steady", "aggressive"],
+	"gender":["f"],
+	"chance":0,
+	"talkativeness":1.75,
+	"categoryTags":["othermedia"],
+	
+	"lines":{
+		"start":[
+			{"text":"The Holy One shall once again march to the glorious battlefield."},
+			{"text":"Fight for the deity you believe in."},
+			{"text":"May my radiance illuminate the path ahead once more."},
+			{"text":"Advance... under the guidance of the Saint."},
+			{"text":"Sinners shall perish under the sword of judgment."},
+			{"text":"May the gods forgive your sins."},
+			{"text":"(Don't worry... I'll make sure you die just right... hehehe...)"}
+		],
+		"start_boss":[
+			{"text":"Such evil shall be eradicated!"},
+			{"text":"Warriors... it is time to sacrifice yourselves for the light!"},
+			{"text":"The light of the Divine Cross shall purge all darkness from this world."},
+			{"text":"Such wickedness... must be utterly destroyed!"},
+			{"text":"(Hehehe... this makes sending people to their deaths so much easier...)"}
+		],
+		"retreat":[
+			{"text":"Fall back for now... we shall regroup swiftly."},
+			{"text":"Justice will always return!"},
+			{"text":"As long as we draw breath... we can still hold back the darkness!"},
+			{"text":"For the wishes of the fallen, please survive..."},
+			{"text":"(Don't worry... there are still many ways to send people to their deaths...)"}
+		],
+		"out_of_missiles":[
+			{"text":"Though the sparks have faded, the light remains..."},
+			{"text":"(Now the conditions for reckless deaths are ripe...)"}
+		],
+		"engaged":[
+			{"text":"Face the judgment of the Saint...!"},
+			{"text":"All evil in this world shall be brought to justice!"},
+			{"text":"Heaven's gates may not open for you, but there's always a place for you in hell!"},
+			{"text":"Face the judgment of the righteous army...!"},
+			{"text":"(Let's put up a token resistance...)"}
+		],
+		"need_help":[
+			{"text":"Brave souls... we must unite!"},
+			{"text":"Because the darkness is strong... the light must come together!"},
+			{"text":"Lost lambs... behold this divine radiance!"},
+			{"text":"(Haha... now those unlucky ones will die halfway trying to save me)"}
+		],
+		"pursuing":[
+			{"text":"There is no escape from judgment...!"},
+			{"text":"The sword hanging above has already fallen!"},
+			{"text":"Turn around and face the sins of your past!"},
+			{"text":"There is always room for repentance!"},
+			{"text":"(Can we cause more losses by being reckless?)"}
+		],
+		"running":[
+			{"text":"Avoid those deadly attacks!"},
+			{"text":"The light still remains...!"},
+			{"text":"I still need to illuminate more places...!"},
+			{"text":"(Where would it be more interesting to let them perish...?)"}
+		],
+		"hull_90":[
+			{"text":"The holy flames of heaven burn brightly..."},
+			{"text":"Face this proclamation of truth!"},
+			{"text":"(Soon I can retreat under the guise of mode switching...)"}
+		],
+		"hull_50":[
+			{"text":"Come... witness this flash of genesis!"},
+			{"text":"Can you feel it? The light is gathering!"},
+			{"text":"Darkness... tremble before this righteous fury!"},
+			{"text":"(Now I just need to recover slowly, and those fools will regain their courage to die for me~)"}
+		],
+		"hull_30":[
+			{"text":"Do you see? The Saint still stands!"},
+			{"text":"As long as I live... the light will not fade!"},
+			{"text":"Evil beings... the Holy One will never yield to you!"},
+			{"text":"(That's right... go die to protect the fragile Saint, it's not like I'm on the ship anyway...)"}
+		],
+		"overload":[
+			{"text":"This is the divine light...!"},
+			{"text":"(Hoho... now you have no choice but to protect me, right?)"}
+		],
+		"death":[
+			{"text":"Looks like the role-playing game is over once again~"},
+			{"text":"What a pity, we haven't been wiped out yet..."},
+			{"text":"Please stand up... oh, it's already over, Iris~"},
+			{"text":"Next time something like this happens, remember to call me, Iris~"}
+		],
+		"victory":[
+			{"text":"Justice has triumphed once again..."},
+			{"text":"The side of justice... is invincible!"},
+			{"text":"Do you see... this is the fate of the wicked!"},
+			{"text":"(Boring... I want to see a river of blood, on our side.)"}
+		]
+	}
+}

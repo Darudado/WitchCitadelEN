@@ -1,0 +1,42 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "WthC_Brawler_SS",
+    "hullMods": [
+        "ringinterfererra",
+        "safetyoverrides",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Brawler_SS_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "heavyblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_fire",
+                "WS 001": "WthC_starsnode_elementS_fire",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "WthC_starsnode_elementS_gold",
+                "WS 004": "WthC_starsnode_elementS_gold",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

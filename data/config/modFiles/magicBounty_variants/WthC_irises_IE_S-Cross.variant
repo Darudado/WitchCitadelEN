@@ -1,0 +1,83 @@
+{
+    "displayName": "S-Cross",
+    "fluxCapacitors": 55,
+    "fluxVents": 16,
+    "goalVariant": false,
+    "hullId": "WthC_irises_IE",
+    "hullMods": [
+        "ringinterferessoul",
+        "targetingunit",
+        "crimsonmodificationcross",
+        "hardenedshieldemitter",
+        "pointdefenseai",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [
+        "ringinterferessoul",
+        "targetingunit",
+    ],
+    "sMods": [
+        "ringinterferessoul",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_irises_IE_S-Cross",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "WthC_starsnode_element_wood",
+                "WS0008": "WthC_starsnode_element_wood",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "guardian",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "flak",
+                "WS0006": "flak",
+                "WS0016": "flak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_StarryEmbellishment",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "WthC_gonggonq",
+                "WS0013": "WthC_gonggonq",
+                "WS0017": "WthC_gonggonq",
+                "WS0018": "WthC_gonggonq",
+                "WS0010": "WthC_MicroNodeBeam",
+                "WS0011": "WthC_MicroNodeBeam",
+                "WS0014": "WthC_MicroNodeBeam",
+                "WS0015": "WthC_MicroNodeBeam",
+                "WS0003": "WthC_gonggonq",
+                "WS0009": "WthC_gonggonq",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,47 @@
+{
+    "displayName": "支援",
+    "fluxCapacitors": 30,
+    "fluxVents": 10,
+    "hullId": "PSM_Prospector",
+    "hullMods": [
+        "targetingunit",
+        "converted_hangar",
+        "ballistic_rangefinder",
+        "ringinterfereelf",
+        "hardenedshieldemitter",
+        "frontemitter",
+        "defective_manufactory",
+        "damaged_deck",
+        "malfunctioning_comms",
+        "faulty_auto",
+        "fragile_subsystems"
+    ],
+    "permaMods": [
+        "targetingunit",
+        "converted_hangar",
+        "ballistic_rangefinder"
+    ],
+    "sMods": [
+        "targetingunit",
+        "converted_hangar",
+        "ballistic_rangefinder"
+    ],
+    "variantId": "ykm-psmHVB-prospector",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "WthC_Marching"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "heavymauler",
+                "WS0008": "PSM_lightmortar_TSM",
+                "WS0009": "PSM_lightmortar_TSM"
+            }
+        }
+    ],
+    "wings": ["PSM_P_cuttingcraft"]
+}

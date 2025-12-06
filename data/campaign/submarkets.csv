@@ -1,0 +1,18 @@
+id,name,faction,desc,script,icon,order
+crimson_treasure,,,"A colossal and ornate gate makes you feel this is the true treasury of the castle.
+Inside may lie vast practical goods, but without entry, it remains a fantasy.
+Perhaps you should speak to the castle's master?",data.world.systems.Crimson_Treasure,,100
+
+elis_temple,,,"This structure lacks entrances, passively rejecting all outsiders...
+Perhaps it only welcomes the castle's true allies?",data.world.systems.Elis_Temple,,101
+
+warehouse_dust,,,"You never imagined such vast space inside this capital ship before boarding...
+It feels unnaturally linked to another dimension.
+The warehouse brims with basic space supplies—they don't mind if you take some?",data.world.systems.Warehouse_Dust,,100
+
+database_dust,,,"Like any capital ship, its bridge hosts an enormous database.
+You suspect its secrets will be trivial once you gain access.",data.world.systems.Database_Dust,,101
+
+Between_Visits,,,"As unreal as the rest of this planet... May you find valuable intel here.",data.world.systems.Between_Visits,,101
+
+Witch_Data,,,"A database within the Primordial Workshop, hiding secrets about the so-called witches...",data.world.systems.Witch_Data,,101

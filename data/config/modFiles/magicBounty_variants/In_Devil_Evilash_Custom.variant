@@ -1,0 +1,88 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 35,
+    "fluxVents": 23,
+    "goalVariant": true,
+    "hullId": "In_Devil_Evilash",
+    "hullMods": [
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "advancedshieldemitter",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "targetingunit",
+        "ML_incompatibleHullmodWarning",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [
+		"damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "advancedshieldemitter",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "sMods": [
+        "advancedshieldemitter",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "In_Devil_Evilash_Custom",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_CHB",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_starsnode_element_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "WthC_starsnode_element_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavyblaster",
+                "WS 003": "heavyblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 002": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_CSd_wing",
+        "sarissa_wing",
+        "sarissa_wing",
+        "sarissa_wing",
+        "sarissa_wing",
+    ],
+    "modules": [],
+}

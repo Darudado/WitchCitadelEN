@@ -1,0 +1,51 @@
+{
+    "displayName": "SD-IE",
+    "fluxCapacitors": 10,
+    "fluxVents": 7,
+    "goalVariant": false,
+    "hullId": "WthC_monitor_SS",
+    "hullMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "ringinterfereie",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_monitor_SS_SD-IE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_starsnode_element_fire",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_starsnode_element_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "WthC_Lumen",
+                "WS 004": "WthC_Lumen",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

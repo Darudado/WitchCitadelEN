@@ -1,0 +1,80 @@
+{
+    "displayName": "Soul",
+    "fluxCapacitors": 55,
+    "fluxVents": 33,
+    "goalVariant": true,
+    "hullId": "WthC_pegasus_IE_B",
+    "hullMods": [
+        "crimsonmodificationssoul",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_pegasus_IE_B_Soul",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "WthC_starsnode_element_wood",
+                "WS 010": "WthC_starsnode_element_wood",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "WthC_StormClouds",
+                "WS 007": "WthC_StormClouds",
+                "WS 002": "WthC_StormClouds",
+                "WS 003": "WthC_StormClouds",
+                "WS 004": "gravitonbeam",
+                "WS 005": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "WthC_BreezeTacticalLaser",
+                "WS 014": "WthC_BreezeTacticalLaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "WthC_MicroNodeBeam",
+                "WS 016": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "flak",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_Marching",
+                "WS 001": "hil",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,45 @@
+{
+    "displayName": "SD-Cross",
+    "fluxCapacitors": 10,
+    "fluxVents": 8,
+    "goalVariant": false,
+    "hullId": "WthC_HundredEyes",
+    "hullMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "unstable_injector",
+        "eccm",
+        "frontemitter",
+        "hardenedshieldemitter",
+        "ringinterferedust",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "unstable_injector",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "unstable_injector",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_HundredEyes_SD-Cross",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "WthC_starsnode_elementS_wood",
+                "WS0006": "WthC_starsnode_elementS_wood",
+                "WS0007": "WthC_starsnode_elementS_water",
+                "WS0001": "sabot",
+                "WS0002": "sabot",
+                "WS0003": "sabot",
+                "WS0004": "sabot",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

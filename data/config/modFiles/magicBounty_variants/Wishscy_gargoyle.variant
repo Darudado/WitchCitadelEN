@@ -1,0 +1,43 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 2,
+    "fluxVents": 10,
+    "goalVariant": false,
+    "hullId": "gargoyle",
+    "hullMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "ringinterferessoul",
+        "no_weapon_flux",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_gargoyle",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_LiLancecrimson",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

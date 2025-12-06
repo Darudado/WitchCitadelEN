@@ -1,0 +1,70 @@
+{
+  "hullName": "WthC_VDS",
+  "hullId": "WthC_VDS",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/VanishingDarkSoul.png",
+  "style": "RIE_WITCH",
+  "height": 38,
+  "width": 38,
+  "center": [19, 17.5],
+  "collisionRadius": 24,
+  "shieldCenter": [-0.5, 0],
+  "shieldRadius": 22.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "no_weapon_flux",
+    "advancedcore",
+    "shield_always_on"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "HIDDEN",
+      "arc": 26,
+      "angle": 0,
+      "locations": [7.5, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-3, -0],
+      "length": 25.5,
+      "width": 7,
+      "angle": 180,
+      "contrailSize": 7,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-3, 6.5],
+      "length": 13,
+      "width": 3,
+      "angle": 163.5,
+      "contrailSize": 3,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-3, -6.5],
+      "length": 13,
+      "width": 3,
+      "angle": -163.5,
+      "contrailSize": 3,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    14.5, 1,
+    -5, 16,
+    -12, 16.5,
+    -0.5, 5.5,
+    -8.5, 5,
+    -3.5, 1.5,
+    -3.5, -1.5,
+    -8.5, -5,
+    -0.5, -5.5,
+    -12, -16.5,
+    -5, -16,
+    14.5, -1
+  ]
+}

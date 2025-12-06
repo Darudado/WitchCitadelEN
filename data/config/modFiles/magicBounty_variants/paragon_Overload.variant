@@ -1,0 +1,116 @@
+{
+    "displayName": "Overload",
+    "fluxCapacitors": 550,
+    "fluxVents": 290,
+    "goalVariant": true,
+    "hullId": "paragon",
+    "hullMods": [
+        "advancedshieldemitter",
+        "high_scatter_amp",
+        "crimsonmodificationssoul",
+        "hardenedshieldemitter",
+        "ringinterferecross",
+        "supercomputer",
+        "nav_relay",
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "missile_reload",
+        "armoredweapons",
+        "ecm",
+        "heavyarmor",
+        "missleracks",
+        "reinforcedhull",
+        "ringie",
+        "ringsup",
+        "shadowremainssoul",
+        "autorepair",
+        "converted_hangar",
+        "crimsonmodificationie",
+        "hiressensors",
+        "ringfog",
+        "ringsup2",
+        "shadowremainrra",
+        "solar_shielding",
+        "advancedoptics",
+        "crimsonmodificationssoul",
+        "dedicated_targeting_core",
+        "escort_package",
+        "fluxbreakers",
+        "ringba",
+        "ringsup3",
+        "shadowremainie",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "paragon_Overload",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "tachyonlance",
+                "WS 001": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 018": "typhoon",
+                "WS 014": "typhoon",
+                "WS 012": "typhoon",
+                "WS 020": "typhoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "tachyonlance",
+                "WS 003": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "tachyonlance",
+                "WS 006": "tachyonlance",
+                "WS 007": "tachyonlance",
+                "WS 005": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "WthC_NewMoon",
+                "WS 016": "WthC_NewMoon",
+                "WS 013": "WthC_NewMoon",
+                "WS 022": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "WthC_NewMoon",
+                "WS 011": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "dragon",
+                "WS 015": "dragon",
+                "WS 023": "dragon",
+                "WS 021": "dragon",
+                "WS 010": "dragon",
+            }
+        },
+    ],
+    "wings": ["longbow_wing",],
+    "modules": [],
+}

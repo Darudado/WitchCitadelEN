@@ -1,0 +1,62 @@
+{
+    "displayName": "Pri",
+    "fluxCapacitors": 10,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "enforcer_d_pirates",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "converted_hangar",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "enforcer_d_pirates_Pri",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "sabot",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "gorgon",
+                "WS 007": "gorgon",
+                "WS 006": "gorgon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightneedler",
+                "WS 003": "lightneedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "flak",
+                "WS 004": "flak",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

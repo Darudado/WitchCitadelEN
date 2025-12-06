@@ -1,0 +1,66 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 33,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "dominator_xiv",
+    "hullMods": [
+        "adaptiveshields",
+        "hardenedshieldemitter",
+        "unstable_injector",
+        "auxiliarythrusters",
+        "fluxcoil",
+        "safetyoverrides",
+        
+    ],
+    "permaMods": [
+        "adaptiveshields",
+        "hardenedshieldemitter",
+        "unstable_injector",
+    ],
+    "sMods": [
+        "adaptiveshields",
+        "hardenedshieldemitter",
+        "unstable_injector",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_tongzhizhe",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_ForthrightMoon",
+                "WS 005": "WthC_ForthrightMoon",
+                "WS 003": "WthC_ForthrightMoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "annihilatorpod",
+                "WS 016": "annihilatorpod",
+                "WS 014": "annihilatorpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "devastator",
+                "WS 012": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "heavymg",
+                "WS 010": "heavymg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

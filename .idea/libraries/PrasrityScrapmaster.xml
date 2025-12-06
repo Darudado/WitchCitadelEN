@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PrasrityScrapmaster">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Prasrity Scrapmasters[PSM]-0.6.7/jar/PrasrityScrapmaster.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

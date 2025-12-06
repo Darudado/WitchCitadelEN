@@ -1,0 +1,4 @@
+name,id,demand class,base price,export value,price variability,utility,origin,tags,stack size,cargo space,icon,sound id,sound id drop,order,economyTier,econUnitOrigUnused,econUnit,baseRaidDanger,eU * base value,iconWidthMult,plugin,desc
+Deep Blue Stellar Cube,cube_deepbule,cube_deepbule,500,200,3,1,,meta,1000,1,graphics/icons/cargo/DeepBlue.png,ui_cargo_raremetals,ui_cargo_raremetals_drop,0.1,1.2,100,200,,40000,1,,
+Crimson Stellar Cube,cube_crimson,cube_crimson,500,200,3,1,,meta,1000,1,graphics/icons/cargo/Crimson.png,ui_cargo_raremetals,ui_cargo_raremetals_drop,0,1.2,100,200,,40000,1,,
+Dense Fog Stellar Cube,cube_densefog,cube_densefog,5,200,3,1,,meta,1000,1,graphics/icons/cargo/DenseFog.png,ui_cargo_raremetals,ui_cargo_raremetals_drop,0.2,1.2,100,200,,40000,1,,

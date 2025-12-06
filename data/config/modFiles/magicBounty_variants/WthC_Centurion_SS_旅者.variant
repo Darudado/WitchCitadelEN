@@ -1,0 +1,62 @@
+{
+    "displayName": "Traveler",
+    "fluxCapacitors": 10,
+    "fluxVents": 2,
+    "goalVariant": false,
+    "hullId": "WthC_Centurion_SS",
+    "hullMods": [
+        "fluxcoil",
+        "frontemitter",
+        "ringinterferecross",
+        "hardenedshieldemitter",
+        "shadowremainrra",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "frontemitter",
+        "ringinterferecross",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "frontemitter",
+        "ringinterferecross",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Centurion_SS_旅者",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "WthC_starsnode_elementS_gold",
+                "WS0001": "WthC_starsnode_elementS_wood",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_ForthrightMoon",
+                "WS 002": "WthC_ForthrightMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "shockrepeater",
+                "WS 005": "shockrepeater",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

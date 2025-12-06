@@ -1,0 +1,6 @@
+name,id,type,tags,activationDays,activationCooldown,durationDays,deactivationDays,deactivationCooldown,unlockedAtStart,defaultForAIFleet,musicSuppression,uiOn,uiOff,uiLoop,worldOn,worldOff,worldLoop,icon,plugin,ai,desc,sortOrder
+Scepter Resonance - Deep Dive,RingSpirit,DURATION,,0.5,,0.01,,30,,,,,chongji_fire,,,chongji_fire,,graphics/icons/abilities/WthC_ResonantPulse.png,data.skills.RingSpirit,,Scepter Resonance - Deep Dive,651
+Scepter Resonance - Drive,DriveResonance,DURATION,,0.05,,1.5,0.05,30,,,,,,qudong_loop,,,qudong_loop,graphics/icons/abilities/WthC_DriveResonance.png,data.skills.DriveResonance,,Scepter Resonance - Drive,652
+Scepter Resonance - Restoration,ResonanceRepair,DURATION,,0.05,,1,0.05,30,,,,,,fusu_loop,,,fusu_loop,graphics/icons/abilities/WthC_ResonanceRepair.png,data.skills.ResonanceRepair,,Scepter Resonance - Restoration,653
+Scepter Resonance - Dense Fog Twine,DenseFogTwine,TOGGLE,,0.05,,,0.05,,,,,fusu_loop,fusu_loop,ui_sustained_burn_loop,fusu_loop,fusu_loop,,graphics/icons/abilities/WthC_DenseFogTwine.png,data.skills.DenseFogTwine,,Scepter Resonance - Dense Fog Twine,654
+Scepter Resonance - Insight,Insight,TOGGLE,,0.05,,,0.05,,,,,fusu_loop,fusu_loop,ui_sustained_burn_loop,fusu_loop,fusu_loop,,graphics/icons/abilities/WthC_Insight.png,data.skills.Insight,,Scepter Resonance - Insight,655

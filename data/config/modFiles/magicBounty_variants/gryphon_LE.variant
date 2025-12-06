@@ -1,0 +1,60 @@
+{
+    "displayName": "LE",
+    "fluxCapacitors": 11,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "gryphon",
+    "hullMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "converted_hangar",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "eccm",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "eccm",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "gryphon_LE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "dragonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "gorgon",
+                "WS 012": "gorgon",
+                "WS 010": "gorgon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "dragon",
+                "WS 009": "dragon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "flak",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

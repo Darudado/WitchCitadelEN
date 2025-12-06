@@ -1,0 +1,27 @@
+{
+	"id":"DR_WitchDust",
+	"governingAptitude":"WthC_aptitude_darkreal",
+	"compressHullmods":false,
+	"elite":true,
+	"scope":CUSTOM,
+	"scopeStr":"all fleet",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"data.skills.DR_WitchDust$Level1A"},
+				{"type":"SHIP", "script":"data.skills.DR_WitchDust$Level1B"},
+			]
+		},
+		{
+			"name":"特殊修正",
+			"requiredSkillLevel":2,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"data.skills.DR_WitchDust$Level2A"},
+				{"type":"SHIP", "script":"data.skills.DR_WitchDust$Level2B"},
+			]
+		},
+	],
+}

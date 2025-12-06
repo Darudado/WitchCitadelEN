@@ -1,0 +1,70 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 10,
+    "fluxVents": 7,
+    "goalVariant": false,
+    "hullId": "ravelin",
+    "hullMods": [
+        "armoredweapons",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "ringinterfereie",
+        "fluxcoil",
+        "fluxdistributor",
+        "no_weapon_flux",
+        "fluxshunt",
+    ],
+    "permaMods": [
+        "armoredweapons",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "ringinterfereie",
+    ],
+    "sMods": [
+        "armoredweapons",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "ringinterfereie",
+    ],
+    "suppressedMods": [],
+    "variantId": "ravelin_Custom",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "cryoblaster",
+                "WS 005": "cryoblaster",
+                "WS 002": "lightneedler",
+                "WS 003": "lightneedler",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "miningblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "amsrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "WthC_MicroNodeBeam-A",
+                "WS 007": "WthC_MicroNodeBeam-A",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,33 @@
+{
+	"quality":1,
+	"displayName":"Beam Interceptor",
+	"hullId":"WthC_NSP",
+	"variantId":"WthC_NSP_Fighter",
+	"fluxVents":0,
+	"fluxCapacitors":0,
+	"hullMods":[
+		"no_weapon_flux",
+		"advancedoptics",
+		"fluxshunt",
+		"shield_always_on"
+	], # array of strings
+	
+	# mode is either LINKED or ALTERNATING
+	# slot ids (WS ***) must match what's in the .ship file
+	"weaponGroups":[
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0001":"WthC_OceanCurrent",
+		 		   },
+		},
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0002":"ionbeam",
+					"WS0003":"gravitonbeam",
+					"WS0004":"WthC_BreezeTacticalLaser",
+					"WS0005":"WthC_BreezeTacticalLaser",
+					"WS0006":"WthC_StormClouds",
+		 		   },
+		},
+	],
+}

@@ -1,0 +1,64 @@
+{
+  "hullName": "WthC_CSd",
+  "hullId": "WthC_CSd",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/CeremonialSword.png",
+  "style": "RIE_WITCH",
+  "height": 38,
+  "width": 38,
+  "center": [19, 17],
+  "collisionRadius": 30,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 30,
+  "viewOffset": 0,
+  "builtInMods": [
+    "no_weapon_flux"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [4.5, 10]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [4.5, -10]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-16, 8],
+      "length": 32,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-16, -7],
+      "length": 32,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "RIE_WITCH"
+    }
+  ],
+  "bounds": [
+    10, 17,
+    17, -0,
+    9.5, -16.5,
+    -15, -9,
+    -8, 1,
+    -15, 10,
+    -3, 10
+  ]
+}

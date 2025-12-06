@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Valkyrians">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Valkyrian_EN-3.2.2-rc5/jars/Valkyrians.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

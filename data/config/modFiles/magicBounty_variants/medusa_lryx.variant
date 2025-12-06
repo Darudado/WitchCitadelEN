@@ -1,0 +1,45 @@
+{
+  "variantId": "medusa_lryx",
+  "hullId": "medusa",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 20,
+  "fluxVents": 20,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "eccm",
+    "extendedshieldemitter",
+    "missleracks",
+    "ringfog",
+    "ringinterferedust",
+    "ringsup2",
+    "safetyoverrides",
+    "shadowremainssoul",
+    "missile_reload",
+    "increased_maintenance",
+    "glitched_sensors",
+    "degraded_life_support",
+    "damaged_deck",
+    "comp_storage"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 006": "sabotpod",
+        "WS 007": "sabotpod",
+        "WS 008": "atropos",
+        "WS 009": "atropos",
+        "WS 001": "atropos",
+        "WS 004": "atropos",
+        "WS 005": "atropos",
+        "WS 002": "atropos",
+        "WS 003": "atropos",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

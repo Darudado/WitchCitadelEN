@@ -1,0 +1,50 @@
+{
+    "displayName": "angel",
+    "fluxCapacitors": 20,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "facet",
+    "hullMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "missleracks",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "eccm",
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "facet_angel",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "resonatormrm",
+                "WS 003": "resonatormrm",
+                "WS 000": "resonatormrm",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "amsrm",
+                "WS 006": "amsrm",
+                "WS 007": "amsrm",
+                "WS 005": "amsrm",
+                "WS 002": "amsrm",
+                "WS 001": "amsrm",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

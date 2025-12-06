@@ -1,0 +1,63 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 35,
+    "fluxVents": 11,
+    "goalVariant": true,
+    "hullId": "WthC_champion_IE_B",
+    "hullMods": [
+        "fluxbreakers",
+        "ringinterferecross",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_champion_IE_B_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_gold",
+                "WS 003": "WthC_starsnode_elementS_gold",
+                "WS 000": "WthC_starsnode_elementS_gold",
+                "WS 001": "WthC_starsnode_elementS_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "tachyonlance",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "dualflak",
+                "WS 007": "dualflak",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 011": "WthC_MicroNodeBeam",
+                "WS 010": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

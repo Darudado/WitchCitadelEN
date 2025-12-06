@@ -1,0 +1,34 @@
+{
+    "displayName": "SEE",
+    "fluxCapacitors": 10,
+    "fluxVents": 7,
+    "goalVariant": false,
+    "hullId": "WthC_monitor_SS_FT",
+    "hullMods": [
+        "eccm",
+        "shield_shunt",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_monitor_SS_FT_SEE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_starsnode_element_fire",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_starsnode_element_soil",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

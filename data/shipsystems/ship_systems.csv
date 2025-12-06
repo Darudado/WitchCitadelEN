@@ -1,0 +1,24 @@
+name,id,flux/second,f/s (base rate),f/s (base cap),flux/use,f/u (base rate),f/u (base cap),cr/u,max uses,regen,charge up,active,down,cooldown,toggle,noDissipation,noHardDissipation,hardFlux,noFiring,noTurning,noStrafing,noAccel,noShield,noVent,isPhaseCloak,tags,icon
+Gathering Star Energy Mode,GatherStarEnergyDrive,,,,,,,,,,1,6,1,10,TRUE,,TRUE,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Gathering Star Energy Burn Drive,GatherStarEnergyBurnDrive,100,,0.005,,,,,,,1,9,1,5,TRUE,,TRUE,TRUE,,TRUE,TRUE,TRUE,,,,,graphics/icons/hullsys/GatherStarCore.png
+Gathering Star Energy Storm Drive,GatherStarEnergyStormDrive,100,,0.005,,,,,,,1,6,1,5,TRUE,,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,,,,graphics/icons/hullsys/GatherStarCore.png
+Gathering Star Core Overload,GatherStarCoreOverLoad,,,,,,,,,,1,4,0.2,6,,,TRUE,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Gathering Star Mass-Energy Interference,GatherStarMEinterference,,,,,,,,,,1,10,0.2,6,,,TRUE,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Gathering Star Concentrate Mode,GatherStarConcentrateMode,,,,,,,,,,1,6,0.2,10,TRUE,,TRUE,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Stardust Damper,StarDustDamper,1,,,,,,,,,0.25,6,0.25,10,,,,,TRUE,,,,TRUE,TRUE,,uses_damper_ai,graphics/icons/hullsys/GatherStarCore.png
+Stardust Base Shift,StarDustTeleporter,,,,,,,,3,0.05,0.2,0,0.2,3,,,,TRUE,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Stigmata Excite,StigmataExcite,,,,,,,,,,0.2,3,0.2,20,,,,,,,,,,TRUE,,,graphics/icons/hullsys/GatherStarCore.png
+Cross the Border,CrossTheBorder,,,,,,,,,,0.2,9,0.2,20,,,,,,,,,,TRUE,,,graphics/icons/hullsys/GatherStarCore.png
+Abandon Journey,AbandonJourney,,,,,,,,,,1,8,1,20,TRUE,,,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Until Elapse,UntilElapse,100,,0.005,,,,,,,1,6,1,8,,,TRUE,TRUE,,,TRUE,TRUE,,TRUE,,,graphics/icons/hullsys/GatherStarCore.png
+Grand Cruise,GrandCruise,100,,0.005,,,,,,,1,9,1,5,TRUE,,TRUE,TRUE,,TRUE,TRUE,TRUE,,,,,graphics/icons/hullsys/GatherStarCore.png
+Pale Armada Grand Cruise,PACGrandCruise,100,,0.005,,,,,,,1,9,1,5,TRUE,,TRUE,TRUE,,TRUE,TRUE,TRUE,,,,,graphics/icons/hullsys/GatherStarCore.png
+Workshop Matrix,MatrixWorkshop,,,,,,,,,,,20,,40,,,,,,,,,TRUE,TRUE,,,graphics/icons/hullsys/GatherStarCore.png
+Pale Workshop Matrix,MatrixWorkshopBa,,,,,,,,,,,30,,60,,,,,,,,,TRUE,TRUE,,,graphics/icons/hullsys/GatherStarCore.png
+Crimson Absolute Elimination Protocol,HongSeJueMie,,,,,,,,1,,1,120,0.2,5,,,,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Gathering Star Energy Storm Drive (Enhanced),GatherStarEnergyStormDrive_E,100,,0.005,,,,,,,1,6,1,5,TRUE,,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,,,,graphics/icons/hullsys/GatherStarCore.png
+Gathering Star Energy Mode (Enhanced),GatherStarEnergyDrive_E,,,,,,,,,,1,6,1,10,TRUE,,TRUE,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Stardust Damper (Enhanced),StarDustDamper_E,1,,,,,,,,,0.25,6,0.25,10,,,,,TRUE,,,,TRUE,TRUE,,uses_damper_ai,graphics/icons/hullsys/GatherStarCore.png
+Abandon Journey (Enhanced),AbandonJourney_E,,,,,,,,,,1,8,1,20,TRUE,,,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Stardust Base Shift (Enhanced),StarDustTeleporter_E,,,,,,,,3,0.75,0.5,0,0.5,3,,,,TRUE,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png
+Stardust Excite (TTR),StigmataExcite_TTR,,,,,,,,,,0.2,3,0.2,6,,,,,,,,,,,,,graphics/icons/hullsys/GatherStarCore.png

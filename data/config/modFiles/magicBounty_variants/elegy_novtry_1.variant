@@ -1,0 +1,71 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 1,
+    "hullId": "valk_elegy",
+    "hullMods": [
+        "crimsonmodificationrra",
+        "valk_skogulmodernization",
+        "shield_shunt",
+        "valk_fluxfog",
+        "armoredweapons",
+        "autorepair",
+        "targetingunit",
+        "heavyarmor"
+    ],
+    "permaMods": [
+        "crimsonmodificationrra",
+        "valk_skogulmodernization",
+        "shield_shunt"
+    ],
+    "sMods": [
+        "crimsonmodificationrra",
+        "valk_skogulmodernization",
+        "shield_shunt"
+    ],
+    "variantId": "elegy_novtry_1",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0017": "valk_geironul",
+                "WS0018": "valk_geironul"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0015": "valk_spectre",
+                "WS0016": "valk_spectre"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "valk_bcnn",
+                "WS0010": "valk_bcnn",
+                "WS0011": "valk_bcnn",
+                "WS0012": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_nxk_pd",
+                "WS0002": "valk_nxk_pd",
+                "WS0003": "valk_nxk_pd",
+                "WS0004": "valk_nxk_pd",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon",
+                "WS0007": "valk_irpdcannon",
+                "WS0008": "valk_irpdcannon",
+                "WS0013": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon"
+            }
+        }
+    ]
+}

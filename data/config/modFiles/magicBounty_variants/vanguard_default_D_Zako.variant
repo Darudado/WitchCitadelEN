@@ -1,0 +1,77 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "vanguard",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "armoredweapons",
+        "autorepair",
+        "blast_doors",
+        "eccm",
+        "fluxbreakers",
+        "insulatedengine",
+        "reinforcedhull",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "vanguard_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "WthC_gonggonq",
+                "WS 005": "WthC_ForthrightMoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "reaper",
+                "WS 000": "reaper",
+                "WS 001": "reaper",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "WthC_blazingassault",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

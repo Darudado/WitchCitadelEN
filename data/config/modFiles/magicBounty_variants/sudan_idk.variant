@@ -1,0 +1,59 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 13,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "glimmer",
+    "hullMods": [
+        "advancedoptics",
+        "fluxcoil",
+        "targetingunit",
+        "erosion1",
+        "erosion2",
+        "erosion3",
+        "erosion4",
+        "erosion5",
+        "fogtransformed",
+        "hardenedshieldemitter",
+        
+    ],
+    "permaMods": [
+        "advancedoptics",
+        "fluxcoil",
+        "targetingunit",
+    ],
+    "sMods": [
+        "advancedoptics",
+        "fluxcoil",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_idk",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "harpoon",
+                "WS 005": "harpoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "taclaser",
+                "WS 003": "taclaser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,72 @@
+{
+    "displayName": "S-Elf",
+    "fluxCapacitors": 0,
+    "fluxVents": 29,
+    "goalVariant": false,
+    "hullId": "WthC_legion_IE",
+    "hullMods": [
+        "heavyarmor",
+        "ringinterfererra",
+        "armoredweapons",
+        "crimsonmodificationelf",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "ringinterfererra",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_legion_IE_S-Elf",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_NewMoon",
+                "WS 001": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "WthC_starsnode_elementS_soil",
+                "WS 009": "WthC_starsnode_elementS_soil",
+                "WS 015": "WthC_starsnode_elementS_soil",
+                "WS 002": "WthC_starsnode_element_wood",
+                "WS 003": "WthC_starsnode_element_wood",
+                "WS 014": "WthC_starsnode_elementS_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "ionbeam",
+                "WS 004": "ionbeam",
+                "WS 005": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "WthC_MicroNodeBeam",
+                "WS 018": "WthC_MicroNodeBeam",
+                "WS 020": "WthC_MicroNodeBeam",
+                "WS 021": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_SMS_wing",
+        "WthC_SMS_wing",
+        "WthC_SMS_wing",
+        "WthC_CSd_wing",
+    ],
+    "modules": [],
+}

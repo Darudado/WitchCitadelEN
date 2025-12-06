@@ -1,0 +1,59 @@
+{
+    "displayName": "SD-Elf",
+    "fluxCapacitors": 15,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "WthC_Mora_IE_B",
+    "hullMods": [
+        "crimsonmodificationelf",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "permaMods": [
+        "crimsonmodificationelf",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "crimsonmodificationelf",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Mora_IE_B_SD-Elf",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0009": "WthC_starsnode_element_wood",
+                "WS0008": "WthC_starsnode_element_wood",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "WthC_starsnode_elementS_soil",
+                "WS0004": "WthC_starsnode_elementS_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_MicroNodeBeam",
+                "WS0002": "WthC_MicroNodeBeam",
+                "WS0005": "WthC_MicroNodeBeam",
+                "WS0007": "WthC_MicroNodeBeam",
+                "WS0006": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_RCH_wing",
+        "WthC_RCH_wing",
+        "WthC_RCH_wing",
+    ],
+    "modules": [],
+}

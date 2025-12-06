@@ -1,0 +1,89 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 55,
+    "fluxVents": 55,
+    "goalVariant": true,
+    "hullId": "In_Devil_Evilsun",
+    "hullMods": [
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "auxiliarythrusters",
+        "eccm",
+        "fluxdistributor",
+        "heavyarmor",
+        "ML_incompatibleHullmodWarning",
+        "armoredweapons",
+        "blast_doors",
+        "insulatedengine",
+    ],
+    "permaMods": [
+		"damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "auxiliarythrusters",
+        "eccm",
+        "fluxdistributor",
+        "heavyarmor",
+    ],
+    "sMods": [
+        "auxiliarythrusters",
+        "eccm",
+        "fluxdistributor",
+        "heavyarmor",
+    ],
+    "suppressedMods": [],
+    "variantId": "In_Devil_Evilsun_Custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 016": "WthC_TPCRune",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "WthC_starsnode",
+                "WS 000": "dragonpod",
+                "WS 002": "dragonpod",
+                "WS 003": "WthC_LiLancedeepblue",
+                "WS 005": "WthC_LiLancepale",
+                "WS 008": "hydra",
+                "WS 013": "hydra",
+                "WS 001": "ionbeam",
+                "WS 014": "resonatormrm",
+                "WS 015": "resonatormrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 007": "shockrepeater",
+                "WS 004": "shockrepeater",
+                "WS 010": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "shockrepeater",
+                "WS 012": "shockrepeater",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_RCH_wing",
+        "WthC_RCH_wing",
+    ],
+    "modules": [],
+}

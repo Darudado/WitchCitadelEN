@@ -1,0 +1,57 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 23,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "apex",
+    "hullMods": [
+        "missleracks",
+        "stabilizedshieldemitter",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "missleracks",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "missleracks",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "apex_RE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 005": "phasecl",
+                "WS 006": "phasecl",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "sabotpod",
+                "WS 007": "sabotpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyblaster",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

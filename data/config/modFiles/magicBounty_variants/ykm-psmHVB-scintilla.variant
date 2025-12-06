@@ -1,0 +1,47 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 4,
+    "fluxVents": 0,
+    "hullId": "WthC_scintilla_black",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "eccm",
+        "missleracks",
+        "unstable_injector",
+        "hardened_subsystems",
+        "safetyoverrides",
+        "degraded_engines",
+        "degraded_life_support",
+        "faulty_auto",
+        "fragile_subsystems",
+        "malfunctioning_comms"
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "eccm",
+        "missleracks",
+        "unstable_injector",
+        "hardened_subsystems"
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "eccm",
+        "missleracks",
+        "unstable_injector",
+        "hardened_subsystems"
+    ],
+    "variantId": "ykm-psmHVB-scintilla",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 006": "PSM_warpicklauncher",
+            "WS 007": "PSM_steelrain",
+            "WS 008": "heatseeker"
+        }
+    }],
+    "wings": [
+        "flash_wing",
+        "flash_wing"
+    ]
+}

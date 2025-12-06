@@ -1,0 +1,99 @@
+{
+    "displayName": "祭礼",
+    "fluxCapacitors": 55,
+    "fluxVents": 52,
+    "goalVariant": false,
+    "hullId": "WthC_Dreamer_IE_N",
+    "hullMods": [
+        "heavyarmor",
+        "magazines",
+        "ringinterferecross",
+        "armoredweapons",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "magazines",
+        "ringinterferecross",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "magazines",
+        "ringinterferecross",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Dreamer_IE_N_angel",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0014": "WthC_tpcdreamer",
+                "WS0013": "WthC_tpcdreamer",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0025": "WthC_starsnode_element_soil",
+                "WS0026": "WthC_starsnode_element_soil",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0020": "WthC_starsnode_elementS_gold",
+                "WS0019": "WthC_starsnode_elementS_gold",
+                "WS0018": "WthC_starsnode_elementS_gold",
+                "WS0017": "WthC_starsnode_elementS_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_NewMoon",
+                "WS0002": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "WthC_StormClouds",
+                "WS0015": "WthC_StormClouds",
+                "WS0012": "WthC_BreezeTacticalLaser",
+                "WS0011": "WthC_BreezeTacticalLaser",
+                "WS0010": "WthC_BreezeTacticalLaser",
+                "WS0009": "WthC_BreezeTacticalLaser",
+                "WS0008": "gravitonbeam",
+                "WS0005": "WthC_StormClouds",
+                "WS0007": "gravitonbeam",
+                "WS0006": "WthC_StormClouds",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "devastator",
+                "WS0027": "devastator",
+                "WS0004": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0023": "WthC_MicroNodeBeam",
+                "WS0024": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

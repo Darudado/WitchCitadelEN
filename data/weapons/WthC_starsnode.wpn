@@ -1,0 +1,20 @@
+{
+	"id":"WthC_starsnode",
+	"specClass":"projectile",
+	"type":"MISSILE",
+	"size":"MEDIUM",
+	"turretSprite":"graphics/weapons/WthC_stars_turret.png",
+	"hardpointSprite":"graphics/weapons/WthC_starsnode_hardpoint.png",
+	# glow sprites?
+	#"glowColor":[235,255,215,255],
+	"hardpointOffsets":[6, 0],
+	"turretOffsets":[6, 0],
+	"hardpointAngleOffsets":[0],
+	"turretAngleOffsets":[0],
+	"renderHints":[RENDER_LOADED_MISSILES],
+	"barrelMode":"LINKED",
+	"animationType":"NONE",
+	"interruptibleBurst":false,
+	"projectileSpecId":"starsnode_shot",
+	"fireSoundTwo":"resonator_fire",
+}

@@ -1,0 +1,59 @@
+{
+  "hullName": "WthC_HGB",
+  "hullId": "WthC_HGB",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/FT2.png",
+  "style": "RIE_WITCH",
+  "height": 26,
+  "width": 44,
+  "center": [22, 13],
+  "collisionRadius": 22.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 21.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 155,
+      "angle": 0,
+      "locations": [2.5, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-9, -0],
+      "length": 16.5,
+      "width": 7,
+      "angle": 180,
+      "contrailSize": 7,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-6, 10],
+      "length": 11,
+      "width": 3,
+      "angle": 180,
+      "contrailSize": 3,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-6, -10],
+      "length": 11,
+      "width": 3,
+      "angle": -180,
+      "contrailSize": 3,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    10, -10,
+    0.5, -19,
+    -10, -5.5,
+    -10, 5.5,
+    0.5, 19,
+    10, 10
+  ]
+}

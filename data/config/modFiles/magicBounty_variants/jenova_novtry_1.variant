@@ -1,0 +1,29 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 10,
+    "fluxVents": 1,
+    "hullId": "valk_jenova",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "valk_reconoptimization",
+        "fluxcoil"
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "valk_reconoptimization"
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "valk_reconoptimization"
+    ],
+    "variantId": "jenova_novtry_1",
+    "weaponGroups": [{
+        "autofire": true,
+        "mode": "ALTERNATING",
+        "weapons": {
+            "WS0002": "valk_lightlancer",
+            "WS0003": "valk_lightlancer",
+            "WS0004": "valk_lightlancer"
+        }
+    }]
+}

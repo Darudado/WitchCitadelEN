@@ -1,0 +1,100 @@
+{
+    "displayName": "Splendid veil",
+    "fluxCapacitors": 50,
+    "fluxVents": 48,
+    "goalVariant": false,
+    "hullId": "WthC_PaleCrown",
+    "hullMods": [
+        "autorepair",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "magazines",
+        "armoredweapons",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [
+        "autorepair",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "magazines",
+    ],
+    "sMods": [
+        "autorepair",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "magazines",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_PaleCrown_华幕",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_tpcPAC2",
+                "WS0002": "WthC_tpcPAC",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "WthC_LiLancepale",
+                "WS0006": "WthC_LiLancepale",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "WthC_LiLancecrimson",
+                "WS0008": "WthC_LiLancecrimson",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "WthC_LiLancedeepblue",
+                "WS0004": "WthC_LiLancedeepblue",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "WthC_DestinyTrack",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "WthC_StarryEmbellishment",
+                "WS0013": "WthC_StarryEmbellishment",
+                "WS0014": "WthC_StormClouds",
+                "WS0010": "WthC_StarryEmbellishment",
+                "WS0011": "WthC_StarryEmbellishment",
+                "WS0021": "WthC_BreezeTacticalLaser",
+                "WS0022": "WthC_BreezeTacticalLaser",
+                "WS0023": "WthC_BreezeTacticalLaser",
+                "WS0024": "WthC_BreezeTacticalLaser",
+                "WS0025": "WthC_BreezeTacticalLaser",
+                "WS0026": "WthC_BreezeTacticalLaser",
+                "WS0027": "WthC_BreezeTacticalLaser",
+                "WS0028": "WthC_BreezeTacticalLaser",
+                "WS0015": "WthC_MicroNodeBeam",
+                "WS0016": "WthC_MicroNodeBeam",
+                "WS0017": "WthC_MicroNodeBeam",
+                "WS0018": "WthC_MicroNodeBeam",
+                "WS0019": "WthC_MicroNodeBeam",
+                "WS0020": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

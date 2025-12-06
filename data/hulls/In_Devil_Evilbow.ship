@@ -1,0 +1,177 @@
+{
+    "hullName": "In_Devil_Evilbow",
+    "hullId": "In_Devil_Evilbow",
+    "hullSize": "DESTROYER",
+    "style": "RIE_WITCH",
+    "spriteName": "graphics/ships/Evilbow.png",
+    "height": 176,
+    "width": 168,
+    "center": [
+        98, 87.5
+    ],
+    "collisionRadius": 108.5,
+    "coversColor": "",
+    "shieldCenter": [
+        -8.5, -1
+    ],
+    "shieldRadius": 99.5,
+    "viewOffset": 0,
+    "builtInMods": [
+        "civgrade",
+        "chassis_storage",
+        "stealth_minefield",
+        "missile_reload",
+        "converted_hangar",
+		"evilintegration",
+        "crimsonmodificationssoul",
+        "iebaptism",
+        "ringinterfereelf",
+        "ringinterfereie",
+        "ringinterferessoul",
+        "ringinterfererra",
+        "ringintegration",
+        "starssynchronous",
+		"reinforcedhull",
+        "witch_emblem"
+    ],
+    "builtInWeapons": {
+        "WS 000": "WthC_starsnode_elementS_fire",
+        "WS 002": "WthC_starsnode_elementS_gold",
+        "WS 003": "WthC_starsnode_elementS_wood",
+        "WS 001": "WthC_starsnode_elementS_soil"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 000",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      48,     -7.5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                      48,    -36.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                    79.5,       -5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                       5,       43
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 270,
+            "angle": 253,
+            "locations": [
+                   -11.5,    -34.5
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                     -31,       -6
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -81, 48
+            ],
+            "length": 19.5,
+            "width": 10,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "HIGH_TECH"
+        },
+        {
+            "location": [
+                -83.5, 1
+            ],
+            "length": 21.5,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "LOW_TECH"
+        },
+        {
+            "location": [
+                -82.5, -10.5
+            ],
+            "length": 18,
+            "width": 7,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "RIE_WITCH"
+        },
+        {
+            "location": [
+                -79.5, -21
+            ],
+            "length": 21,
+            "width": 8,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -70.5, -42
+            ],
+            "length": 21,
+            "width": 8,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+              74,     -7.5,
+              33,    -30.5,
+             -13,    -37.5,
+             -68,       -5,
+              -4,       16,
+        
+             -58,     46.5,
+             -42,     59.5,
+             2.5,     45.5,
+              30,      7.5
+    ]
+}

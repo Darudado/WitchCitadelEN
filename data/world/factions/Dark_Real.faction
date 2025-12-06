@@ -1,0 +1,190 @@
+{
+	id:"Dark_Real", # ... or is it?
+	"displayName":"Reality Rift",
+	"displayNameWithArticle":"Reality Rift",
+	"entityNamePrefix":"",
+	"personNamePrefix":"",
+	"personNamePrefixAOrAn":"an",
+	"displayNameIsOrAre":"are",
+	
+	"logo":"graphics/factions/Pale_Phantom.png",
+	"crest":"graphics/factions/Crest_Pale_Phantom.png",
+	"shipNamePrefix":"Pale",
+	
+	"color":[210, 210, 210, 255],
+	"baseUIColor":[210, 210, 210, 255],
+	
+	"showInIntelTab":false,
+	
+	"shipNameSources":{
+		"MERCANTILE":1,
+		"SPACE":1,
+		"DERELICT_DRONE":1,
+	},
+	"names":{
+		"ai":1,
+	},
+	"variantOverrides":{
+	},
+	# multiplier for how often hulls show up in the faction's fleets
+	"hullFrequency":{
+		"tags":{
+		},
+		"hulls":{
+		},
+	},
+	# ships the faction gets access to when importing S&W out-of-faction
+	"shipsWhenImporting":{
+		"tags":["RIE_bp", "RIEB_bp"],
+		"hulls":[
+		],
+	},
+	"knownShips":{
+		"tags":["RIE_bp", "RIEB_bp"],
+		"hulls":[
+		],
+	},
+	# listing ships here will make the faction mostly use them even if other hulls become available
+	"priorityShips":{
+		"tags":[],
+		"hulls":[
+		],
+	},
+	"knownFighters":{
+		"tags":["RIE_bp"],
+		"fighters":[
+		],
+	},
+	"priorityFighters":{
+		"tags":[],
+		"fighters":[
+		],
+	},
+	"knownWeapons":{
+		"tags":["RIE_bp", "RIEB_bp"],
+		"weapons":[
+		],
+	},
+	"priorityWeapons":{
+		"tags":[],
+		"weapons":[
+		],
+	},
+	
+		
+	"knownHullMods":{
+		"tags":["base_bp", "RIE_bp", "RIEB_bp"],
+		"hullMods":[
+			"advancedshieldemitter", # accelerated
+			"advancedoptics",
+			"turretgyros",
+			"armoredweapons",
+			"augmentedengines",
+			"autorepair",
+			"converted_hangar",
+			"eccm",
+			"ecm",
+			"expanded_deck_crew",
+			"magazines",
+			"missleracks",
+			"extendedshieldemitter",
+			"frontemitter",
+			"frontshield",  # makeshift
+			"hardenedshieldemitter",
+			"heavyarmor",
+			"insulatedengine",
+			"pointdefenseai",
+			"targetingunit",
+			"nav_relay",
+			"adaptiveshields", # omni
+			"operations_center",
+			"recovery_shuttles",
+			"fluxbreakers",
+			"solar_shielding",
+			"stabilizedshieldemitter",
+			"surveying_equipment",
+			"crimsonmodificationie",
+			"crimsonmodificationrra",
+			"crimsonmodificationdust",
+			"crimsonmodificationcross",
+			"crimsonmodificationssoul",
+			"ringinterferessoul",
+			"ringinterfereie",
+			"ringinterfererra",
+			"ringinterferedust",
+			"ringinterferecross",
+			"erosion1",
+			"erosion2",
+			"erosion3",
+			"erosion4",
+			"erosion5",
+		],
+	},
+	"factionDoctrine":{
+		"warships":5,
+		"carriers":0,
+		"phaseShips":0,
+		
+		"officerQuality":4,
+		"shipQuality":5,
+		"numShips":1,
+		
+		"shipSize":5,
+		
+		"aggression":5, # doesn't matter since automated ships are super aggressive regardless
+		
+		"combatFreighterProbability":0,     				# instead of some portion of the freighters in a fleet
+		"combatFreighterCombatUseFraction":1,				# as part of the normal combat lineup
+		"combatFreighterCombatUseFractionWhenPriority":1,   # as part of normal combat lineup, when marked as priority ship
+		"autofitRandomizeProbability":0.25,
+
+		"commanderSkillsShuffleProbability":1,
+		"commanderSkills":[
+		],
+	},
+	#"shipRoles":{
+	#},
+	"illegalCommodities":[
+	],
+	"music":{
+		"theme":"AL2",
+		"market_neutral":"AL2",
+		"market_hostile":"AL2",
+		"market_friendly":"AL2",
+		"encounter_neutral":"AL2",
+		"encounter_hostile":"AL2",
+		"encounter_friendly":"AL2",
+	},	
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/DR/RRA.png",
+			"graphics/portraits/DR/Cross.png",
+			"graphics/portraits/DR/IE.png",
+			"graphics/portraits/DR/SSoul.png",
+			"graphics/portraits/DR/Elf.png",
+			"graphics/portraits/DR/Dust.png",
+		],
+		"standard_female":[
+			"graphics/portraits/DR/RRA.png",
+			"graphics/portraits/DR/Cross.png",
+			"graphics/portraits/DR/IE.png",
+			"graphics/portraits/DR/SSoul.png",
+			"graphics/portraits/DR/Elf.png",
+			"graphics/portraits/DR/Dust.png",
+		],
+	},
+	"custom":{
+		"engageWhenEvenStrength":true,
+		"allowsTransponderOffTrade":true, # to prevent cargoscan dialog from "patrols"
+		"postsNoBounties":true,
+		"fightToTheLast":true, # order a full assault instead of retreating, in most cases
+		"noAICoresFromAutomatedDefenses":true,
+		"officersOnAutomatedDefenses":true,
+	},	
+	"fleetTypeNames":{
+		"patrolSmall":"Minor Apparition", 
+		"patrolMedium":"Manifestation", 
+		"patrolLarge":"Major Incursion", 
+		"battlestation":"Stable Incursion",
+	},
+},

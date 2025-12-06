@@ -1,0 +1,17 @@
+{
+	"id":"WitchSup",
+	"governingAptitude":"WthC_aptitude_darkreal",
+	"compressHullmods":false,
+	"elite":false,
+	"scope":CUSTOM,
+	"scopeStr":"all fleet",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"data.skills.WitchSup$Level1A"},
+			]
+		},
+	],
+}

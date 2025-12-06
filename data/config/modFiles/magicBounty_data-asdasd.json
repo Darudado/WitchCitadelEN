@@ -1,0 +1,89 @@
+{    
+
+"WthC_TTT-T1": {
+	"required_mods_id": ["valkyrian"],
+	"trigger_marketFaction_any": ["Crimson_citadel"],
+	"trigger_marketFaction_alliedWith": false,
+
+	"job_name": "女武神联动测试",
+	"job_forFaction": "Crimson_citadel",
+	"job_description": "123123",
+	"job_comm_reply": "123",
+	"job_intel_success": "1233",
+	"job_intel_expired": "12333",
+	"job_pick_option":"1211",
+	"job_credit_reward": 0,
+	"job_reputation_reward":0,
+	"job_reward_scaling": 0,
+	"job_item_reward": {
+	},
+	"job_type":"obliteration",
+	"job_show_type":true,
+	"job_show_captain": true,
+	"job_show_fleet": true,
+	"job_show_distance": "none",
+
+	"target_first_name":"?????",
+	"target_last_name":"???",
+	"target_rank": "WthC_DR",
+	"target_posts": "WthC_DR",
+	"target_portrait":"DR_Dust",
+	"target_gender":"FEMALE",
+	"target_aiCoreId": "alpha_core",
+	"target_level": 9,
+	"target_personality": "heroic",
+	"target_skills": { 
+		
+	"tactical_drills":1,
+	"coordinated_maneuvers":1,
+	"wolfpack_tactics":1,
+	"crew_training":1,
+	"electronic_warfare":1,
+	"flux_regulation":1,
+	"officer_training":1,
+	"officer_management":1,
+	"best_of_the_best":1,
+	"support_doctrine":1,
+	"hull_restoration":1,
+	"fighter_uplink":1,
+	"carrier_group":1,
+	"derelict_contingent":1,
+	"Overmind_Doctrine":2,
+	"cybernetic_augmentation":1,
+	"DR_WitchDust":2,
+
+	"helmsmanship":2,
+	"combat_endurance":2,
+	"impact_mitigation":2,
+	"damage_control":2,
+	"field_modulation":2,
+	"point_defense":2,
+	"target_analysis":2,
+	"ballistic_mastery":2,
+	"systems_expertise":2
+
+	},
+
+	"fleet_name": "古典爱情:血红",
+	"fleet_faction": "Dark_Real_Ex",
+	"fleet_flagship_variant": "valk_elfheim_S233", 
+	"fleet_flagship_autofit": true,
+	"fleet_flagship_recoverable": false,
+	"fleet_no_retreat": true,
+	"fleet_scaling_multiplier": 1.2,
+	"fleet_preset_ships": {
+		"valk_elfheim_S233": 5
+	},
+	"fleet_preset_autofit": false,
+	"fleet_transponder": false,
+	"fleet_behavior": "PASSIVE",
+	"fleet_composition_faction": "Dark_Real_Ex",
+	"fleet_composition_quality": 2,
+
+	"location_distance": "CLOSE",
+	"location_themes": ["WthC_Void"],
+	"location_entities":["gate"],
+	"location_prioritizeUnexplored": true,
+	"location_defaultToAnyEntity": true
+}
+}

@@ -1,0 +1,10 @@
+id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
+WthC_HGB_wing,WthC_HGB_Fighter,"interceptor, high, RIE_bp, hist1t, merc",3,0.5,7,10,V,4000,500,,5,INTERCEPTOR,Interceptor,10,10000,,,,,,,,,,,,,2
+WthC_CSd_wing,WthC_CSd_Fighter,"support3, fighter, high, RIE_bp, hist1t, merc",3,0.5,7,19,V,0,500,,3,SUPPORT,Support Craft,15,12000,,,,,,,,,,,,,2
+WthC_VDS_wing,WthC_VDS_Fighter,"restricted, auto_fighter, no_drop, no_sell,",3,0.5,7,66,V,0,500,,1,SUPPORT,Support Craft,15,100000,,,,,,,,,,,,,2
+WthC_VSS_wing,WthC_VSS_Fighter,"restricted, auto_fighter, no_drop, no_sell,",3,0.5,7,66,V,0,500,,1,SUPPORT,Support Craft,15,100000,,,,,,,,,,,,,2
+WthC_SMS_wing,WthC_SMS_Fighter,"fighter, high, WDust_bp, hist1t, merc",3,0.5,7,19,V,2000,500,,2,FIGHTER,Heavy Fighter,15,12000,,,,,,,,,,,,,2
+WthC_RCH_wing,WthC_RCH_Fighter,"restricted, fighter, no_drop, no_sell",3,0.5,7,30,V,4000,500,,1,FIGHTER,Warship Hunter,25,50000,,,,,,,,,,,,,2
+WthC_TTR_wing,WthC_TTR_Fighter,"restricted, interceptor, no_drop, no_sell",3,0.5,7,30,V,4000,500,,1,INTERCEPTOR,Squadron Destroyer,25,50000,,,,,,,,,,,,,2
+WthC_NSP_wing,WthC_NSP_Fighter,"restricted, fighter, no_drop, no_sell, stay_in_front_of_ship",3,0.5,7,30,V,0,500,,1,SUPPORT,Beam Guardian,25,50000,,,,,,,,,,,,,2
+WthC_LIB_wing,WthC_LIB_Fighter,"interceptor, auto_fighter, high, no_drop, no_sell",0,,1,0,V,2000,200,600,1,INTERCEPTOR,Drone Interceptor,6,500,,,,,,,,,,,,,6

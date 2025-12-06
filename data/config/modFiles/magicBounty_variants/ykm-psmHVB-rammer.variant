@@ -1,0 +1,49 @@
+{
+    "displayName": "侦查",
+    "fluxCapacitors": 8,
+    "fluxVents": 0,
+    "hullId": "PSM_rammer",
+    "hullMods": [
+        "converted_hangar",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+        "hardened_subsystems",
+        "defective_manufactory",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "degraded_life_support"
+    ],
+    "modules": [{"WS0012": "ykm-psmHVB-rammer-MOD1"}],
+    "permaMods": [
+        "converted_hangar",
+        "extendedshieldemitter",
+        "hardenedshieldemitter"
+    ],
+    "sMods": [
+        "converted_hangar",
+        "extendedshieldemitter",
+        "hardenedshieldemitter"
+    ],
+    "variantId": "ykm-psmHVB-rammer",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "PSM_lightmortar_TSM",
+                "WS0002": "PSM_lightmortar_TSM",
+                "WS0003": "PSM_lightmortar_TSM",
+                "WS0004": "PSM_lightmortar_TSM",
+                "WS0006": "PSM_tubular_cannon_twin"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0011": "lightneedler"}
+        }
+    ],
+    "wings": ["PSM_P_blocker"]
+}

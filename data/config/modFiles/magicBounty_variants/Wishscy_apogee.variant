@@ -1,0 +1,77 @@
+{
+    "displayName": "Balanced",
+    "fluxCapacitors": 30,
+    "fluxVents": 22,
+    "goalVariant": true,
+    "hullId": "apogee",
+    "hullMods": [
+        "crimsonmodificationcross",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "targetingunit",
+        "stabilizedshieldemitter",
+        "no_weapon_flux",
+        "missile_reload",
+        "fluxshunt",
+    ],
+    "permaMods": [
+        "crimsonmodificationcross",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "sMods": [
+        "crimsonmodificationcross",
+        "hardenedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_apogee",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_LiLancedeepblue",
+                "WS 005": "sabot",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pilum_large",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "ionbeam",
+                "WS 007": "WthC_MicroNodeBeam-A",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_LittleNodeBeam-A",
+                "WS 001": "WthC_LittleNodeBeam-A",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "shockrepeater",
+                "WS 003": "shockrepeater",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

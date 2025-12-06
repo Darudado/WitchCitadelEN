@@ -1,0 +1,87 @@
+{
+	"name":"Nizer",
+	"personalities":["steady", "aggressive", "reckless", "heroic"],
+	"gender":["f"],
+	"chance":0,
+	"talkativeness":1.75,
+	"categoryTags":["othermedia"],
+	
+	"lines":{
+		"start":[
+			{"text":"War never ceases..."},
+			{"text":"The infernal flames are reborn..."},
+			{"text":"The Reaper returns to the battlefield..."},
+			{"text":"Listen to the roar of the cannons..."},
+			{"text":"The storm sweeps through, leaving trembling in its wake..."}
+		],
+		"start_boss":[
+			{"text":"Death always arrives on schedule..."},
+			{"text":"Even the strong will bow their heads..."},
+			{"text":"Pleasure will eventually fade into calm..."},
+			{"text":"The dead will never return home..."},
+			{"text":"Prayers are always meaningless..."}
+		],
+		"retreat":[
+			{"text":"Even if we leave for now... the storm will return..."},
+			{"text":"Wait for the gale to subside... and the downpour will follow..."},
+			{"text":"Surviving is no disgrace... the blood still boils and burns..."}
+		],
+		"out_of_missiles":[
+			{"text":"Too bad I can't draw my sword myself..."},
+			{"text":"There's never just one sword in hand..."}
+		],
+		"engaged":[
+			{"text":"The flash of a blade... leaves behind streaks of blood..."},
+			{"text":"Undercurrents surge... obliterating endless illusions..."},
+			{"text":"Heaven collapses... there is no savior..."},
+			{"text":"The death bell tolls... until the sea of death..."}
+		],
+		"need_help":[
+			{"text":"I've long grown accustomed to fighting alone..."},
+			{"text":"Rushing in will only cause more trouble..."},
+			{"text":"Redemption never belongs to those who wield the sword..."}
+		],
+		"pursuing":[
+			{"text":"The void is the finest grave for all..."}
+		],
+		"running":[
+			{"text":"Retreat? It's too late..."},
+			{"text":"Escape? It's meaningless..."}
+		],
+		"hull_90":[
+			{"text":"Come... until the brave fall dead..."},
+			{"text":"That's right... you really have a chance to defeat a god this time..."},
+			{"text":"Look... the stars sing for the passing of life..."},
+			{"text":"Fear not... the purity of the soul comes from a death without regret..."}
+		],
+		"hull_50":[
+			{"text":"It begins... the real game..."},
+			{"text":"Once again... welcoming the storm..."},
+			{"text":"Next... the stars will bear witness..."},
+			{"text":"Just like this... as all things burn..."}
+		],
+		"hull_30":[
+			{"text":"The flames of war still burn... the storm will sweep through again..."},
+			{"text":"The Reaper is eternal... the shadows never fade..."},
+			{"text":"The embers reignite... the blazing soul still accompanies them..."},
+			{"text":"The dirge rises again... the dead still find no rest..."}
+		],
+		"overload":[
+			{"text":"It seems the ship is as fragile as ever..."},
+			{"text":"Too bad I can't personally charge into the frenzied frontlines..."},
+			{"text":"Being incapacitated is just the prelude to true suffering..."}
+		],
+		"death":[
+			{"text":"Congratulations... you've successfully defeated the Reaper's phantom..."},
+			{"text":"Perhaps... next time you'll have a chance to face the real one..."},
+			{"text":"Maybe... not until the stars shatter will I meet my end..."}
+		],
+		"victory":[
+			{"text":"A god who easily takes the lives of mortals is never worth praising..."},
+			{"text":"At least the brave die by the Reaper's blade, which harvests souls..."},
+			{"text":"The afterlife never opens its doors to those in the sorrowful sector..."},
+			{"text":"Too bad the so-called afterlife is just a distant, unreachable dream..."}
+		]
+	}
+}
+}

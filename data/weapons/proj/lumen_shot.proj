@@ -1,0 +1,18 @@
+{
+	"id":"lumen_shot",
+	"specClass":"projectile",
+	"onHitEffect":"data.weapons.onhit.LuminOnHitEffect",
+	"spawnType":"BALLISTIC_AS_BEAM",
+	"collisionClass":"RAY",
+	"collisionClassByFighter":"RAY_FIGHTER",
+	"hitGlowRadius":20,
+	"length":14.0,
+	"width":14.0,
+	"fadeTime":0.25,
+	"fringeColor":[254,255,167,255],
+	"coreColor":[225,225,255,200],
+	"textureType":"ROUGH",  # only needed for BEAM spawnType
+	"textureScrollSpeed":-256.0,
+	"pixelsPerTexel":5.0,
+	"bulletSprite":"graphics/missiles/lumen2.png"
+}

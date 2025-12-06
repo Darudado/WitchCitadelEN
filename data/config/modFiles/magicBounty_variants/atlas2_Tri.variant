@@ -1,0 +1,54 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 25,
+    "fluxVents": 35,
+    "goalVariant": false,
+    "hullId": "atlas2",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "converted_hangar",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "atlas2_Tri",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "gauss",
+                "WS 008": "gauss",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "squall",
+                "WS 013": "squall",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "vulcan",
+                "WS 011": "vulcan",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

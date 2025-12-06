@@ -1,0 +1,51 @@
+{
+    "displayName": "Pri",
+    "fluxCapacitors": 16,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "mule_d_pirates",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "converted_hangar",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "mule_d_pirates_Pri",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "sabot",
+                "WS 002": "sabot",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "dragon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "lightmortar",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

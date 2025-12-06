@@ -1,0 +1,42 @@
+{
+    "displayName": "S-Cross",
+    "fluxCapacitors": 10,
+    "fluxVents": 9,
+    "goalVariant": false,
+    "hullId": "WthC_HundredEyes",
+    "hullMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "eccm",
+        "frontemitter",
+        "hardenedshieldemitter",
+        "ringinterferecross",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "fluxdistributor",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "fluxdistributor",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_HundredEyes_S-Cross",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "WthC_starsnode_elementS_wood",
+                "WS0006": "WthC_starsnode_elementS_wood",
+                "WS0007": "WthC_starsnode_elementS_water",
+                "WS0001": "gorgon",
+                "WS0002": "heatseeker",
+                "WS0003": "gorgon",
+                "WS0004": "gorgon",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

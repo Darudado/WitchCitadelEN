@@ -1,0 +1,74 @@
+{
+    "displayName": "Assault",
+    "fluxCapacitors": 0,
+    "fluxVents": 7,
+    "goalVariant": true,
+    "hullId": "centurion_LG",
+    "hullMods": [
+        "heavyarmor",
+        "ringinterfererra",
+        "shield_shunt",
+        "damaged_mounts",
+        "degraded_life_support",
+        "degraded_shields",
+        "faulty_auto",
+        "armoredweapons",
+        "autorepair",
+        "blast_doors",
+        "fluxbreakers",
+        "insulatedengine",
+        "pointdefenseai",
+        "reinforcedhull",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "ringinterfererra",
+        "shield_shunt",
+        "damaged_mounts",
+        "degraded_life_support",
+        "degraded_shields",
+        "faulty_auto",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "ringinterfererra",
+        "shield_shunt",
+    ],
+    "suppressedMods": [],
+    "variantId": "centurion_LG_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_Lumen",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "amsrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_Lumen",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

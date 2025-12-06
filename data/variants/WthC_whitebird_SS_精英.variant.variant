@@ -1,0 +1,37 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 7,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "WthC_whitebird_SS",
+    "hullMods": [
+        "fluxbreakers",
+        "ringinterfererra",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_whitebird_SS_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_MicroNodeBeam",
+                "WS0002": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "WthC_starsnode_elementS_soil",
+                "WS0004": "WthC_starsnode_elementS_wood",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_HGB_wing",
+    ],
+    "modules": [],
+}

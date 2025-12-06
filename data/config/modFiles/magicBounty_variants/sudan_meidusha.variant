@@ -1,0 +1,54 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 14,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "medusa",
+    "hullMods": [
+        "extendedshieldemitter",
+        "frontemitter",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+        
+    ],
+    "permaMods": [
+        "extendedshieldemitter",
+        "frontemitter",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "extendedshieldemitter",
+        "frontemitter",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_meidusha",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "amblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "minipulser",
+                "WS 002": "minipulser",
+                "WS 003": "minipulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "heavyblaster",
+                "WS 007": "ionpulser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

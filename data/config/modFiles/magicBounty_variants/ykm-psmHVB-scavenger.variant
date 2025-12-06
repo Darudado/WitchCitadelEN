@@ -1,0 +1,52 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 20,
+    "fluxVents": 14,
+    "hullId": "PSM_scavenger",
+    "hullMods": [
+        "unstable_injector",
+        "converted_hangar",
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+        "extendedshieldemitter",
+        "fragile_subsystems",
+        "malfunctioning_comms",
+        "faulty_auto",
+        "increased_maintenance",
+        "degraded_life_support",
+        "targetingunit"
+    ],
+    "permaMods": [
+        "unstable_injector",
+        "converted_hangar",
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+        "extendedshieldemitter"
+    ],
+    "sMods": [
+        "unstable_injector",
+        "converted_hangar",
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+        "extendedshieldemitter"
+    ],
+    "variantId": "ykm-psmHVB-scavenger",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "PSM_cargocatapult",
+                "WS0003": "PSM_cargocatapult",
+                "WS0004": "PSM_cargocatapult",
+                "WS0008": "PSM_cargocatapult"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0009": "PSM_lightmortar_TSM"}
+        }
+    ],
+    "wings": ["PSM_P_whaler"]
+}

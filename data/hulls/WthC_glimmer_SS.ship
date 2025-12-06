@@ -1,0 +1,161 @@
+{
+  "hullName": "WthC_glimmer_SS",
+  "hullId": "WthC_glimmer_SS",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/light_SS.png",
+  "style": "RIE_WITCH",
+  "height": 80,
+  "width": 78,
+  "center": [39, 36],
+  "collisionRadius": 70,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 68,
+  "viewOffset": 0,
+  "builtInMods": [
+    "starssynchronous"
+  ],
+  "builtInWeapons": {
+    "WS 001": "WthC_starsnode_element_wood",
+    "WS 004": "WthC_starsnode_elementS_water",
+    "WS 005": "WthC_starsnode_elementS_water"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "MEDIUM",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [28, -0]
+    },
+    {
+      "id": "WS 002",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": 50,
+      "locations": [-3, 23]
+    },
+    {
+      "id": "WS 003",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": -50,
+      "locations": [-3, -23]
+    },
+    {
+      "id": "WS 004",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [20.5, 17]
+    },
+    {
+      "id": "WS 005",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [20.5, -17]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-24, 29],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-26, 25],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-28, 20],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-31, 11],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-33, 5],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-33, -4],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-31, -10],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-28, -19],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-26, -23],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-24, -28],
+      "length": 20,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 24,
+      "style": "RIE_WITCH"
+    }
+  ],
+  "bounds": [
+    -9, 37,
+    17, 26,
+    41, 0,
+    16, -27,
+    -10, -36,
+    -22, -31,
+    -32, 0,
+    -21, 32
+  ]
+}

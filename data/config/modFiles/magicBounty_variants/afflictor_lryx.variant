@@ -1,0 +1,53 @@
+{
+  "variantId": "afflictor_lryx",
+  "hullId": "afflictor",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 20,
+  "fluxVents": 20,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "adaptive_coils",
+    "missleracks",
+    "ringfog",
+    "ringinterfererra",
+    "ringsup2",
+    "safetyoverrides",
+    "shadowremainssoul",
+    "unstable_injector",
+    "blast_doors",
+    "armoredweapons",
+    "autorepair",
+    "auxiliarythrusters",
+    "damaged_deck",
+    "damaged_mounts",
+    "degraded_drive_field",
+    "degraded_life_support",
+    "ecm",
+    "eccm",
+	"no_weapon_flux",
+    "ex_phase_coils",
+    "fluxcoil",
+    "fluxdistributor",
+    "hardened_subsystems",
+    "missile_reload",
+    "reinforcedhull",
+    "solar_shielding"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 002": "amsrm",
+        "WS 003": "amsrm",
+        "WS 001": "amsrm",
+        "WS 004": "amsrm",
+        "WS 006": "amsrm",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

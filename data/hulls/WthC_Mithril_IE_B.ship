@@ -1,0 +1,294 @@
+{
+  "hullName": "WthC_Mithril_IE_B",
+  "hullId": "WthC_Mithril_IE_B",
+  "hullSize": "CAPITAL_SHIP",
+  "spriteName": "graphics/ships/WthC_Mithril_IE_B.png",
+  "style": "RIE_WITCH",
+  "height": 444,
+  "width": 272,
+  "center": [136, 223],
+  "collisionRadius": 241,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 233.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "iebaptism",
+    "blasstbaptism",
+    "heavyequipmentintegration",
+    "witch_emblem",
+    "ringintegration"
+  ],
+  "builtInWeapons": {
+    "WS0002": "WthC_starsnode",
+    "WS0005": "WthC_starsnode",
+    "WS0006": "WthC_starsnode",
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0007",
+      "size": "LARGE",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": -50,
+      "locations": [14, -81]
+    },
+    {
+      "id": "WS0008",
+      "size": "LARGE",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": 50,
+      "locations": [14, 81]
+    },
+    {
+      "id": "WS0009",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": -50,
+      "locations": [121, -37]
+    },
+    {
+      "id": "WS0010",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": 50,
+      "locations": [121, 37]
+    },
+    {
+      "id": "WS0011",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": 50,
+      "locations": [171, 27]
+    },
+    {
+      "id": "WS0012",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": -50,
+      "locations": [171, -27]
+    },
+    {
+      "id": "WS0013",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": -55,
+      "locations": [151, -27]
+    },
+    {
+      "id": "WS0014",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": 55,
+      "locations": [151, 27]
+    },
+    {
+      "id": "WS0015",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": -40,
+      "locations": [25, -121]
+    },
+    {
+      "id": "WS0016",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": 40,
+      "locations": [25, 121]
+    },
+    {
+      "id": "WS0017",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": -60,
+      "locations": [60, -51]
+    },
+    {
+      "id": "WS0018",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": 60,
+      "locations": [60, 51]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 140,
+      "angle": 120,
+      "locations": [-33, 112]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 140,
+      "angle": -120,
+      "locations": [-33, -112]
+    },
+    {
+      "id": "WS0019",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": 125,
+      "locations": [-86, 29]
+    },
+    {
+      "id": "WS0020",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": -125,
+      "locations": [-86, -29]
+    },
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 180,
+      "locations": [-83, 0]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": 0,
+      "locations": [52, 103]
+    },
+    {
+      "id": "WS0005",
+      "size": "MEDIUM",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": -0,
+      "locations": [52, -103]
+    },
+    {
+      "id": "WS0006",
+      "size": "MEDIUM",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": -0,
+      "locations": [70, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-142.5, -43],
+      "length": 41.5,
+      "width": 15,
+      "angle": 175,
+      "contrailSize": 15,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-142.5, 41],
+      "length": 41.5,
+      "width": 15,
+      "angle": -175,
+      "contrailSize": 15,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-172.5, -22],
+      "length": 56.5,
+      "width": 19,
+      "angle": 175,
+      "contrailSize": 19,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-172.5, 20],
+      "length": 56.5,
+      "width": 19,
+      "angle": -175,
+      "contrailSize": 19,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-91, -72.5],
+      "length": 102,
+      "width": 35,
+      "angle": -180,
+      "contrailSize": 35,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-91, 70.5],
+      "length": 102,
+      "width": 35,
+      "angle": 180,
+      "contrailSize": 35,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-80.5, -98],
+      "length": 60.5,
+      "width": 18,
+      "angle": -180,
+      "contrailSize": 18,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-80.5, 96],
+      "length": 60.5,
+      "width": 18,
+      "angle": 180,
+      "contrailSize": 18,
+      "style": "RIE_WITCH"
+    }
+  ],
+  "bounds": [
+    84, 16.5,
+    203.5, 4.5,
+    199.5, 61.5,
+    115.5, 83.5,
+    57, 108.5,
+    13, 132.5,
+    -98.5, 95,
+    -90, 56.5,
+    -212, -2,
+    -90, -58.5,
+    -96, -103,
+    19, -133.5,
+    57, -117.5,
+    131, -85,
+    195.5, -66.5,
+    211.5, -14.5,
+    80.5, -15.5,
+    70, 1.5
+  ]
+}

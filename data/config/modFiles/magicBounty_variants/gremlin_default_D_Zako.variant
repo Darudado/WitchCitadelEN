@@ -1,0 +1,49 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 4,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "gremlin",
+    "hullMods": [
+        "fluxcoil",
+        "missleracks",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "faulty_auto",
+        "glitched_sensors",
+        "increased_maintenance",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "missleracks",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "faulty_auto",
+        "glitched_sensors",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "missleracks",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "gremlin_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "reaper",
+                "WS 003": "reaper",
+                "WS 000": "WthC_blazingassault",
+                "WS 001": "WthC_blazingassault",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

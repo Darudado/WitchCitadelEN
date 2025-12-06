@@ -1,0 +1,56 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 25,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "WthC_Medusa_SS",
+    "hullMods": [
+        "converted_hangar",
+        "fluxbreakers",
+        "magazines",
+        "ringinterferecross",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Medusa_SS_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "miningblaster",
+                "WS 007": "ionpulser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "WthC_starsnode_elementS_water",
+                "WS 009": "WthC_starsnode_elementS_water",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightdualac",
+                "WS 003": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 001": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [
+        "wasp_wing",
+    ],
+    "modules": [],
+}

@@ -1,0 +1,68 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 15,
+    "fluxVents": 2,
+    "goalVariant": true,
+    "hullId": "In_Devil_Eviljoy",
+    "hullMods": [
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "eccm",
+        "fluxcoil",
+        "heavyarmor",
+        "nav_relay",
+        "ML_incompatibleHullmodWarning",
+        "autorepair",
+        "ecm",
+        "expanded_deck_crew",
+        "fluxbreakers",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "pointdefenseai",
+        "reinforcedhull",
+        "solar_shielding",
+        "stabilizedshieldemitter",
+        "unstable_injector",
+    ],
+    "permaMods": [
+		"damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "eccm",
+        "fluxcoil",
+        "heavyarmor",
+        "nav_relay",
+    ],
+    "sMods": [
+        "eccm",
+        "fluxcoil",
+        "heavyarmor",
+        "nav_relay",
+    ],
+    "suppressedMods": [],
+    "variantId": "In_Devil_Eviljoy_Custom",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavyblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 000": "WthC_starsnode_elementS_water",
+                "WS 001": "WthC_starsnode_elementS_water",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

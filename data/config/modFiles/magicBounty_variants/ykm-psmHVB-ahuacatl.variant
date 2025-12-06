@@ -1,0 +1,45 @@
+{
+    "displayName": "侦查",
+    "fluxCapacitors": 1,
+    "fluxVents": 0,
+    "hullId": "PSM_ahuacatl",
+    "hullMods": [
+        "eccm",
+        "heavyarmor",
+        "hardened_subsystems",
+        "safetyoverrides",
+        "defective_manufactory",
+        "degraded_shields",
+        "faulty_auto",
+        "malfunctioning_comms",
+        "increased_maintenance"
+    ],
+    "permaMods": [
+        "eccm",
+        "heavyarmor",
+        "hardened_subsystems"
+    ],
+    "sMods": [
+        "eccm",
+        "heavyarmor",
+        "hardened_subsystems"
+    ],
+    "variantId": "ykm-psmHVB-ahuacatl",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "PSM_hveldriver_TSM"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "PSM_lightmortar_TSM",
+                "WS0003": "PSM_lightmortar_TSM",
+                "WS0005": "PSM_cargocatapult",
+                "WS0006": "PSM_cargocatapult"
+            }
+        }
+    ]
+}

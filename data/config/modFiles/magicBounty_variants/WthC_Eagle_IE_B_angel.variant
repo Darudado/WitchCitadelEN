@@ -1,0 +1,68 @@
+{
+    "displayName": "angel",
+    "fluxCapacitors": 35,
+    "fluxVents": 17,
+    "goalVariant": false,
+    "hullId": "WthC_Eagle_IE_B",
+    "hullMods": [
+        "magazines",
+        "ringinterferecross",
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "magazines",
+        "ringinterferecross",
+    ],
+    "sMods": [
+        "magazines",
+        "ringinterferecross",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Eagle_IE_B_angel",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "ionpulser",
+                "WS 007": "ionpulser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_wood",
+                "WS 001": "WthC_starsnode_elementS_wood",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "WthC_starsnode_elementS_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "miningblaster",
+                "WS 006": "ionpulser",
+                "WS 005": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "lightdualac",
+                "WS 012": "lightdualac",
+                "WS 010": "lightdualac",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

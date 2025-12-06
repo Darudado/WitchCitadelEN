@@ -1,0 +1,44 @@
+{
+    "displayName": "S-Elf",
+    "fluxCapacitors": 8,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "WthC_whitebird_SS",
+    "hullMods": [
+        "eccm",
+        "ringinterfereelf",
+        "expanded_deck_crew",
+    ],
+    "permaMods": [
+        "eccm",
+        "ringinterfereelf",
+    ],
+    "sMods": [
+        "eccm",
+        "ringinterfereelf",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_whitebird_SS_S-Elf",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_MicroNodeBeam",
+                "WS0002": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "WthC_starsnode_elementS_soil",
+                "WS0004": "WthC_starsnode_elementS_wood",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_HGB_wing",
+    ],
+    "modules": [],
+}

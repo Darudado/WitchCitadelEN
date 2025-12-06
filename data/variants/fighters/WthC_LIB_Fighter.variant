@@ -1,0 +1,26 @@
+{
+	"quality":0.0,
+	"displayName":"Drone interceptor",
+	"hullId":"WthC_LiBi",
+	"variantId":"WthC_LIB_Fighter",
+	"fluxVents":0,
+	"fluxCapacitors":0,
+	"mods":[], # array of strings
+	
+	# mode is either LINKED or ALTERNATING
+	# slot ids (WS ***) must match what's in the .ship file
+	"weaponGroups":[
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0001":"swarmer_fighter",
+					"WS0002":"swarmer_fighter",
+		 		   },
+		},
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0003":"vulcan",
+					"WS0004":"vulcan",
+		 		   },
+		},
+	],
+}

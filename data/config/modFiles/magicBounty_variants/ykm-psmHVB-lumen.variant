@@ -1,0 +1,44 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 5,
+    "fluxVents": 0,
+    "hullId": "WthC_lumen_black",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "frontemitter",
+        "eccm",
+        "missleracks",
+        "extendedshieldemitter",
+        "safetyoverrides",
+        "fragile_subsystems",
+        "increased_maintenance",
+        "faulty_auto",
+        "degraded_life_support",
+        "defective_manufactory"
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "frontemitter",
+        "eccm",
+        "missleracks",
+        "extendedshieldemitter"
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "frontemitter",
+        "eccm",
+        "missleracks",
+        "extendedshieldemitter"
+    ],
+    "variantId": "ykm-psmHVB-lumen",
+    "weaponGroups": [{
+        "autofire": false,
+        "mode": "LINKED",
+        "weapons": {
+            "WS 006": "heatseeker",
+            "WS 007": "PSM_steelrain",
+            "WS 008": "PSM_steelrain",
+            "WS 009": "PSM_steelrain"
+        }
+    }]
+}

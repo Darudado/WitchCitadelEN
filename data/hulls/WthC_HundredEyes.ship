@@ -1,0 +1,141 @@
+{
+  "hullName": "WthC_HundredEyes",
+  "hullId": "WthC_HundredEyes",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/scarab_SS.png",
+  "style": "RIE_WITCH",
+  "height": 120,
+  "width": 120,
+  "center": [60, 60],
+  "collisionRadius": 69.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 69,
+  "viewOffset": 0,
+  "builtInMods": [
+    "starssynchronous"
+  ],
+  "builtInWeapons": {
+    "WS0005": "WthC_starsnode_elementS_wood",
+    "WS0006": "WthC_starsnode_elementS_wood",
+    "WS0007": "WthC_starsnode_elementS_water",
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 128,
+      "angle": -30,
+      "locations": [28, -29]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 128,
+      "angle": 30,
+      "locations": [28, 29]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 128,
+      "angle": 120,
+      "locations": [-28.5, 39]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 128,
+      "angle": -120,
+      "locations": [-28.5, -39]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "TURRET",
+      "arc": 128,
+      "angle": 90,
+      "locations": [0, 23]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "TURRET",
+      "arc": 128,
+      "angle": -90,
+      "locations": [0, -23]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "TURRET",
+      "arc": 128,
+      "angle": 0,
+      "locations": [22.5, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-39.5, -0],
+      "length": 64,
+      "width": 21,
+      "angle": 180,
+      "contrailSize": 21,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-40.5, 28],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-40.5, -28],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    33.5, -3,
+    28, -12.5,
+    40.5, -19.5,
+    42.5, -42.5,
+    34.5, -52.5,
+    11, -53.5,
+    -5.5, -40.5,
+    -27, -47.5,
+    -36.5, -44.5,
+    -44.5, -13,
+    -37, -12.5,
+    -34.5, -7.5,
+    -38, -6,
+    -38, 6,
+    -34.5, 7.5,
+    -37, 12.5,
+    -44.5, 13,
+    -36.5, 44.5,
+    -27, 47.5,
+    -5.5, 40.5,
+    11, 53.5,
+    34.5, 52.5,
+    42.5, 42.5,
+    40.5, 19.5,
+    28, 12.5,
+    33.5, 3
+  ]
+}

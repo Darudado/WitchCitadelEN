@@ -1,0 +1,35 @@
+{
+	"quality":1,
+	"displayName":"Capital hunter",
+	"hullId":"WthC_RCH",
+	"variantId":"WthC_RCH_Fighter",
+	"fluxVents":0,
+	"fluxCapacitors":0,
+	"hullMods":[
+		"no_weapon_flux",
+		"autorepair",
+		"insulatedengine",
+	], # array of strings
+	
+	# mode is either LINKED or ALTERNATING
+	# slot ids (WS ***) must match what's in the .ship file
+	"weaponGroups":[
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0001":"WthC_CHB"
+		 		   },
+		},
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0002":"WthC_Lumen",
+					"WS0003":"WthC_Lumen"
+		 		   },
+		},
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0004":"WthC_blazingassault",
+					"WS0005":"WthC_ForthrightMoon"
+		 		   },
+		},
+	],
+}

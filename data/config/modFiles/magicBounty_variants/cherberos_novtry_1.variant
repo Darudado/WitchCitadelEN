@@ -1,0 +1,87 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 31,
+    "hullId": "valk_cherberos",
+    "hullMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "valk_skogulmodernization",
+        "valk_peakfire",
+        "fluxbreakers",
+        "targetingunit"
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "valk_skogulmodernization"
+    ],
+    "sMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "valk_skogulmodernization"
+    ],
+    "variantId": "cherberos_novtry_1",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {"WS0004": "valk_antiproton_laser"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "cyclone",
+                "WS0003": "cyclone"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0012": "valk_spectre",
+                "WS0013": "valk_spectre"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "valk_hyperbeam"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0020": "valk_bcnn",
+                "WS0021": "valk_bcnn",
+                "WS0026": "valk_bcnn",
+                "WS0027": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "valk_nxk_pd",
+                "WS0009": "valk_nxk_pd",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon",
+                "WS0015": "valk_irpdcannon",
+                "WS0016": "valk_irpdcannon",
+                "WS0017": "valk_irpdcannon",
+                "WS0018": "valk_irpdcannon",
+                "WS0019": "valk_irpdcannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0006": "WthC_MicroNodeBeam",
+                "WS0007": "WthC_MicroNodeBeam"
+            }
+        }
+    ]
+}

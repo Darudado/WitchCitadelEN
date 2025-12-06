@@ -1,0 +1,73 @@
+{
+    "displayName": "SD-RRA",
+    "fluxCapacitors": 0,
+    "fluxVents": 8,
+    "goalVariant": false,
+    "hullId": "WthC_dominator_IE_B",
+    "hullMods": [
+        "autorepair",
+        "shield_shunt",
+        "targetingunit",
+        "blast_doors",
+        "crimsonmodificationrra",
+        "heavyarmor",
+        "insulatedengine",
+        "reinforcedhull",
+        "ringinterferecross",
+    ],
+    "permaMods": [
+        "autorepair",
+        "shield_shunt",
+        "targetingunit",
+    ],
+    "sMods": [
+        "autorepair",
+        "shield_shunt",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_dominator_IE_B_SD-RRA",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "WthC_Thundersuiteend",
+                "WS 012": "WthC_Thundersuite",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 016": "WthC_starsnode_element_soil",
+                "WS 014": "WthC_starsnode_element_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 002": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 011": "WthC_StarryEmbellishment",
+                "WS 001": "WthC_MicroNodeBeam",
+                "WS 010": "WthC_StarryEmbellishment",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

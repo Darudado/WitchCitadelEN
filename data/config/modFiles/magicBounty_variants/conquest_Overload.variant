@@ -1,0 +1,113 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 600,
+    "fluxVents": 150,
+    "goalVariant": false,
+    "hullId": "conquest",
+    "hullMods": [
+        "crimsonmodificationssoul",
+        "hardenedshieldemitter",
+        "ringinterferecross",
+        "supercomputer",
+        "nav_relay",
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "missile_reload",
+        "armoredweapons",
+        "ecm",
+        "heavyarmor",
+        "missleracks",
+        "reinforcedhull",
+        "ringie",
+        "ringsup",
+        "shadowremainssoul",
+        "autorepair",
+        "converted_hangar",
+        "crimsonmodificationie",
+        "hiressensors",
+        "ringfog",
+        "ringsup2",
+        "shadowremainrra",
+        "solar_shielding",
+        "advancedoptics",
+        "crimsonmodificationssoul",
+        "dedicated_targeting_core",
+        "escort_package",
+        "fluxbreakers",
+        "ringba",
+        "ringsup3",
+        "shadowremainie",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "conquest_Custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "dragonpod",
+                "WS 001": "dragonpod",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 019": "dragonpod",
+                "WS 020": "dragonpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "WthC_Thundersuite",
+                "WS 012": "WthC_Thundersuite",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_NewMoon",
+                "WS 017": "WthC_NewMoon",
+                "WS 018": "WthC_NewMoon",
+                "WS 005": "WthC_NewMoon",
+                "WS 015": "hveldriver",
+                "WS 016": "hveldriver",
+                "WS 022": "WthC_NewMoon",
+                "WS 023": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "WthC_BreezeTacticalLaser",
+                "WS 003": "WthC_BreezeTacticalLaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "dragonpod",
+                "WS 014": "dragonpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "dragon",
+                "WS 006": "dragon",
+                "WS 004": "dragon",
+                "WS 010": "dragon",
+            }
+        },
+    ],
+    "wings": ["thunder_wing",],
+    "modules": [],
+}

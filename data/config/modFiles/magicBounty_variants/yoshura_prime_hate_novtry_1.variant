@@ -1,0 +1,104 @@
+{
+    "displayName": "客制",
+    "fluxCapacitors": 50,
+    "fluxVents": 22,
+    "hullId": "valk_yoshura_prime_hate",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "targetingunit",
+        "valk_skogulmodernization",
+        "heavyarmor",
+        "crimsonmodificationrra",
+        "valk_fluxfog",
+        "solar_shielding",
+        "fluxbreakers",
+        "armoredweapons",
+        "stabilizedshieldemitter",
+        "ballistic_rangefinder",
+        "reinforcedhull"
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "targetingunit",
+        "valk_skogulmodernization",
+        "heavyarmor",
+        "crimsonmodificationrra"
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "targetingunit",
+        "valk_skogulmodernization",
+        "heavyarmor",
+        "crimsonmodificationrra"
+    ],
+    "variantId": "yoshura_prime_hate_novtry_1",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0040": "valk_imbc",
+                "WS0041": "valk_imbc",
+                "WS0042": "valk_imbc"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "valk_wraith",
+                "WS0003": "valk_wraith"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0030": "valk_bcnn",
+                "WS0031": "valk_bcnn",
+                "WS0032": "valk_bcnn",
+                "WS0033": "valk_bcnn",
+                "WS0036": "valk_bcnn",
+                "WS0037": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "valk_irpdcannon",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon",
+                "WS0007": "valk_irpdcannon",
+                "WS0012": "valk_irpdcannon",
+                "WS0013": "valk_irpdcannon",
+                "WS0016": "valk_irpdcannon",
+                "WS0017": "valk_irpdcannon",
+                "WS0022": "valk_irpdcannon",
+                "WS0023": "valk_irpdcannon",
+                "WS0026": "valk_irpdcannon",
+                "WS0027": "valk_irpdcannon",
+                "WS0038": "valk_irpdcannon",
+                "WS0039": "valk_irpdcannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_MicroNodeBeam",
+                "WS0008": "WthC_MicroNodeBeam",
+                "WS0009": "WthC_MicroNodeBeam",
+                "WS0010": "WthC_MicroNodeBeam",
+                "WS0011": "WthC_MicroNodeBeam",
+                "WS0014": "WthC_MicroNodeBeam",
+                "WS0015": "WthC_MicroNodeBeam",
+                "WS0018": "WthC_MicroNodeBeam",
+                "WS0019": "WthC_MicroNodeBeam",
+                "WS0020": "WthC_MicroNodeBeam",
+                "WS0021": "WthC_MicroNodeBeam",
+                "WS0028": "WthC_MicroNodeBeam"
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 20,
+    "fluxVents": 12,
+    "goalVariant": false,
+    "hullId": "falcon",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "converted_hangar",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "falcon_LE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "hveldriver",
+                "WS 007": "hveldriver",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heatseeker",
+                "WS 001": "heatseeker",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "ionbeam",
+                "WS 005": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "pdlaser",
+                "WS 010": "pdlaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "mininglaser",
+                "WS 003": "mininglaser",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

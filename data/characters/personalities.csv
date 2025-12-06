@@ -1,0 +1,3 @@
+id,name,desc,bravery,CAPTURE,PATROL,INTERCEPT,ASSAULT,DEFEND,STRIKE,HARASS,FIRE_SUPPORT,CARRIER_GROUP,CIVILIAN_CRAFT,STRIKE_FORCE,LIGHT_ESCORT,DESTROYER_ESCORT
+heroic,Heroic,In combat this officer charges into enemy formations unstoppably often not turning back until enemy ships are destroyed.,6,2,1,2.5,3,0.3,3,2,0.2,0.2,0.2,1.5,0.2,0.2
+precise,precise,In combat this officer flexibly decides between offensive and defensive tactics.,5,1,1,1.5,1,1.5,1,1,2,1,1,1,1,1

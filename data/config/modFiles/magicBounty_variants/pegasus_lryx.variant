@@ -1,0 +1,50 @@
+{
+  "variantId": "pegasus_lryx",
+  "hullId": "pegasus",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 50,
+  "fluxVents": 50,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "crimsonmodificationssoul",
+    "eccm",
+    "missleracks",
+    "ringfog",
+    "ringinterfereie",
+    "ringsup2",
+    "shadowremaindust",
+    "unstable_injector",
+    "glitched_sensors",
+    "degraded_life_support",
+    "degraded_drive_field",
+    "damaged_deck",
+    "comp_storage",
+    "missile_reload"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 008": "gazerpod",
+        "WS 009": "gazerpod",
+        "WS 010": "gazerpod",
+        "WS 000": "hydra",
+        "WS 001": "hydra",
+        "WS 012": "hydra",
+        "WS 013": "hydra",
+        "WS 002": "gazerpod",
+        "WS 003": "gazerpod",
+        "WS 004": "gazerpod",
+        "WS 005": "gazerpod",
+        "WS 006": "gazerpod",
+        "WS 007": "gazerpod",
+        "WS 011": "gazerpod",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

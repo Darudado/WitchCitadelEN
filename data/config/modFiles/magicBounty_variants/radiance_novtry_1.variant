@@ -1,0 +1,74 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 32,
+    "hullId": "valk_radiance",
+    "hullMods": [
+        "heavyarmor",
+        "valk_skogulmodernization",
+        "crimsonmodificationrra",
+        "fluxbreakers",
+        "armoredweapons",
+        "stabilizedshieldemitter",
+        "hardenedshieldemitter",
+        "targetingunit",
+        "valk_fluxfog"
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "valk_skogulmodernization",
+        "crimsonmodificationrra"
+    ],
+    "sMods": [
+        "heavyarmor",
+        "valk_skogulmodernization",
+        "crimsonmodificationrra"
+    ],
+    "variantId": "radiance_novtry_1",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_ilc_II",
+                "WS0002": "valk_ilc_II"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0015": "valk_bcnn",
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn",
+                "WS0018": "valk_bcnn",
+                "WS0019": "valk_bcnn",
+                "WS0020": "valk_bcnn",
+                "WS0021": "valk_bcnn",
+                "WS0022": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "WthC_MicroNodeBeam",
+                "WS0004": "WthC_MicroNodeBeam",
+                "WS0005": "valk_irpdcannon",
+                "WS0006": "valk_irpdcannon",
+                "WS0007": "WthC_MicroNodeBeam",
+                "WS0008": "WthC_MicroNodeBeam",
+                "WS0009": "valk_irpdcannon",
+                "WS0010": "valk_irpdcannon",
+                "WS0011": "WthC_MicroNodeBeam",
+                "WS0012": "WthC_MicroNodeBeam",
+                "WS0013": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon",
+                "WS0023": "WthC_MicroNodeBeam",
+                "WS0042": "WthC_MicroNodeBeam",
+                "WS0043": "valk_irpdcannon",
+                "WS0044": "valk_irpdcannon"
+            }
+        }
+    ]
+}

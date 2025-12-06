@@ -1,0 +1,27 @@
+{
+	"id":"DR_YueBen2EX",
+	"governingAptitude":"WthC_aptitude_darkreal",
+	"compressHullmods":false,
+	"elite":true,
+	"scope":"PILOTED_SHIP",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"SHIP", "script":"data.skills.DarkReal.DR_YueBen2EX$Level1A"},
+				{"type":"SHIP", "script":"data.skills.DarkReal.DR_YueBen2EX$Level1B"},
+			]
+		},
+		{
+			"name":"Elite",
+			"requiredSkillLevel":2,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"SHIP", "script":"data.skills.DarkReal.DR_YueBen2EX$Level2A"},
+				{"type":"SHIP", "script":"data.skills.DarkReal.DR_YueBen2EX$Level2B"},
+			]
+		},
+	],
+}
+

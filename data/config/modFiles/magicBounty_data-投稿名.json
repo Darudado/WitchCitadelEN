@@ -1,0 +1,100 @@
+{    
+	# 
+	# HVBID 10086001
+	"WthC_DR-RRA": {
+		"trigger_marketFaction_any": ["Crimson_citadel"], 
+        "trigger_marketFaction_alliedWith": false, 
+
+		"job_name": "苏丹的崛起",
+		"job_forFaction": "Crimson_citadel", 
+		"job_description": "纯纯的数据怪啊，就喜欢这种",
+		"job_comm_reply": "你确定不要用控制台吗？",
+		"job_intel_success": "你是远神之神！",
+		"job_intel_expired": "输了也不要紧好吧，这就是构式啊", 
+		"job_pick_option":"简简又单单", 
+		"job_credit_reward": 1145141919810,
+		"job_reputation_reward":0,
+		"job_reward_scaling": 0, 
+		"trigger_memKeys_all": {
+            "$ID1":true,
+        },
+		"job_item_reward": {
+			"item_A":什么都不出, 
+			"ship_bp shipId": 什么都不出 
+		},
+		"job_type":"obliteration",
+		"job_show_type":true, 
+		"job_show_captain": true,
+		"job_show_fleet": true,
+		"job_show_distance": "none",
+
+		"target_first_name":"苏丹",
+		"target_last_name":"铁出生",
+		"target_rank": "苏丹",
+		"target_posts": "牢内",
+		"target_portrait":"dali",
+		"target_gender":"FEMALE",
+		"target_aiCoreId": "alpha_core",
+		"target_level": 9,
+		"target_personality": "heroic",
+		"target_skills": { 
+			
+		# 不要
+		# 不要
+		"tactical_drills":1,
+		"coordinated_maneuvers":1,
+		"wolfpack_tactics":1,
+		"crew_training":1,
+		"electronic_warfare":1,
+		"flux_regulation":1,
+		"officer_training":1,
+		"officer_management":1,
+		"best_of_the_best":1,
+		"support_doctrine":1,
+		"hull_restoration":1,
+		"fighter_uplink":1,
+		"carrier_group":1,
+		"derelict_contingent":1,
+		"Overmind_Doctrine":2,
+		"cybernetic_augmentation":1,
+		"DR_WitchRRA":2,
+
+		# 也不要
+		"helmsmanship":2,
+		"combat_endurance":2,
+		"impact_mitigation":2,
+		"damage_control":2,
+		"field_modulation":2,
+		"point_defense":2,
+		"target_analysis":2,
+		"ballistic_mastery":2,
+		"systems_expertise":2
+
+        },
+
+		"fleet_name": "我草，数据怪啊",
+		"fleet_faction": "Dark_Real_Ex", 
+		"fleet_flagship_variant": "ln_conquest_ln_Custom",
+		"fleet_flagship_autofit": true,
+		"fleet_flagship_recoverable": false,
+		"fleet_no_retreat": true,
+		"fleet_preset_ships": {
+			"ln_conquest_ln_Custom": 2,
+			"ln_dominator_ln_Custom": 5,
+			"ln_hammerhead_ln": 7,
+			"ln_retribution_ln_Custom": 7,
+			"ln_lasher_ln_Custom": 5
+			
+		},
+		"fleet_preset_autofit": false, 
+		"fleet_transponder": false, 
+		"fleet_behavior": "PASSIVE", 
+        "fleet_composition_faction": "Dark_Real_Ex", 
+        "fleet_composition_quality": 2, 
+
+		"location_distance": "CLOSE", 
+		"location_themes": ["WthC_Void"], 
+		"location_entities":["gate"],
+		"location_prioritizeUnexplored": true,
+		"location_defaultToAnyEntity": true 
+	},

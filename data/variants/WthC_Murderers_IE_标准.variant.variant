@@ -1,0 +1,64 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 55,
+    "fluxVents": 30,
+    "goalVariant": true,
+    "hullId": "WthC_Murderers_IE",
+    "hullMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Murderers_IE_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "ionbeam",
+                "WS0002": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "gravitonbeam",
+                "WS0004": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "heavymauler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "hveldriver",
+                "WS0005": "hveldriver",
+                "WS0007": "hveldriver",
+                "WS0006": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "WthC_MicroNodeBeam",
+                "WS0011": "WthC_MicroNodeBeam",
+                "WS0013": "WthC_MicroNodeBeam",
+                "WS0010": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,62 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 25,
+    "fluxVents": 15,
+    "goalVariant": true,
+    "hullId": "In_Devil_Evilbow",
+    "hullMods": [
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "advancedshieldemitter",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "ML_incompatibleHullmodWarning",
+    ],
+    "permaMods": [
+		"damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "advancedshieldemitter",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "advancedshieldemitter",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "In_Devil_Evilbow_Custom",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_starsnode_elementS_fire",
+                "WS 001": "WthC_starsnode_elementS_soil",
+                "WS 002": "WthC_starsnode_elementS_gold",
+                "WS 003": "WthC_starsnode_elementS_wood",
+                "WS 004": "WthC_RuneBreathe",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "shockrepeater",
+            }
+        },
+    ],
+    "wings": [
+        "sarissa_wing",
+    ],
+    "modules": [],
+}

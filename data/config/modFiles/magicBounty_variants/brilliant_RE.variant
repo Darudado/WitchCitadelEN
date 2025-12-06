@@ -1,0 +1,51 @@
+{
+    "displayName": "RE",
+    "fluxCapacitors": 15,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "brilliant",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "converted_hangar",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "brilliant_RE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "plasma",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "phasecl",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "heavymg",
+                "WS 006": "heavymg",
+            }
+        },
+    ],
+    "wings": [
+        "spark_wing",
+    ],
+    "modules": [],
+}

@@ -1,0 +1,71 @@
+{
+    "displayName": "angel",
+    "fluxCapacitors": 35,
+    "fluxVents": 29,
+    "goalVariant": false,
+    "hullId": "WthC_Falcon_IE_B",
+    "hullMods": [
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "sMods": [
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Falcon_IE_B_angel",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_stormveil",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_soil",
+                "WS 001": "WthC_starsnode_elementS_soil",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "WthC_stormveil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "ionbeam",
+                "WS 005": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_BreezeTacticalLaser",
+                "WS 010": "WthC_BreezeTacticalLaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

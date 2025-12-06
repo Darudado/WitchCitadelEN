@@ -1,0 +1,25 @@
+{
+	"id":"Pale_energy_weapon_mastery",
+	"governingAptitude":"WthC_aptitude_darkreal",
+	"compressHullmods":false,
+	"elite":true,
+	"scope":"PILOTED_SHIP",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"SHIP", "script":"data.skills.RankB.energy_weapon_mastery_pale$Level1"},
+			]
+		},
+		{
+			"name":"Elites",
+			"requiredSkillLevel":2,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"SHIP", "script":"data.skills.RankB.energy_weapon_mastery_pale$Level2"},
+			]
+		},
+	],
+}
+

@@ -1,0 +1,85 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 43,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "guardian",
+    "hullMods": [
+        "armoredweapons",
+        "auxiliarythrusters",
+        "crimsonmodificationie",
+        "heavyarmor",
+        "reinforcedhull",
+        "eccm",
+        "fluxdistributor",
+        "ringinterferessoul",
+        "ringreverse",
+        "no_weapon_flux",
+        "fluxshunt",
+    ],
+    "permaMods": [
+        "armoredweapons",
+        "auxiliarythrusters",
+        "crimsonmodificationie",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "armoredweapons",
+        "auxiliarythrusters",
+        "crimsonmodificationie",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_guardian",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "hammerrack",
+                "WS 009": "hammerrack",
+                "WS 007": "WthC_TwinMovement",
+                "WS 008": "WthC_TwinMovement",
+                "WS 004": "WthC_StarryEmbellishment",
+                "WS 005": "WthC_StarryEmbellishment",
+                "WS 010": "dragon",
+                "WS 011": "dragon",
+                "WS 012": "lightneedler",
+                "WS 013": "lightneedler",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 020": "WthC_RuneBreathe",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "cryoblaster",
+                "WS 003": "cryoblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "shockrepeater",
+                "WS 017": "shockrepeater",
+                "WS 018": "null",
+                "WS 015": "shockrepeater",
+                "WS 016": "shockrepeater",
+                "WS 014": "shockrepeater",
+                "WS 000": "WthC_gonggonqarray",
+                "WS 001": "WthC_gonggonqarray",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

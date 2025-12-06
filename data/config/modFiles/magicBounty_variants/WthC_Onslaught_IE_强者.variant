@@ -1,0 +1,86 @@
+{
+    "displayName": "Champion",
+    "fluxCapacitors": 50,
+    "fluxVents": 43,
+    "goalVariant": false,
+    "hullId": "WthC_Onslaught_IE",
+    "hullMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "magazines",
+        "armoredweapons",
+        "crimsonmodificationrra",
+        "ringinterferecross",
+        "shadowremaindust",
+        "targetingunit",
+        "turretgyros",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "magazines",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "magazines",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Onslaught_IE_强者",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "tpc",
+                "WS 016": "tpc",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 024": "WthC_starsnode_element_gold",
+                "WS 021": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 022": "WthC_starsnode_element_fire",
+                "WS 023": "WthC_starsnode_element_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "WthC_DestinyTrack",
+                "WS 018": "WthC_DestinyTrack",
+                "WS 020": "WthC_DestinyTrack",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "WthC_LittleNodeBeam-A",
+                "WS 003": "WthC_LittleNodeBeam-A",
+                "WS 007": "WthC_LittleNodeBeam-A",
+                "WS 010": "WthC_LittleNodeBeam-A",
+                "WS 011": "WthC_LittleNodeBeam-A",
+                "WS 012": "WthC_StarryEmbellishment",
+                "WS 013": "WthC_StarryEmbellishment",
+                "WS 002": "WthC_MicroNodeBeam-A",
+                "WS 004": "WthC_MicroNodeBeam-A",
+                "WS 005": "WthC_MicroNodeBeam-A",
+                "WS 006": "WthC_MicroNodeBeam-A",
+                "WS 008": "WthC_MicroNodeBeam-A",
+                "WS 009": "WthC_MicroNodeBeam-A",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

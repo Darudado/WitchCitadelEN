@@ -1,0 +1,34 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 3,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "afflictor_d_pirates",
+    "hullMods": [
+        "adaptive_coils",
+        "hardened_subsystems",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "afflictor_d_pirates_Ju2",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "amblaster",
+                "WS 003": "amblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "amblaster",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

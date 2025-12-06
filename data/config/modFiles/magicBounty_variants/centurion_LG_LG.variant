@@ -1,0 +1,48 @@
+{
+    "displayName": "LG",
+    "fluxCapacitors": 9,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "centurion_LG",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missile_autoloader",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "missile_autoloader",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "missile_autoloader",
+    ],
+    "suppressedMods": [],
+    "variantId": "centurion_LG_LG",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "amblaster",
+                "WS 002": "amblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "ioncannon",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

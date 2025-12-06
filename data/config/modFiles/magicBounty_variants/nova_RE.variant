@@ -1,0 +1,57 @@
+{
+    "displayName": "RE",
+    "fluxCapacitors": 43,
+    "fluxVents": 32,
+    "goalVariant": false,
+    "hullId": "nova",
+    "hullMods": [
+        "extendedshieldemitter",
+        "missleracks",
+        "hardenedshieldemitter",
+        "magazines",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "extendedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "extendedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "nova_RE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "autopulse",
+                "WS 001": "autopulse",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "dragon",
+                "WS 008": "dragon",
+                "WS 007": "dragon",
+                "WS 006": "dragon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "miningblaster",
+                "WS 003": "miningblaster",
+                "WS 005": "ionpulser",
+                "WS 004": "ionpulser",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

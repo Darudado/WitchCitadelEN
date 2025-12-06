@@ -1,0 +1,80 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 55,
+    "fluxVents": 1,
+    "goalVariant": true,
+    "hullId": "WthC_irises_IE",
+    "hullMods": [
+        "crimsonmodificationrra",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_irises_IE_Elite",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0002": "hil",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0008": "WthC_starsnode_element_wood",
+                "WS0007": "WthC_starsnode_element_wood",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "heavyblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0016": "arbalest",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "guardian",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0012": "WthC_MicroNodeBeam",
+                "WS0014": "WthC_MicroNodeBeam",
+                "WS0013": "WthC_MicroNodeBeam",
+                "WS0015": "WthC_MicroNodeBeam",
+                "WS0018": "WthC_MicroNodeBeam",
+                "WS0017": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "vulcan",
+                "WS0005": "flak",
+                "WS0006": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

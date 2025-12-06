@@ -1,0 +1,415 @@
+{   
+
+	# 勇者之路系列
+
+	"WthC_IL-hegemony": {
+		"trigger_marketFaction_any": ["independent"],
+        "trigger_marketFaction_alliedWith": true,
+		
+
+		"job_name": "勇者之路-力量",
+		"job_forFaction": "independent",
+		"job_description": "如果没猜错的话，想必您就是那位在整个英仙座中广为流传的{==当代传奇==}...\n请允许我向您致以最为隆重的敬意,人类史上{==最为强大==}的舰队领袖。\n如果时至今日您早已{==所向披靡==}，再也找不到任何能够证明自我价值的场地...\n那不如请就此接下这源自太虚的邀请，与这片星域中的古老传统们来一场只属于勇者间的{==死亡游戏==}吧~!",
+		"job_comm_reply": "......",
+		"job_intel_success": "还觉得有趣吗...?",
+		"job_intel_expired": "祝你玩的愉快~",
+		"job_credit_reward": 0,
+		"job_reward_scaling": 0,
+
+		"job_type":"neutralisation",
+		"job_show_type":true,
+		"job_show_captain": true,
+		"job_show_fleet": true,
+		"job_show_distance": "vanillaDistance",
+		"job_difficultyDescription": "一场相当淳朴的舰队测试，对方只是拥有着大部分舰队技能的随机霸主舰队而已，总部署点在600左右。\n建议在一定规则下将此赏金单纯用于测试当前舰队强度，这个赏金几乎没有任何额外奖励。\n但你依然有概率恢复所有被击沉的舰船，且不会影响所有主流势力的好感度。",
+
+		"target_rank": "spaceCaptain",
+        "target_post": "specialAgent",
+		"target_level": 7,
+		"target_personality": "steady",
+		"target_skills": { 
+
+			"ShadowCreation":2,
+			"combat_endurance":2,
+			"missile_specialization":2,
+			"target_analysis":2,
+			"field_modulation":2,
+			"helmsmanship":2,
+			"systems_expertise":2,
+			"damage_control":2
+        },
+
+		"fleet_name": "“力量”舰队",
+		"fleet_faction": "Pale_Phantom_Ex",
+		"fleet_flagship_variant": "onslaught_xiv_Elite",
+		"fleet_flagship_autofit": true,
+		"fleet_flagship_recoverable": true,
+		"fleet_no_retreat": true,
+		"fleet_min_FP": 700,
+		"fleet_preset_autofit": true,
+		"fleet_transponder": true,
+		"fleet_behavior": "PASSIVE",
+        "fleet_composition_faction": "hegemony",
+        "fleet_composition_quality": 2,
+
+		"location_distance": "CLOSE",
+		"location_themes": ["WthC_Other_Void"],
+		"location_entitiesID":["Other_Void_fire"],
+		"location_prioritizeUnexplored": true,
+		"location_defaultToAnyEntity": true
+  },
+
+  "WthC_IL-tritachyon": {
+	"trigger_marketFaction_any": ["independent"],
+	"trigger_marketFaction_alliedWith": true,
+	
+	
+
+	"job_name": "勇者之路-深邃",
+	"job_forFaction": "independent",
+	"job_description": "如果没猜错的话，想必您就是那位在整个英仙座中广为流传的{==当代传奇==}...\n请允许我向您致以最为隆重的敬意,人类史上{==最为强大==}的舰队领袖。\n如果时至今日您早已{==所向披靡==}，再也找不到任何能够证明自我价值的场地...\n那不如请就此接下这源自太虚的邀请，与这片星域中的古老传统们来一场只属于勇者间的{==死亡游戏==}吧~!",
+	"job_comm_reply": "......",
+	"job_intel_success": "还觉得有趣吗...?",
+	"job_intel_expired": "祝你玩的愉快~",
+	"job_credit_reward": 0,
+	"job_reward_scaling": 0,
+
+	"job_type":"neutralisation",
+	"job_show_type":true,
+	"job_show_captain": true,
+	"job_show_fleet": true,
+	"job_show_distance": "vanillaDistance",
+	"job_difficultyDescription": "一场相当淳朴的舰队测试，对方只是拥有着大部分舰队技能的随机速子舰队而已，总部署点在600左右。\n建议在一定规则下将此赏金单纯用于测试当前舰队强度，这个赏金几乎没有任何额外奖励。\n但你依然有概率恢复所有被击沉的舰船，且不会影响所有主流势力的好感度。",
+
+	"target_rank": "spaceCaptain",
+	"target_post": "specialAgent",
+	"target_level": 7,
+	"target_personality": "steady",
+	"target_skills": { 
+
+		"ShadowCreation":2,
+		"combat_endurance":2,
+		"missile_specialization":2,
+		"target_analysis":2,
+		"field_modulation":2,
+		"helmsmanship":2,
+		"systems_expertise":2,
+		"damage_control":2
+	},
+
+	"fleet_name": "“深邃”舰队",
+	"fleet_faction": "Pale_Phantom_Ex",
+	"fleet_flagship_variant": "paragon_Elite",
+	"fleet_flagship_autofit": true,
+	"fleet_flagship_recoverable": true,
+	"fleet_no_retreat": true,
+	"fleet_min_FP": 700,
+	"fleet_preset_autofit": true,
+	"fleet_transponder": true,
+	"fleet_behavior": "PASSIVE",
+	"fleet_composition_faction": "tritachyon",
+	"fleet_composition_quality": 2,
+
+	"location_distance": "CLOSE",
+	"location_themes": ["WthC_Other_Void"],
+	"location_entitiesID":["Other_Void_water"],
+	"location_prioritizeUnexplored": true,
+	"location_defaultToAnyEntity": true
+},
+
+"WthC_IL-persean_league": {
+	"trigger_marketFaction_any": ["independent"],
+	"trigger_marketFaction_alliedWith": true,
+	
+	
+
+	"job_name": "勇者之路-坚定",
+	"job_forFaction": "independent",
+	"job_description": "如果没猜错的话，想必您就是那位在整个英仙座中广为流传的{==当代传奇==}...\n请允许我向您致以最为隆重的敬意,人类史上{==最为强大==}的舰队领袖。\n如果时至今日您早已{==所向披靡==}，再也找不到任何能够证明自我价值的场地...\n那不如请就此接下这源自太虚的邀请，与这片星域中的古老传统们来一场只属于勇者间的{==死亡游戏==}吧~!",
+	"job_comm_reply": "......",
+	"job_intel_success": "还觉得有趣吗...?",
+	"job_intel_expired": "祝你玩的愉快~",
+	"job_credit_reward": 0,
+	"job_reward_scaling": 0,
+
+	"job_type":"neutralisation",
+	"job_show_type":true,
+	"job_show_captain": true,
+	"job_show_fleet": true,
+	"job_show_distance": "vanillaDistance",
+	"job_difficultyDescription": "一场相当淳朴的舰队测试，对方只是拥有着大部分舰队技能的随机英仙座联盟舰队而已，总部署点在600左右。\n建议在一定规则下将此赏金单纯用于测试当前舰队强度，这个赏金几乎没有任何额外奖励。\n但你依然有概率恢复所有被击沉的舰船，且不会影响所有主流势力的好感度。",
+
+	"target_rank": "spaceCaptain",
+	"target_post": "specialAgent",
+	"target_level": 7,
+	"target_personality": "steady",
+	"target_skills": { 
+
+		"ShadowCreation":2,
+		"combat_endurance":2,
+		"missile_specialization":2,
+		"target_analysis":2,
+		"field_modulation":2,
+		"helmsmanship":2,
+		"systems_expertise":2,
+		"damage_control":2
+	},
+
+	"fleet_name": "“坚定”舰队",
+	"fleet_faction": "Pale_Phantom_Ex",
+	"fleet_flagship_variant": "pegasus_Balanced",
+	"fleet_flagship_autofit": true,
+	"fleet_flagship_recoverable": true,
+	"fleet_no_retreat": true,
+	"fleet_min_FP": 700,
+	"fleet_preset_autofit": true,
+	"fleet_transponder": true,
+	"fleet_behavior": "PASSIVE",
+	"fleet_composition_faction": "persean_league",
+	"fleet_composition_quality": 2,
+
+	"location_distance": "CLOSE",
+	"location_themes": ["WthC_Other_Void"],
+	"location_entitiesID":["Other_Void_gold"],
+	"location_prioritizeUnexplored": true,
+	"location_defaultToAnyEntity": true
+},
+
+"WthC_IL-remnants": {
+	"trigger_marketFaction_any": ["independent"],
+	"trigger_marketFaction_alliedWith": true,
+	
+	
+
+	"job_name": "勇者之路-命运",
+	"job_forFaction": "independent",
+	"job_description": "如果没猜错的话，想必您就是那位在整个英仙座中广为流传的{==当代传奇==}...\n请允许我向您致以最为隆重的敬意,人类史上{==最为强大==}的舰队领袖。\n如果时至今日您早已{==所向披靡==}，再也找不到任何能够证明自我价值的场地...\n那不如请就此接下这源自太虚的邀请，与这片星域中的古老传统们来一场只属于勇者间的{==死亡游戏==}吧~!",
+	"job_comm_reply": "......",
+	"job_intel_success": "还觉得有趣吗...?",
+	"job_intel_expired": "祝你玩的愉快~",
+	"job_credit_reward": 0,
+	"job_reward_scaling": 0,
+
+	"job_type":"neutralisation",
+	"job_show_type":true,
+	"job_show_captain": true,
+	"job_show_fleet": true,
+	"job_show_distance": "vanillaDistance",
+	"job_difficultyDescription": "一场相当淳朴的舰队测试，对方只是拥有着大部分舰队技能的随机余晖舰队而已，总部署点在500左右。\n建议在一定规则下将此赏金单纯用于测试当前舰队强度，这个赏金几乎没有任何额外奖励。\n但你依然有概率恢复所有被击沉的舰船，且不会影响所有主流势力的好感度。",
+
+	"target_rank": "spaceCaptain",
+	"target_post": "specialAgent",
+	"target_level": 7,
+	"target_personality": "steady",
+	"target_aiCoreId": "alpha_core",
+	"target_skills": { 
+
+		"ShadowCreation":2,
+		"combat_endurance":2,
+		"missile_specialization":2,
+		"target_analysis":2,
+		"field_modulation":2,
+		"helmsmanship":2,
+		"systems_expertise":2,
+		"damage_control":2
+	},
+
+	"fleet_name": "“命运”舰队",
+	"fleet_faction": "Pale_Phantom_Ex",
+	"fleet_flagship_variant": "radiant_Standard",
+	"fleet_flagship_autofit": true,
+	"fleet_flagship_recoverable": true,
+	"fleet_no_retreat": true,
+	"fleet_min_FP": 700,
+	"fleet_preset_autofit": true,
+	"fleet_transponder": true,
+	"fleet_behavior": "PASSIVE",
+	"fleet_composition_faction": "remnants",
+	"fleet_composition_quality": 2,
+
+	"location_distance": "CLOSE",
+	"location_themes": ["WthC_Other_Void"],
+	"location_entitiesID":["Other_Void_soil"],
+	"location_prioritizeUnexplored": true,
+	"location_defaultToAnyEntity": true
+},
+
+
+"WthC_IL-pirates": {
+	"trigger_marketFaction_any": ["independent"],
+	"trigger_marketFaction_alliedWith": true,
+	
+	
+
+	"job_name": "勇者之路-生命",
+	"job_forFaction": "independent",
+	"job_description": "如果没猜错的话，想必您就是那位在整个英仙座中广为流传的{==当代传奇==}...\n请允许我向您致以最为隆重的敬意,人类史上{==最为强大==}的舰队领袖。\n如果时至今日您早已{==所向披靡==}，再也找不到任何能够证明自我价值的场地...\n那不如请就此接下这源自太虚的邀请，与这片星域中的古老传统们来一场只属于勇者间的{==死亡游戏==}吧~!",
+	"job_comm_reply": "......",
+	"job_intel_success": "还觉得有趣吗...?",
+	"job_intel_expired": "祝你玩的愉快~",
+	"job_credit_reward": 0,
+	"job_reward_scaling": 0,
+
+	"job_type":"neutralisation",
+	"job_show_type":true,
+	"job_show_captain": true,
+	"job_show_fleet": true,
+	"job_show_distance": "vanillaDistance",
+	"job_difficultyDescription": "一场相当淳朴的舰队测试，对方只是拥有着大部分舰队技能的随机海盗舰队而已，总部署点在800左右。\n建议在一定规则下将此赏金单纯用于测试当前舰队强度，这个赏金几乎没有任何额外奖励。\n但你依然有概率恢复所有被击沉的舰船，且不会影响所有主流势力的好感度。",
+
+	"target_rank": "spaceCaptain",
+	"target_post": "specialAgent",
+	"target_level": 7,
+	"target_personality": "steady",
+	"target_skills": { 
+
+		"ShadowCreation":2,
+		"combat_endurance":2,
+		"missile_specialization":2,
+		"target_analysis":2,
+		"field_modulation":2,
+		"helmsmanship":2,
+		"systems_expertise":2,
+		"damage_control":2
+	},
+
+	"fleet_name": "“生命”舰队",
+	"fleet_faction": "Pale_Phantom_Ex",
+	"fleet_flagship_variant": "atlas2_Standard",
+	"fleet_flagship_autofit": true,
+	"fleet_flagship_recoverable": true,
+	"fleet_no_retreat": true,
+	"fleet_min_FP": 1000,
+	"fleet_preset_autofit": true,
+	"fleet_transponder": true,
+	"fleet_behavior": "PASSIVE",
+	"fleet_composition_faction": "pirates",
+	"fleet_composition_quality": 2,
+
+	"location_distance": "CLOSE",
+	"location_themes": ["WthC_Other_Void"],
+	"location_entitiesID":["Other_Void_wood"],
+	"location_prioritizeUnexplored": true,
+	"location_defaultToAnyEntity": true
+},
+
+
+"WthC_IL-sindrian_diktat": {
+	"trigger_marketFaction_any": ["independent"],
+	"trigger_marketFaction_alliedWith": true,
+	
+	
+
+	"job_name": "勇者之路-忠诚",
+	"job_forFaction": "independent",
+	"job_description": "如果没猜错的话，想必您就是那位在整个英仙座中广为流传的{==当代传奇==}...\n请允许我向您致以最为隆重的敬意,人类史上{==最为强大==}的舰队领袖。\n如果时至今日您早已{==所向披靡==}，再也找不到任何能够证明自我价值的场地...\n那不如请就此接下这源自太虚的邀请，与这片星域中的古老传统们来一场只属于勇者间的{==死亡游戏==}吧~!",
+	"job_comm_reply": "......",
+	"job_intel_success": "还觉得有趣吗...?",
+	"job_intel_expired": "祝你玩的愉快~",
+	"job_credit_reward": 0,
+	"job_reward_scaling": 0,
+
+	"job_type":"neutralisation",
+	"job_show_type":true,
+	"job_show_captain": true,
+	"job_show_fleet": true,
+	"job_show_distance": "vanillaDistance",
+	"job_difficultyDescription": "一场相当淳朴的舰队测试，对方只是拥有着大部分舰队技能的随机辛达舰队而已，总部署点在600左右。\n建议在一定规则下将此赏金单纯用于测试当前舰队强度，这个赏金几乎没有任何额外奖励。\n但你依然有概率恢复所有被击沉的舰船，且不会影响所有主流势力的好感度。",
+
+	"target_rank": "spaceCaptain",
+	"target_post": "specialAgent",
+	"target_level": 7,
+	"target_personality": "steady",
+	"target_skills": { 
+
+		"ShadowCreation":2,
+		"combat_endurance":2,
+		"missile_specialization":2,
+		"target_analysis":2,
+		"field_modulation":2,
+		"helmsmanship":2,
+		"systems_expertise":2,
+		"damage_control":2
+	},
+
+	"fleet_name": "“忠诚”舰队",
+	"fleet_faction": "Pale_Phantom_Ex",
+	"fleet_flagship_variant": "executor_Elite",
+	"fleet_flagship_autofit": true,
+	"fleet_flagship_recoverable": true,
+	"fleet_no_retreat": true,
+	"fleet_min_FP": 700,
+	"fleet_preset_autofit": true,
+	"fleet_transponder": true,
+	"fleet_behavior": "PASSIVE",
+	"fleet_composition_faction": "lions_guard",
+	"fleet_composition_quality": 2,
+
+	"location_distance": "CLOSE",
+	"location_themes": ["WthC_Other_Void"],
+	"location_entitiesID":["Other_Void_end"],
+	"location_prioritizeUnexplored": true,
+	"location_defaultToAnyEntity": true
+},
+
+
+"WthC_IL-luddic_church": {
+	"trigger_marketFaction_any": ["independent"],
+	"trigger_marketFaction_alliedWith": true,
+	
+	
+
+	"job_name": "勇者之路-信念",
+	"job_forFaction": "independent",
+	"job_description": "如果没猜错的话，想必您就是那位在整个英仙座中广为流传的{==当代传奇==}...\n请允许我向您致以最为隆重的敬意,人类史上{==最为强大==}的舰队领袖。\n如果时至今日您早已{==所向披靡==}，再也找不到任何能够证明自我价值的场地...\n那不如请就此接下这源自太虚的邀请，与这片星域中的古老传统们来一场只属于勇者间的{==死亡游戏==}吧~!",
+	"job_comm_reply": "......",
+	"job_intel_success": "还觉得有趣吗...?",
+	"job_intel_expired": "祝你玩的愉快~",
+	"job_credit_reward": 0,
+	"job_reward_scaling": 0,
+
+	"job_type":"neutralisation",
+	"job_show_type":true,
+	"job_show_captain": true,
+	"job_show_fleet": true,
+	"job_show_distance": "vanillaDistance",
+	"job_difficultyDescription": "一场相当淳朴的舰队测试，对方只是拥有着大部分舰队技能的随机卢德舰队而已，总部署点在600左右。\n建议在一定规则下将此赏金单纯用于测试当前舰队强度，这个赏金几乎没有任何额外奖励。\n但你依然有概率恢复所有被击沉的舰船，且不会影响所有主流势力的好感度。",
+
+	"target_rank": "spaceCaptain",
+	"target_post": "specialAgent",
+	"target_level": 7,
+	"target_personality": "steady",
+	"target_skills": { 
+
+		"ShadowCreation":2,
+		"combat_endurance":2,
+		"missile_specialization":2,
+		"target_analysis":2,
+		"field_modulation":2,
+		"helmsmanship":2,
+		"systems_expertise":2,
+		"damage_control":2
+	},
+
+	"fleet_name": "“信念”舰队",
+	"fleet_faction": "Pale_Phantom_Ex",
+	"fleet_flagship_variant": "invictus_Standard",
+	"fleet_flagship_autofit": true,
+	"fleet_flagship_recoverable": true,
+	"fleet_no_retreat": true,
+	"fleet_min_FP": 700,
+	"fleet_preset_autofit": true,
+	"fleet_transponder": true,
+	"fleet_behavior": "PASSIVE",
+	"fleet_composition_faction": "luddic_church",
+	"fleet_composition_quality": 2,
+
+	"location_distance": "CLOSE",
+	"location_themes": ["WthC_Other_Void"],
+	"location_entitiesID":["Other_Void_initial"],
+	"location_prioritizeUnexplored": true,
+	"location_defaultToAnyEntity": true
+},
+
+
+}

@@ -1,0 +1,85 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 55,
+    "fluxVents": 41,
+    "goalVariant": false,
+    "hullId": "ln_conquest_ln",
+    "hullMods": [
+        "ballistic_rangefinder",
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "auxiliarythrusters",
+        "defensive_targeting_array",
+    ],
+    "permaMods": [
+        "ballistic_rangefinder",
+        "fluxcoil",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "ballistic_rangefinder",
+        "fluxcoil",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "ln_conquest_ln_Custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0005": "cyclone",
+                "WS0006": "cyclone",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0018": "dragon",
+                "WS0017": "dragon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0007": "WthC_TwinMovement",
+                "WS0008": "WthC_TwinMovement",
+                "WS0013": "devastator",
+                "WS0014": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0011": "resonatormrm",
+                "WS0012": "resonatormrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "ionbeam",
+                "WS0002": "ionbeam",
+                "WS0016": "gravitonbeam",
+                "WS0015": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0019": "guardian",
+                "WS0020": "guardian",
+            }
+        },
+    ],
+    "wings": [
+        "xyphos_wing",
+        "xyphos_wing",
+    ],
+    "modules": [],
+}

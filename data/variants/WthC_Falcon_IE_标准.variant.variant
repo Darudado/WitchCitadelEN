@@ -1,0 +1,59 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 35,
+    "fluxVents": 9,
+    "goalVariant": true,
+    "hullId": "WthC_Falcon_IE",
+    "hullMods": [
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Falcon_IE_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "gravitonbeam",
+                "WS 007": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_soil",
+                "WS 001": "WthC_starsnode_elementS_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "ionbeam",
+                "WS 005": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_BreezeTacticalLaser",
+                "WS 010": "WthC_BreezeTacticalLaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

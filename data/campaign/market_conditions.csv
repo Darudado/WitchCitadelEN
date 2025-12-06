@@ -1,0 +1,9 @@
+name,id,planetary,decivRemove,script,desc,icon,order
+Land Beyond the Noisy World,beyondthenoisyworld,,TRUE,data.econ.WthC_beyondthenoisyworld,"Isolated from Persean conflicts, self-sufficient with rare visitors. No strategic value for invasion.",graphics/icons/markets/beyondthenoisyworld.png,142
+Titan's Ascent,WthC_Titan,,TRUE,data.econ.WthC_Titan,"Gigantic, hostile Titan-like creatures roam the planet's jungles, crushing infrastructure and hopes of colonization.",graphics/icons/markets/titan.png,142
+Abyssal Dread,WthC_OldGod,,TRUE,data.econ.WthC_OldGod,"Unfathomable leviathans lurk in the oceans, spreading terror and chaos to all who venture here.",graphics/icons/markets/oldgod.png,142
+Dark World Remnants,WthC_DarkWorld,,TRUE,data.econ.WthC_DarkWorld,"A society of hostile Dark World exiles, innately aggressive and xenophobic towards humans.",graphics/icons/markets/DW.png,142
+Realm of Rifts,WthC_Xijie,,TRUE,data.econ.WthC_Xijie,"A paradisiacal world that rejects all life daring to tread upon it...",graphics/icons/markets/DW.png,142
+Titan's Ally,WthC_TitanEX,,TRUE,data.econ.WthC_TitanEX,"After forging bonds with the Titans, they now aid in repelling invaders... for their amusement.",graphics/icons/markets/titanex.png,142
+Leviathan's Aid,WthC_OldGodEX,,TRUE,data.econ.WthC_OldGodEX,"With the leviathans' assistance, oceanic conquest becomes trivial. Resources flow swiftly where needed.",graphics/icons/markets/oldgodex.png,142
+,,,,,,,

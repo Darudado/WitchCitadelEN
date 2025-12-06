@@ -1,0 +1,42 @@
+{
+    "displayName": "GE",
+    "fluxCapacitors": 4,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "kite_hegemony",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "assault_package",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "kite_hegemony_GE",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "lightmortar",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "sabot",
+                "WS 001": "sabot",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

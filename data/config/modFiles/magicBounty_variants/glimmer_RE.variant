@@ -1,0 +1,49 @@
+{
+    "displayName": "RE",
+    "fluxCapacitors": 7,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "glimmer",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "glimmer_RE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "phasebeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "sabot",
+                "WS 004": "sabot",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "irpulse",
+                "WS 003": "irpulse",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

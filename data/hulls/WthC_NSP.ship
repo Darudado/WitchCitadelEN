@@ -1,0 +1,113 @@
+{
+  "hullName": "WthC_NSP",
+  "hullId": "WthC_NSP",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/NSP.png",
+  "style": "RIE_WITCH",
+  "height": 72,
+  "width": 52,
+  "center": [26, 32],
+  "collisionRadius": 39,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 39,
+  "viewOffset": 0,
+  "builtInMods": [
+    "no_weapon_flux"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [16, 0]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [-8, -5]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": -0,
+      "locations": [-8, 5]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [-3, -10]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": -0,
+      "locations": [-3, 10]
+    },
+    {
+      "id": "WS0006",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [-3, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-21.5, 11.5],
+      "length": 32.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-23.5, -0],
+      "length": 46.5,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-21.5, -11.5],
+      "length": 32.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    32, -6,
+    11, -9,
+    10.5, -15,
+    -12, -23.5,
+    -28.5, -19,
+    -20.5, -12.5,
+    -20.5, 12.5,
+    -28.5, 19,
+    -12, 23.5,
+    10.5, 15,
+    11, 9,
+    32, 6
+  ]
+}

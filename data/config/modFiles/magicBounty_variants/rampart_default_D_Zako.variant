@@ -1,0 +1,77 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 0,
+    "fluxVents": 1,
+    "goalVariant": true,
+    "hullId": "rampart",
+    "hullMods": [
+        "heavyarmor",
+        "missleracks",
+        "targetingunit",
+        "damaged_mounts",
+        "degraded_engines",
+        "erratic_injector",
+        "fragile_subsystems",
+        "glitched_sensors",
+        "armoredweapons",
+        "fluxbreakers",
+        "insulatedengine",
+        "reinforcedhull",
+    ],
+    "permaMods": [
+        "heavyarmor",
+        "missleracks",
+        "targetingunit",
+        "damaged_mounts",
+        "degraded_engines",
+        "erratic_injector",
+        "fragile_subsystems",
+        "glitched_sensors",
+    ],
+    "sMods": [
+        "heavyarmor",
+        "missleracks",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "rampart_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "multineedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "devastator",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "flak",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "WthC_gonggonq",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "hammerrack",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

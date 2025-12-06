@@ -1,0 +1,61 @@
+{
+    "displayName": "S-Cross",
+    "fluxCapacitors": 25,
+    "fluxVents": 22,
+    "goalVariant": false,
+    "hullId": "WthC_Medusa_SS",
+    "hullMods": [
+        "magazines",
+        "ringinterferecross",
+        "armoredweapons",
+        "fluxbreakers",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "magazines",
+        "ringinterferecross",
+    ],
+    "sMods": [
+        "magazines",
+        "ringinterferecross",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Medusa_SS_S-Cross",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "ionpulser",
+                "WS 007": "ionpulser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "WthC_starsnode_elementS_water",
+                "WS 009": "WthC_starsnode_elementS_water",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "lightdualac",
+                "WS 003": "lightdualac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 001": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

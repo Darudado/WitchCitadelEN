@@ -1,0 +1,61 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 26,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "tesseract",
+    "hullMods": [
+        "crimsonmodificationssoul",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+        
+    ],
+    "permaMods": [
+        "crimsonmodificationssoul",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "crimsonmodificationssoul",
+        "extendedshieldemitter",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_chaoti",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_CHB",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_LiLancecrimson",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "heavyneedler",
+                "WS 007": "heavyneedler",
+                "WS 000": "minipulser",
+                "WS 005": "minipulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "cryoblaster",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

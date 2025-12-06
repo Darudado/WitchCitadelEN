@@ -1,0 +1,63 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 0,
+    "fluxVents": 55,
+    "goalVariant": true,
+    "hullId": "WthC_legion_IE",
+    "hullMods": [
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_legion_IE_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_Marching",
+                "WS 001": "WthC_Marching",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "WthC_starsnode_elementS_soil",
+                "WS 009": "WthC_starsnode_elementS_soil",
+                "WS 015": "WthC_starsnode_elementS_soil",
+                "WS 002": "WthC_starsnode_element_wood",
+                "WS 003": "WthC_starsnode_element_wood",
+                "WS 014": "WthC_starsnode_elementS_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "ionbeam",
+                "WS 004": "ionbeam",
+                "WS 005": "ionbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "WthC_MicroNodeBeam",
+                "WS 018": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_HGB_wing",
+        "WthC_HGB_wing",
+        "WthC_SMS_wing",
+        "WthC_SMS_wing",
+    ],
+    "modules": [],
+}

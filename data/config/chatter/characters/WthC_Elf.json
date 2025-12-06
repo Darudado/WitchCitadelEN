@@ -1,0 +1,94 @@
+{
+	"name":"Eden",
+	"personalities":["reckless", "aggressive", "steady"],
+	"gender":["f"],
+	"chance":0,
+	"talkativeness":1.75,
+	"categoryTags":["othermedia"],
+	
+	"lines":{
+		"start":[
+			{"text":"Back to the battlefield... though it's just a game."},
+			{"text":"You should have let me sleep a bit longer..."},
+			{"text":"Being a caretaker is a busy job..."},
+			{"text":"I never thought I'd return in this way..."},
+			{"text":"You had to call me for this...?"},
+			{"text":"Couldn't it have been something more meaningful...?"}
+		],
+		"start_boss":[
+			{"text":"Feels a bit like the old days..."},
+			{"text":"Now it's time for the professionals to take the stage..."},
+			{"text":"Even after ten thousand years, I haven't forgotten those unforgettable memories..."},
+			{"text":"Who will be... the next one?"},
+			{"text":"I can die too, but I'll always be reborn the next second... but you can't, humans..."},
+			{"text":"Even in the void, the hunt never stops..."},
+			{"text":"Just like that nonexistent mission..."}
+		],
+		"retreat":[
+			{"text":"I never thought... I'd receive such a request?"},
+			{"text":"Seems like you're different from those other high-and-mighty figures...?"},
+			{"text":"You remind me of someone who would never give such an order..."},
+			{"text":"It's good to be alive... isn't it? At least for you?"}
+		],
+		"out_of_missiles":[
+			{"text":"Looks like the fireworks are over..."},
+			{"text":"I never relied on these things in the past..."}
+		],
+		"engaged":[
+			{"text":"Pierce their hearts... or reactors... with precision."},
+			{"text":"Feels refreshing... doesn't it?"},
+			{"text":"It's been a long time since I last did this myself... a very long time..."},
+			{"text":"Experience doesn't fade with time..."}
+		],
+		"need_help":[
+			{"text":"Too bad your ship doesn't have the same constitution as me..."},
+			{"text":"In the past, I would have just kept going..."},
+			{"text":"Usually... I'm the one surrounded by others..."},
+			{"text":"So... ranged weapons aren't necessarily better than a spear..."}
+		],
+		"pursuing":[
+			{"text":"This time, I shouldn't have to chase for thousands of years..."},
+			{"text":"Heh... the most familiar feeling..."}
+		],
+		"running":[
+			{"text":"Boring..."},
+			{"text":"Time for a nap..."},
+			{"text":"(Command has been handed back to Iris)"}
+		],
+		"hull_90":[
+			{"text":"How many times have I been injured now?"},
+			{"text":"Looks like your broken ship can't reassemble itself..."},
+			{"text":"Have to consider damage...? How dull..."},
+			{"text":"Might as well plan a retreat route... since it's not me..."}
+		],
+		"hull_50":[
+			{"text":"Looks like your toy isn't holding up too well?"},
+			{"text":"It's fine if a little girl's toy breaks, right...?"},
+			{"text":"Don't expect me to save your ship..."},
+			{"text":"Truth is... I never really liked starships..."}
+		],
+		"hull_30":[
+			{"text":"Should I do something that matches my appearance...?"},
+			{"text":"Do you think I'd be even slightly panicked...?"},
+			{"text":"Too bad... the one who can resurrect isn't on the battlefield..."},
+			{"text":"Does your toy... have any resurrection mechanism?"}
+		],
+		"overload":[
+			{"text":"Such abundant energy... though it doesn't seem like a good thing?"},
+			{"text":"Still... a familiar feeling..."},
+			{"text":"Is it time to be reborn again...? Seems not..."}
+		],
+		"death":[
+			{"text":"Well... looks like the game is over..."},
+			{"text":"If I started bawling now, it might fit your stereotypes of me..."},
+			{"text":"A pile of scrap metal can't exactly be reborn..."}
+		],
+		"victory":[
+			{"text":"Time to go back and get some proper sleep..."},
+			{"text":"Feels like just going through the motions..."},
+			{"text":"Instead... this is the most numbing occasion..."},
+			{"text":"I hope the chase isn't just my task alone anymore..."},
+			{"text":"A successful hunt... just like the old days..."}
+		]
+	}
+}

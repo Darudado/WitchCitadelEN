@@ -1,0 +1,102 @@
+{
+   "name": "Youyu",
+   "personalities": ["cautious", "steady", "timid"],
+   "gender": ["f"],
+   "chance": 0,
+   "talkativeness": 1.75,
+   "categoryTags": ["othermedia"],
+   
+   "lines": {
+       "start": [
+           {"text": "Um... hello?"},
+           {"text": "I'm not very good at this... you know, distinguished traveler..."},
+           {"text": "Just like playing a game? I'm not as good at competition as Lika..."},
+           {"text": "I just need to stay back and shoot, right...?"},
+           {"text": "Can't Eden just take over instead...?"},
+           {"text": "Let me be clear... I'm not a professional in this area..."},
+           {"text": "Please don't have too many expectations, distinguished traveler."}
+       ],
+       "start_boss": [
+           {"text": "Take care, distinguished traveler."},
+           {"text": "In a field I'm not skilled in, just being serious might not be enough..."},
+           {"text": "Don't worry about me, you're the one who'll actually get hurt..."},
+           {"text": "In emergency situations, I'll hand things over to Eden."},
+           {"text": "If things go wrong, I'll be the first to leave the front line..."},
+           {"text": "Isn't this something that shouldn't involve non-combat personnel in the first place...?"},
+           {"text": "Looks like people in this star sector don't like to talk much either..."},
+           {"text": "How many will sacrifice themselves this time... even though I can never prevent it."}
+       ],
+       "retreat": [
+           {"text": "Maybe this is what I'm better at..."},
+           {"text": "It's time to hand this back to Eden, right?"},
+           {"text": "Sorry, repairing these damages might take some time."},
+           {"text": "I'm always the one being protected..."},
+           {"text": "Hope you're safe, distinguished traveler."},
+           {"text": "Wouldn't it be better to have Lika do this next time?"}
+       ],
+       "out_of_missiles": [
+           {"text": "Sorry... maybe I was a bit careless."},
+           {"text": "So it's time to retreat...?"}
+       ],
+       "engaged": [
+           {"text": "At least aiming isn't difficult."},
+           {"text": "Slow, but precise enough..."},
+           {"text": "Holding out until the retreat order is given..."},
+           {"text": "Don't doubt it, I'm not as soft-hearted as people might imagine..."},
+           {"text": "I hope this star sector also has a place for souls to return."}
+       ],
+       "need_help": [
+           {"text": "Looks like we need to retreat?"},
+           {"text": "Sorry, I'm not good at handling these situations, distinguished traveler"},
+           {"text": "Do you want me to save this ship, distinguished traveler?"},
+           {"text": "Perhaps letting an unmanned ship draw fire is a good choice..."}
+       ],
+       "pursuing": [
+           {"text": "Pursuit...? This doesn't look like something I'd do..."},
+           {"text": "Sorry... taking the initiative is what I'm least good at..."}
+       ],
+       "running": [
+           {"text": "Maybe this is the only thing I'm good at on the battlefield..."},
+           {"text": "Finally... looks like it's time to fall back."},
+           {"text": "Lika told me... the battlefield now belongs to mobility?"},
+           {"text": "Don't worry... I'll protect this ship."}
+       ],
+       "hull_90": [
+           {"text": "Uh... should I leave soon?"},
+           {"text": "Sorry... took some damage."},
+           {"text": "Mmm... this is uncomfortable."},
+           {"text": "I'll hang in there for now..."}
+       ],
+       "hull_50": [
+           {"text": "Time to fully enter the retreat protocol, Eden?"},
+           {"text": "Sorry, distinguished traveler, I need to retreat."},
+           {"text": "I'll try to save this ship... by running away."},
+           {"text": "Although I could probably hang on a bit longer... the emergency systems seem to have activated."},
+           {"text": "Ensuring the safety of space assets is necessary too, right...?"}
+       ],
+       "hull_30": [
+           {"text": "I'm already leaving at maximum speed..."},
+           {"text": "Looks like I'll have to suffer some losses...?"},
+           {"text": "Ship losses don't matter? No need to comfort me."},
+           {"text": "Don't worry... after all, I won't actually get hurt."}
+       ],
+       "overload": [
+           {"text": "Uh... how do I handle this situation?"},
+           {"text": "Sorry... this will definitely need repairs later."},
+           {"text": "Should I activate emergency protocols...? Not yet? Oh..."}
+       ],
+       "death": [
+           {"text": "Sorry... distinguished traveler."},
+           {"text": "Eden tells me this journey has ended... sorry."},
+           {"text": "No need to be in such a hurry... I'm not actually on the ship"}
+       ],
+       "victory": [
+           {"text": "I guess that counts as a success...?"},
+           {"text": "I hope your next journey continues to be pleasant... distinguished traveler."},
+           {"text": "Want to give me a reward in person...? Lika said she'll accept it for me."},
+           {"text": "If you have time, come visit Crimson City and relax?"},
+           {"text": "Perhaps one day I'll personally set out on a journey through the stars..."},
+           {"text": "Eden says this is enough. May your military fortune be prosperous, distinguished traveler."}
+       ]
+   }
+}

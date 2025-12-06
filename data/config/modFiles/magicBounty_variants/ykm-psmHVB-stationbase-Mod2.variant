@@ -1,0 +1,49 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 38,
+    "fluxVents": 0,
+    "hullId": "PSM_station_carrier",
+    "hullMods": [
+        "crimsonmodificationssoul",
+        "ringinterfereelf",
+        "targetingunit",
+        "eccm",
+        "extendedshieldemitter"
+    ],
+    "permaMods": [
+        "crimsonmodificationssoul",
+        "ringinterfereelf",
+        "targetingunit",
+        "eccm"
+    ],
+    "sMods": [
+        "crimsonmodificationssoul",
+        "ringinterfereelf",
+        "targetingunit",
+        "eccm"
+    ],
+    "variantId": "ykm-psmHVB-stationbase-Mod2",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "hveldriver"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0006": "PSM_devastator_TSM"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "hveldriver"}
+        }
+    ],
+    "wings": [
+        "flash_wing",
+        "flash_wing",
+        "flash_wing",
+        "flash_wing"
+    ]
+}

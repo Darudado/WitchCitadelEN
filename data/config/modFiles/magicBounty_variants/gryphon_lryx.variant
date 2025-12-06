@@ -1,0 +1,45 @@
+{
+  "variantId": "gryphon_lryx",
+  "hullId": "gryphon",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 30,
+  "fluxVents": 30,
+  "quality": 1,
+  "permaMods": [
+    "crimsonmodificationdust",
+    "ringinterferessoul",
+  ],
+  "hullMods": [
+    "eccm",
+    "ringfog",
+    "ringsup2",
+    "shadowremainie",
+    "solar_shielding",
+    "missile_reload",
+    "glitched_sensors",
+    "damaged_deck",
+    "comp_storage",
+    "increased_maintenance",
+	"crimsonmodificationdust",
+    "ringinterferessoul",
+    "degraded_life_support"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 001": "dragon",
+        "WS 008": "dragon",
+        "WS 009": "dragon",
+        "WS 010": "gazer",
+        "WS 011": "gazer",
+        "WS 012": "gazer",
+        "WS 002": "dragon",
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

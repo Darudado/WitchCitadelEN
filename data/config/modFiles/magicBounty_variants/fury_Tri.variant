@@ -1,0 +1,59 @@
+{
+    "displayName": "Tri",
+    "fluxCapacitors": 19,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "fury",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "converted_hangar",
+        "defensive_targeting_array",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "fury_Tri",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "phasecl",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "phasecl",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "irpulse",
+                "WS 003": "irpulse",
+            }
+        },
+    ],
+    "wings": [
+        "wasp_wing",
+    ],
+    "modules": [],
+}

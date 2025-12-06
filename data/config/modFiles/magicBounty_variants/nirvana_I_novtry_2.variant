@@ -1,0 +1,59 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 25,
+    "fluxVents": 16,
+    "hullId": "valk_nirvana_I",
+    "hullMods": [
+        "valk_peakfire",
+        "valk_skogulmodernization",
+        "targetingunit",
+        "fluxcoil",
+        "eccm"
+    ],
+    "permaMods": [
+        "valk_skogulmodernization",
+        "targetingunit"
+    ],
+    "sMods": [
+        "valk_skogulmodernization",
+        "targetingunit"
+    ],
+    "variantId": "nirvana_I_novtry_2",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0011": "valk_imbc"}
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0003": "valk_spectre",
+                "WS0004": "valk_spectre"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "valk_bcnn",
+                "WS0010": "valk_bcnn",
+                "WS0016": "valk_bcnn",
+                "WS0017": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "valk_nxk_pd",
+                "WS0002": "valk_nxk_pd",
+                "WS0012": "valk_irpdcannon",
+                "WS0013": "valk_irpdcannon",
+                "WS0018": "valk_irpdcannon",
+                "WS0019": "valk_irpdcannon"
+            }
+        }
+    ]
+}

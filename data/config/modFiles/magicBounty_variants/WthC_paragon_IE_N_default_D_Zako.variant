@@ -1,0 +1,110 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 21,
+    "goalVariant": true,
+    "hullId": "WthC_paragon_IE",
+    "hullMods": [
+        "autorepair",
+        "heavyarmor",
+        "ringinterferecross",
+        "shield_shunt",
+		"rugged",
+        "damaged_mounts",
+        "degraded_life_support",
+        "degraded_shields",
+        "faulty_auto",
+        "increased_maintenance",
+        "armoredweapons",
+        "blast_doors",
+        "crimsonmodificationrra",
+        "fluxbreakers",
+        "insulatedengine",
+        "reinforcedhull",
+        "ringinterferedust",
+    ],
+    "permaMods": [
+        "autorepair",
+        "heavyarmor",
+        "ringinterferecross",
+        "shield_shunt",
+		"rugged",
+        "damaged_mounts",
+        "degraded_life_support",
+        "degraded_shields",
+        "faulty_auto",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "autorepair",
+        "heavyarmor",
+        "ringinterferecross",
+        "shield_shunt",
+		"rugged",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_paragon_IE_N_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "WthC_LiLancepale",
+                "WS 001": "WthC_LiLancepale",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_LiLancecrimson",
+                "WS 003": "hil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_NodeVoid",
+                "WS 007": "WthC_NodeVoid",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "WthC_BreezeTacticalLaser",
+                "WS 009": "WthC_LittleNodeBeam-A",
+                "WS 013": "WthC_BreezeTacticalLaser",
+                "WS 010": "WthC_LittleNodeBeam-A",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "WthC_BreezeTacticalLaser",
+                "WS 018": "WthC_BreezeTacticalLaser",
+                "WS 015": "WthC_BreezeTacticalLaser",
+                "WS 011": "WthC_BreezeTacticalLaser",
+                "WS 012": "WthC_BreezeTacticalLaser",
+                "WS 021": "WthC_BreezeTacticalLaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_MicroNodeBeam",
+                "WS0002": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_StarryEmbellishment",
+                "WS 005": "WthC_StarryEmbellishment",
+                "WS 016": "WthC_MicroNodeBeam",
+                "WS 022": "WthC_MicroNodeBeam",
+                "WS 023": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

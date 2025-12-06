@@ -1,0 +1,37 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 18,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "manticore_pirates",
+    "hullMods": [
+        "converted_hangar",
+        "escort_package",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "manticore_pirates_Ju2",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "gauss",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "pilum",
+                "WS 005": "pilum",
+            }
+        },
+    ],
+    "wings": [
+        "broadsword_wing",
+    ],
+    "modules": [],
+}

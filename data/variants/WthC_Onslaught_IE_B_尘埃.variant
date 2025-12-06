@@ -1,0 +1,97 @@
+{
+    "displayName": "Dust",
+    "fluxCapacitors": 47,
+    "fluxVents": 55,
+    "goalVariant": true,
+    "hullId": "WthC_Onslaught_IE_B",
+    "hullMods": [
+        "autorepair",
+        "crimsonmodificationdust",
+        "magazines",
+        "ringinterferecross",
+        "ringinterfererra",
+        "armoredweapons",
+        "blast_doors",
+        "insulatedengine",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "autorepair",
+        "crimsonmodificationdust",
+        "magazines",
+        "ringinterferecross",
+        "ringinterfererra",
+    ],
+    "sMods": [
+        "autorepair",
+        "crimsonmodificationdust",
+        "magazines",
+        "ringinterferecross",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Onslaught_IE_B_Dust",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "WthC_TPCRune",
+                "WS 016": "WthC_TPCRune",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 024": "WthC_starsnode_element_gold",
+                "WS 021": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 022": "WthC_starsnode_element_fire",
+                "WS 023": "WthC_starsnode_element_fire",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "devastator",
+                "WS 018": "devastator",
+                "WS 020": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_StarryEmbellishment",
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 013": "WthC_StarryEmbellishment",
+                "WS 002": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_StarryEmbellishment",
+                "WS 012": "WthC_StarryEmbellishment",
+                "WS 001": "WthC_StarryEmbellishment",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "flak",
+                "WS 010": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

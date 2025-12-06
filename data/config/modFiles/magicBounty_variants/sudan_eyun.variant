@@ -1,0 +1,56 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 20,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "doom",
+    "hullMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "missleracks",
+        "safetyoverrides",
+        
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "missleracks",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_eyun",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "disintegrator",
+                "WS 007": "disintegrator",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "typhoon",
+                "WS 001": "typhoon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lightneedler",
+                "WS 004": "lightneedler",
+                "WS 005": "lightneedler",
+                "WS 003": "lightneedler",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

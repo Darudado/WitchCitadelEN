@@ -1,0 +1,148 @@
+{
+  "hullName": "WthC_Brawler_SS",
+  "hullId": "WthC_Brawler_SS",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/brawler_SS.png",
+  "style": "RIE_WITCH",
+  "height": 68,
+  "width": 122,
+  "center": [61, 36],
+  "collisionRadius": 70,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 70,
+  "viewOffset": 0,
+  "builtInMods": [
+    "starssynchronous"
+  ],
+  "builtInWeapons": {
+    "WS 001": "WthC_starsnode_elementS_fire",
+    "WS 002": "WthC_starsnode_elementS_fire",
+    "WS 003": "WthC_starsnode_elementS_gold",
+    "WS 004": "WthC_starsnode_elementS_gold"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS 001",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [18, 22]
+    },
+    {
+      "id": "WS 002",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [18, -22]
+    },
+    {
+      "id": "WS 003",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [17, 50]
+    },
+    {
+      "id": "WS 004",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [17, -50]
+    },
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [12, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-19, 39],
+      "length": 48,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-19, -39],
+      "length": 48,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-29, 11],
+      "length": 24,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-29.5, -11],
+      "length": 24,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-21, 55],
+      "length": 15.79292,
+      "width": 6.271739,
+      "angle": 143,
+      "contrailSize": 6.271739,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-21, -55],
+      "length": 15.79292,
+      "width": 6.271739,
+      "angle": -143,
+      "contrailSize": 6.271739,
+      "style": "RIE_WITCH"
+    }
+  ],
+  "bounds": [
+    21.5, -6.5,
+    25, -11,
+    27.5, -29,
+    20.5, -37,
+    26, -40.5,
+    27.5, -58.5,
+    -12.5, -62,
+    -24, -49,
+    -19.5, -36,
+    -34, -26,
+    -28, -20.5,
+    -28.5, -11,
+    -21, -4.5,
+    -21, 4.5,
+    -28.5, 11,
+    -28, 20.5,
+    -34, 26,
+    -19.5, 36,
+    -24, 49,
+    -12.5, 62,
+    27.5, 58.5,
+    26, 40.5,
+    20.5, 37,
+    27.5, 29,
+    25, 11,
+    21.5, 6.5
+  ]
+}

@@ -1,0 +1,56 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 15,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "shade",
+    "hullMods": [
+        "fluxcoil",
+        "reinforcedhull",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "phase_anchor",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "reinforcedhull",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "reinforcedhull",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "shade_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "minipulser",
+                "WS 002": "minipulser",
+                "WS 004": "amblaster",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "WthC_MicroNodeBeam-A",
+                "WS 005": "WthC_MicroNodeBeam-A",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

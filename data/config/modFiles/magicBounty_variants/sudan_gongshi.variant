@@ -1,0 +1,94 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 55,
+    "fluxVents": 55,
+    "goalVariant": false,
+    "hullId": "onslaught_xiv",
+    "hullMods": [
+        "ballistic_rangefinder",
+        "missleracks",
+        "targetingunit",
+        "adaptiveshields",
+        "fluxcoil",
+        "fluxdistributor",
+        "hardenedshieldemitter",
+        "magazines",
+        
+    ],
+    "permaMods": [
+        "ballistic_rangefinder",
+        "missleracks",
+        "targetingunit",
+    ],
+    "sMods": [
+        "ballistic_rangefinder",
+        "missleracks",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_goushi",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "tpc",
+                "WS 016": "tpc",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 021": "annihilatorpod",
+                "WS 022": "annihilatorpod",
+                "WS 023": "annihilatorpod",
+                "WS 024": "annihilatorpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "hellbore",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "hveldriver",
+                "WS 013": "hveldriver",
+                "WS 003": "hveldriver",
+                "WS 012": "hveldriver",
+                "WS 001": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "heavyac",
+                "WS 010": "heavyac",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "devastator",
+                "WS 020": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "flak",
+                "WS 014": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

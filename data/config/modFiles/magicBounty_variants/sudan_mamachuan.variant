@@ -1,0 +1,64 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 55,
+    "fluxVents": 43,
+    "goalVariant": false,
+    "hullId": "ziggurat",
+    "hullMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "high_scatter_amp",
+        "erosion1",
+        "erosion2",
+        "erosion3",
+        "erosion4",
+        "erosion5",
+        
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "high_scatter_amp",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "heavyarmor",
+        "high_scatter_amp",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_mamachuan",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "WthC_RuneBreathe",
+                "WS 001": "WthC_LiLancecrimson",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "reaper",
+                "WS 009": "reaper",
+                "WS 006": "reaper",
+                "WS 007": "reaper",
+                "WS 011": "reaper",
+                "WS 010": "reaper",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavyneedler",
+                "WS 003": "heavyneedler",
+                "WS 004": "heavyneedler",
+                "WS 005": "heavyneedler",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

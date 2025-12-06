@@ -1,0 +1,83 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 7,
+    "hullId": "valk_nirvana_II",
+    "hullMods": [
+        "crimsonmodificationrra",
+        "valk_skogulmodernization",
+        "shield_shunt",
+        "armoredweapons",
+        "autorepair",
+        "valk_fluxfog",
+        "targetingunit",
+        "reinforcedhull",
+        "heavyarmor",
+        "insulatedengine"
+    ],
+    "permaMods": [
+        "crimsonmodificationrra",
+        "valk_skogulmodernization",
+        "shield_shunt"
+    ],
+    "sMods": [
+        "crimsonmodificationrra",
+        "valk_skogulmodernization",
+        "shield_shunt"
+    ],
+    "variantId": "nirvana_II_novtry_1",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0002": "gorgon",
+                "WS0003": "gorgon"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0004": "valk_spectre",
+                "WS0005": "valk_spectre"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0024": "valk_antiproton_laser",
+                "WS0025": "valk_geironul"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0018": "valk_bcnn",
+                "WS0019": "valk_bcnn"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0008": "valk_nxk_pd",
+                "WS0009": "valk_nxk_pd",
+                "WS0012": "valk_irpdcannon",
+                "WS0013": "valk_irpdcannon",
+                "WS0014": "valk_irpdcannon",
+                "WS0015": "valk_irpdcannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0010": "WthC_MicroNodeBeam",
+                "WS0011": "WthC_MicroNodeBeam"
+            }
+        }
+    ]
+}

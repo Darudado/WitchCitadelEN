@@ -1,0 +1,99 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 27,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "WthC_Onslaught_IE",
+    "hullMods": [
+        "auxiliarythrusters",
+        "crimsonmodificationrra",
+        "extendedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+        "hardenedshieldemitter",
+        "missleracks",
+        "ringinterferessoul",
+        "targetingunit",
+        "no_weapon_flux",
+        "missile_reload",
+        "fluxshunt",
+    ],
+    "permaMods": [
+        "auxiliarythrusters",
+        "crimsonmodificationrra",
+        "extendedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "sMods": [
+        "auxiliarythrusters",
+        "crimsonmodificationrra",
+        "extendedshieldemitter",
+        "heavyarmor",
+        "reinforcedhull",
+    ],
+    "suppressedMods": [],
+    "variantId": "Wishscy_Onslaught",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 021": "WthC_starsnode_element_gold",
+                "WS 022": "WthC_starsnode_element_fire",
+                "WS 023": "WthC_starsnode_element_fire",
+                "WS 024": "WthC_starsnode_element_gold",
+                "WS 019": "WthC_TwinMovement",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 016": "tpc",
+                "WS 017": "tpc",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "multineedler",
+                "WS 020": "multineedler",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "hveldriver",
+                "WS 003": "hveldriver",
+                "WS 007": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "WthC_StarryEmbellishment",
+                "WS 011": "WthC_StarryEmbellishment",
+                "WS 012": "WthC_StarryEmbellishment",
+                "WS 013": "WthC_StarryEmbellishment",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam-A",
+                "WS 009": "WthC_MicroNodeBeam-A",
+                "WS 006": "WthC_MicroNodeBeam-A",
+                "WS 004": "WthC_MicroNodeBeam-A",
+                "WS 005": "WthC_MicroNodeBeam-A",
+                "WS 002": "WthC_MicroNodeBeam-A",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

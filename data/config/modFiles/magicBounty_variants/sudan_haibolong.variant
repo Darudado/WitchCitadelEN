@@ -1,0 +1,51 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 5,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "hyperion",
+    "hullMods": [
+        "extendedshieldemitter",
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "safetyoverrides",
+        
+    ],
+    "permaMods": [
+        "extendedshieldemitter",
+        "fluxcoil",
+        "hardenedshieldemitter",
+    ],
+    "sMods": [
+        "extendedshieldemitter",
+        "fluxcoil",
+        "hardenedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "sudan_haibolong",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "disintegrator",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "heavyneedler",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "cryoblaster",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

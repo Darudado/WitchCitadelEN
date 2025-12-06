@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apache.bcel" type="repository">
+    <properties maven-id="org.apache.bcel:bcel:6.10.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bcel-6.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

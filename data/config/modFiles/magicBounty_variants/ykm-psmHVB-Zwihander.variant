@@ -1,0 +1,69 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 50,
+    "fluxVents": 40,
+    "hullId": "PSM_Zwihander",
+    "hullMods": [
+        "targetingunit",
+        "eccm",
+        "crimsonmodificationie",
+        "missleracks",
+        "heavyarmor",
+        "ballistic_rangefinder",
+        "autorepair",
+        "fragile_subsystems",
+        "malfunctioning_comms",
+        "increased_maintenance",
+        "faulty_auto",
+        "degraded_life_support"
+    ],
+    "permaMods": [
+        "targetingunit",
+        "eccm",
+        "crimsonmodificationie",
+        "missleracks",
+        "heavyarmor"
+    ],
+    "sMods": [
+        "targetingunit",
+        "eccm",
+        "crimsonmodificationie",
+        "missleracks",
+        "heavyarmor"
+    ],
+    "variantId": "ykm-psmHVB-Zwihander",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0001": "PSM_Hybrid_Cannon"}
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0004": "PSM_hveldriver_TSM",
+                "WS0005": "PSM_hveldriver_TSM"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0009": "lightneedler",
+                "WS0010": "lightneedler"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0003": "PSM_devastator_TSM"}
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {"WS0002": "devastator"}
+        }
+    ],
+    "wings": ["PSM_P_whaler"]
+}

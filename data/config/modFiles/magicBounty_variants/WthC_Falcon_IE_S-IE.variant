@@ -1,0 +1,55 @@
+{
+    "displayName": "S-IE",
+    "fluxCapacitors": 35,
+    "fluxVents": 5,
+    "goalVariant": false,
+    "hullId": "WthC_Falcon_IE",
+    "hullMods": [
+        "extendedshieldemitter",
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "extendedshieldemitter",
+        "fluxcoil",
+    ],
+    "sMods": [
+        "extendedshieldemitter",
+        "fluxcoil",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Falcon_IE_S-IE",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "gravitonbeam",
+                "WS 008": "gravitonbeam",
+                "WS 005": "WthC_StormClouds",
+                "WS 006": "ionbeam",
+                "WS 009": "WthC_BreezeTacticalLaser",
+                "WS 010": "taclaser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_elementS_soil",
+                "WS 001": "WthC_starsnode_elementS_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 004": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

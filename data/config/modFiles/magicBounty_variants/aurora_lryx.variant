@@ -1,0 +1,44 @@
+{
+  "variantId": "aurora_lryx",
+  "hullId": "aurora",
+  "displayName": "Custom",
+  "goalVariant": false,
+  "fluxCapacitors": 30,
+  "fluxVents": 30,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "crimsonmodificationssoul",
+    "missleracks",
+    "ringfog",
+    "ringinterferedust",
+    "ringsup2",
+    "safetyoverrides",
+    "shadowremainie",
+    "comp_storage",
+    "damaged_deck",
+    "degraded_drive_field",
+    "degraded_life_support",
+    "eccm",
+    "increased_maintenance",
+    "missile_reload"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 006": "breachpod",
+        "WS 007": "typhoon",
+        "WS 008": "typhoon",
+        "WS 009": "typhoon",
+        "WS 010": "sabot",
+        "WS 011": "sabot",
+        "WS 012": "sabot",
+        "WS 013": "sabot"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

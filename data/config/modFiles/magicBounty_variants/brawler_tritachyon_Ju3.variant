@@ -1,0 +1,35 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 10,
+    "fluxVents": 3,
+    "goalVariant": false,
+    "hullId": "brawler_tritachyon",
+    "hullMods": [
+        "high_scatter_amp",
+        "safetyoverrides",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "brawler_tritachyon_Ju3",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "phasebeam",
+                "WS 001": "phasebeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "gorgon",
+                "WS 003": "gorgon",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

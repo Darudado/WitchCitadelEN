@@ -1,0 +1,79 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 55,
+    "fluxVents": 7,
+    "goalVariant": false,
+    "hullId": "ln_retribution_ln",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "unstable_injector",
+        "defensive_targeting_array",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "unstable_injector",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "unstable_injector",
+    ],
+    "suppressedMods": [],
+    "variantId": "ln_retribution_ln_Custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "sabot",
+                "WS 008": "sabot",
+                "WS 009": "harpoon",
+                "WS 010": "sabot",
+                "WS 020": "sabot",
+                "WS 021": "harpoon",
+                "WS 016": "harpoon",
+                "WS 017": "harpoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "chaingun",
+                "WS 004": "chaingun",
+                "WS 005": "chaingun",
+                "WS 006": "chaingun",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "devastator",
+                "WS 001": "devastator",
+                "WS 002": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "lightdualac",
+                "WS 012": "lightdualac",
+                "WS 013": "lightdualac",
+                "WS 014": "lightdualac",
+                "WS 015": "lightdualac",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_VSS_wing",
+        "WthC_VDS_wing",
+        "sarissa_wing",
+        "sarissa_wing",
+    ],
+    "modules": [],
+}

@@ -1,0 +1,46 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 25,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "WthC_Medusa_SS",
+    "hullMods": [
+        "ringinterferedust",
+        "safetyoverrides",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_Medusa_SS_Standard",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "heavyblaster",
+                "WS 007": "heavyblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "WthC_starsnode_elementS_water",
+                "WS 009": "WthC_starsnode_elementS_water",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 002": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 001": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

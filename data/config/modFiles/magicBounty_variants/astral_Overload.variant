@@ -1,0 +1,73 @@
+{
+    "displayName": "Overload",
+    "fluxCapacitors": 1000,
+    "fluxVents": 110,
+    "goalVariant": true,
+    "hullId": "astral",
+    "hullMods": [
+        "expanded_deck_crew",
+        "missile_autoloader",
+        "missleracks",
+        "nav_relay",
+        "ringfog",
+        "ringinterferedust",
+        "ringsup2",
+        "shadowremainelf",
+        "targetingunit",
+        "missile_reload",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "astral_Overload",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_NewMoon",
+                "WS 006": "WthC_NewMoon",
+                "WS 007": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "pilum_large",
+                "WS 012": "pilum_large",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "pilum_large",
+                "WS 014": "pilum_large",
+                "WS 023": "pilum_large",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "pilum_large",
+                "WS 005": "pilum_large",
+                "WS 024": "pilum_large",
+                "WS 013": "pilum_large",
+                "WS 002": "pilum_large",
+                "WS 003": "pilum_large",
+                "WS 001": "pilum_large",
+            }
+        },
+    ],
+    "wings": [
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "trident_wing",
+        "longbow_wing",
+        "longbow_wing",
+    ],
+    "modules": [],
+}

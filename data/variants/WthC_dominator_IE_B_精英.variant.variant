@@ -1,0 +1,71 @@
+{
+    "displayName": "Elite",
+    "fluxCapacitors": 0,
+    "fluxVents": 7,
+    "goalVariant": true,
+    "hullId": "WthC_dominator_IE_B",
+    "hullMods": [
+        "armoredweapons",
+        "blast_doors",
+        "eccm",
+        "fluxbreakers",
+        "heavyarmor",
+        "insulatedengine",
+        "reinforcedhull",
+        "shield_shunt",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_dominator_IE_B_Elite",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "WthC_Thundersuite",
+                "WS 012": "WthC_Thundersuiteend",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 016": "WthC_starsnode_element_soil",
+                "WS 014": "WthC_starsnode_element_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 002": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 001": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "flak",
+                "WS 010": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Witch_Citadel ",
+  "name": "[Witch Citadel]",
+  "author": "YuYukoari",
+  "version": "0.9b-Rc2ENG3",
+  "description": "Born of stitching, bound by stitching, and perhaps destined to end in stitching—an ultimate mess of patchwork!",
+  "gameVersion": "0.98a-RC5",
+  "dependencies": [
+    {
+      "id": "lw_lazylib",
+      "name": "LazyLib"
+    },
+    {
+      "id": "shaderLib",
+      "name": "GraphicLib"
+    },
+    {
+      "id": "MagicLib",
+      "name": "MagicLib"
+    },
+    {
+      "id": "ALICE ",
+      "name": "ac alice ship pack"
+    }
+  ],
+  "jars": [
+    "jars/Witch_Citadel.jar"
+  ],
+  "modPlugin": "data.scripts.WthC_ModPlugin",
+  "originalGameVersion": "0.98a-RC8"
+}

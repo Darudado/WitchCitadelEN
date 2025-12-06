@@ -1,0 +1,42 @@
+{
+    "displayName": "LE",
+    "fluxCapacitors": 10,
+    "fluxVents": 4,
+    "goalVariant": false,
+    "hullId": "monitor",
+    "hullMods": [
+        "frontemitter",
+        "stabilizedshieldemitter",
+        "hardenedshieldemitter",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "frontemitter",
+        "stabilizedshieldemitter",
+    ],
+    "sMods": [
+        "frontemitter",
+        "stabilizedshieldemitter",
+    ],
+    "suppressedMods": [],
+    "variantId": "monitor_LE",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "flak",
+                "WS 001": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

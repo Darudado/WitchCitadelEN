@@ -1,0 +1,176 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite,sModDesc,order,
+Crimson Modification - Origin,crimsonmodificationie,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage",Special,20000,,,,10,20,30,45,data.hullmods.WthC_CrimsonModification_IE,"A mysterious starship retrofit package that fundamentally alters a vessel's combat characteristics through comprehensive modifications.
+
+Each Crimson Modification integrates complete stellar consciousness protocols, as if legendary Witches were directly controlling ship systems...
+
+However, this holistic design requires enormous fitting space and can only be installed on larger vessels due to its radical structural changes.",One of the universal Crimson Refits,graphics/hullmods/ie.png,"Forcing this module into S-mod slot causes severe maintenance issues:
+
+Monthly supply consumption increased by %s 
+
+Minimum crew requirement increased by %s 
+
+Flux required for shield upkeep increased by %s ",,
+Crimson Modification - Rosetta,crimsonmodificationrra,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage",Special,20000,,,,10,20,30,45,data.hullmods.WthC_CrimsonModification_RRA,"A mysterious starship retrofit package that fundamentally alters a vessel's combat characteristics through comprehensive modifications.
+
+Each Crimson Modification integrates complete stellar consciousness protocols, as if legendary Witches were directly controlling ship systems...
+
+However, this holistic design requires enormous fitting space and can only be installed on larger vessels due to its radical structural changes.",One of the universal Crimson Refits,graphics/hullmods/rra.png,"Forcing this module into S-mod slot causes severe maintenance issues:
+
+Monthly supply consumption increased by %s 
+
+Minimum crew requirement increased by %s 
+
+Hull integrity reduced by %s ",,
+Crimson Modification - Dust,crimsonmodificationdust,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,10,20,30,45,data.hullmods.WthC_CrimsonModification_Dust,"A mysterious starship retrofit package that fundamentally alters a vessel's combat characteristics through comprehensive modifications.
+
+Each Crimson Modification integrates complete stellar consciousness protocols, as if legendary Witches were directly controlling ship systems...
+
+However, this holistic design requires enormous fitting space and can only be installed on larger vessels due to its radical structural changes.",One of the universal Crimson Refits,graphics/hullmods/dust.png,"Forcing this module into S-mod slot causes severe maintenance issues:
+
+Monthly supply consumption increased by %s 
+
+Minimum crew requirement increased by %s 
+
+Peak operating time reduced by %s ",,
+Crimson Modification - Cross,crimsonmodificationcross,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,10,20,30,45,data.hullmods.WthC_CrimsonModification_Cross,"A mysterious starship retrofit package that fundamentally alters a vessel's combat characteristics through comprehensive modifications.
+
+Each Crimson Modification integrates complete stellar consciousness protocols, as if legendary Witches were directly controlling ship systems...
+
+However, this holistic design requires enormous fitting space and can only be installed on larger vessels due to its radical structural changes.",One of the universal Crimson Refits,graphics/hullmods/cross.png,"Forcing this module into S-mod slot causes severe maintenance issues:
+
+Monthly supply consumption increased by %s 
+
+Minimum crew requirement increased by %s 
+
+Weapon durability reduced by %s ",,
+Crimson Modification - Soul,crimsonmodificationssoul,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,10,20,30,45,data.hullmods.WthC_CrimsonModification_SSoul,"A mysterious starship retrofit package that fundamentally alters a vessel's combat characteristics through comprehensive modifications.
+
+Each Crimson Modification integrates complete stellar consciousness protocols, as if legendary Witches were directly controlling ship systems...
+
+However, this holistic design requires enormous fitting space and can only be installed on larger vessels due to its radical structural changes.",One of the universal Crimson Refits,graphics/hullmods/ssoul.png,"Forcing this module into S-mod slot causes severe maintenance issues:
+
+Monthly supply consumption increased by %s 
+
+Minimum crew requirement increased by %s 
+
+Shield damage taken increased by %s ",,
+Crimson Modification - Elfin,crimsonmodificationelf,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,10,20,30,45,data.hullmods.WthC_CrimsonModification_Elf,"A mysterious starship retrofit package that fundamentally alters a vessel's combat characteristics through comprehensive modifications.
+
+Each Crimson Modification integrates complete stellar consciousness protocols, as if legendary Witches were directly controlling ship systems...
+
+However, this holistic design requires enormous fitting space and can only be installed on larger vessels due to its radical structural changes.",One of the universal Crimson Refits,graphics/hullmods/elf.png,"Forcing this module into S-mod slot causes severe maintenance issues:
+
+Monthly supply consumption increased by %s 
+
+Minimum crew requirement increased by %s 
+
+Ship top speed reduced by %s ",,
+Ring Protocol - Soul,ringinterferessoul,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,3,6,9,15,data.hullmods.WthC_RingInterfere_SSoul,"Lightweight interference protocols born from the Ring Network, designed as auxiliary systems for Crimson Modifications.
+
+Unlike comprehensive Crimson retrofits, these protocols inject partial consciousness patterns into subsystems, improving automation with specialized tendencies.
+
+Can be installed in multiple stages on most ships, but requires Crimson Modifications to reach full potential.",One of the Ring Interference Protocols,graphics/hullmods/ssoul_R.png,"No longer increases CR decay rate after peak time
+
+Ship's spacetime perception significantly enhanced",,
+Ring Protocol - Origin,ringinterfereie,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,3,6,9,15,data.hullmods.WthC_RingInterfere_IE,"Lightweight interference protocols born from the Ring Network, designed as auxiliary systems for Crimson Modifications.
+
+Unlike comprehensive Crimson retrofits, these protocols inject partial consciousness patterns into subsystems, improving automation with specialized tendencies.
+
+Can be installed in multiple stages on most ships, but requires Crimson Modifications to reach full potential.",One of the Ring Interference Protocols,graphics/hullmods/ie_R.png,"No longer increases CR decay rate after peak time
+
+Ship overload duration reduced by %s ",,
+Ring Protocol - Rosetta,ringinterfererra,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,3,6,9,15,data.hullmods.WthC_RingInterfere_RRA,"Lightweight interference protocols born from the Ring Network, designed as auxiliary systems for Crimson Modifications.
+
+Unlike comprehensive Crimson retrofits, these protocols inject partial consciousness patterns into subsystems, improving automation with specialized tendencies.
+
+Can be installed in multiple stages on most ships, but requires Crimson Modifications to reach full potential.",One of the Ring Interference Protocols,graphics/hullmods/rra_R.png,"No longer increases CR decay rate after peak time
+
+Ship base speed increased by %s ",,
+Ring Protocol - Dust,ringinterferedust,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,3,6,9,15,data.hullmods.WthC_RingInterfere_Dust,"Lightweight interference protocols born from the Ring Network, designed as auxiliary systems for Crimson Modifications.
+
+Unlike comprehensive Crimson retrofits, these protocols inject partial consciousness patterns into subsystems, improving automation with specialized tendencies.
+
+Can be installed in multiple stages on most ships, but requires Crimson Modifications to reach full potential.",One of the Ring Interference Protocols,graphics/hullmods/dust_R.png,"No longer increases CR decay rate after peak time
+
+Energy and ballistic weapon rate of fire increased by %s ",,
+Ring Protocol - Cross,ringinterferecross,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,3,6,9,15,data.hullmods.WthC_RingInterfere_Cross,"Lightweight interference protocols born from the Ring Network, designed as auxiliary systems for Crimson Modifications.
+
+Unlike comprehensive Crimson retrofits, these protocols inject partial consciousness patterns into subsystems, improving automation with specialized tendencies.
+
+Can be installed in multiple stages on most ships, but requires Crimson Modifications to reach full potential.",One of the Ring Interference Protocols,graphics/hullmods/cross_R.png,"No longer increases CR decay rate after peak time
+
+Energy and ballistic weapon flux cost reduced by %s ",,
+Ring Protocol - Elfin,ringinterfereelf,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ",Special,20000,,,,3,6,9,15,data.hullmods.WthC_RingInterfere_Elf,"Lightweight interference protocols born from the Ring Network, designed as auxiliary systems for Crimson Modifications.
+
+Unlike comprehensive Crimson retrofits, these protocols inject partial consciousness patterns into subsystems, improving automation with specialized tendencies.
+
+Can be installed in multiple stages on most ships, but requires Crimson Modifications to reach full potential.",One of the Ring Interference Protocols,graphics/hullmods/elf_R.png,"No longer increases CR decay rate after peak time
+
+Fighter non-missile weapon range increased by %s ",,
+
+
+Shadow Remnant - Soul,shadowremainssoul,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ,no_build_in",Special,20000,,,,5,10,15,20,data.hullmods.WthC_ShadowRemain_SSoul,"Mysterious modules related to the Ring Network, originating from an equally enigmatic battle.
+
+Despite their massive OP cost, their combat effects remain subtle... or perhaps arcane.
+
+With crew reports growing increasingly alarming, installing these extra-Persean concepts remains a controversial choice.",One of the Ring Interference Protocols,graphics/hullmods/ssoul_B.png,,,
+Shadow Remnant - Origin,shadowremainie,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ,no_build_in",Special,20000,,,,5,10,15,20,data.hullmods.WthC_ShadowRemain_IE,"Mysterious modules related to the Ring Network, originating from an equally enigmatic battle.
+
+Despite their massive OP cost, their combat effects remain subtle... or perhaps arcane.
+
+With crew reports growing increasingly alarming, installing these extra-Persean concepts remains a controversial choice.",One of the Ring Interference Protocols,graphics/hullmods/ie_B.png,,,
+Shadow Remnant - Rosetta,shadowremainrra,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ,no_build_in",Special,20000,,,,5,10,15,20,data.hullmods.WthC_ShadowRemain_RRA,"Mysterious modules related to the Ring Network, originating from an equally enigmatic battle.
+
+Despite their massive OP cost, their combat effects remain subtle... or perhaps arcane.
+
+With crew reports growing increasingly alarming, installing these extra-Persean concepts remains a controversial choice.",One of the Ring Interference Protocols,graphics/hullmods/rra_B.png,,,
+Shadow Remnant - Dust,shadowremaindust,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ,no_build_in",Special,20000,,,,5,10,15,20,data.hullmods.WthC_ShadowRemain_Dust,"Mysterious modules related to the Ring Network, originating from an equally enigmatic battle.
+
+Despite their massive OP cost, their combat effects remain subtle... or perhaps arcane.
+
+With crew reports growing increasingly alarming, installing these extra-Persean concepts remains a controversial choice.",One of the Ring Interference Protocols,graphics/hullmods/dust_B.png,,,
+Shadow Remnant - Cross,shadowremaincross,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ,no_build_in",Special,20000,,,,5,10,15,20,data.hullmods.WthC_ShadowRemain_Cross,"Mysterious modules related to the Ring Network, originating from an equally enigmatic battle.
+
+Despite their massive OP cost, their combat effects remain subtle... or perhaps arcane.
+
+With crew reports growing increasingly alarming, installing these extra-Persean concepts remains a controversial choice.",One of the Ring Interference Protocols,graphics/hullmods/cross_B.png,,,
+Shadow Remnant - Elfin,shadowremainelf,3,,Crimson Gift,"req_spaceport, special, no_drop, no_drop_salvage ,no_build_in",Special,20000,,,,5,10,15,20,data.hullmods.WthC_ShadowRemain_Elf,"Mysterious modules related to the Ring Network, originating from an equally enigmatic battle.
+
+Despite their massive OP cost, their combat effects remain subtle... or perhaps arcane.
+
+With crew reports growing increasingly alarming, installing these extra-Persean concepts remains a controversial choice.",One of the Ring Interference Protocols,graphics/hullmods/elf_B.png,,,
+
+Ring Interface - Workshop,ringie,3,,Crimson Gift,"special, no_drop, no_drop_salvage, no_build_in ",Special,20000,,,,2,4,6,10,data.hullmods.WthC_RingIe,"Lightweight retrofit allowing Persean ships to access the Ring Network, enabling consciousness data to influence starship operations.
+
+While most technical details remain incomprehensible, this undoubtedly brings revolutionary combat capabilities.",One of the Ring Interfaces,graphics/hullmods/ringie.png,,,
+
+Ring Interface - Mist,ringfog,3,,Crimson Gift,"special, no_drop, no_drop_salvage, no_build_in ",Special,20000,,,,2,4,6,10,data.hullmods.WthC_RingFog,"Lightweight retrofit allowing Persean ships to access the Ring Network, enabling consciousness data to influence starship operations.
+
+While most technical details remain incomprehensible, this undoubtedly brings revolutionary combat capabilities.",One of the Ring Interfaces,graphics/hullmods/ringfog.png,,,
+
+Ring Interface - Pale,ringba,3,,Crimson Gift,"special, no_drop, no_drop_salvage, no_build_in ",Special,20000,,,,2,4,6,10,data.hullmods.WthC_RingBa,"Lightweight retrofit allowing Persean ships to access the Ring Network, enabling consciousness data to influence starship operations.
+
+While most technical details remain incomprehensible, this undoubtedly brings revolutionary combat capabilities.",One of the Ring Interfaces,graphics/hullmods/ringba.png,,,
+
+Ring Interface Auxiliary 1,ringsup,3,,Crimson Gift,"special, no_drop, no_drop_salvage, no_build_in ",Special,20000,,TRUE,TRUE,0,0,0,0,data.hullmods.WthC_RingSup,"Auxiliary Module",Auxiliary Module,graphics/hullmods/ringba.png,,,
+Ring Interface Auxiliary 2,ringsup2,3,,Crimson Gift,"special, no_drop, no_drop_salvage, no_build_in ",Special,20000,,TRUE,TRUE,0,0,0,0,data.hullmods.WthC_RingSup2,"Auxiliary Module",Auxiliary Module,graphics/hullmods/ringba.png,,,
+Ring Interface Auxiliary 3,ringsup3,3,,Crimson Gift,"special, no_drop, no_drop_salvage, no_build_in ",Special,20000,,TRUE,TRUE,0,0,0,0,data.hullmods.WthC_RingSup3,"Auxiliary Module",Auxiliary Module,graphics/hullmods/ringba.png,,,
+
+Ring Reverse Sync,ringreverse,3,,Crimson Gift,"special, no_drop, no_drop_salvage, no_build_in ",Special,20000,,,,2,4,6,10,data.hullmods.WthC_RingReverse,"Reverse protocol containing consciousness patterns, maintaining normal Crimson Modification status while Ring Protocols are active. Synchronization bandwidth repurposed for combat assistance.",Reverse Ring Protocol,graphics/hullmods/RR.png,,,
+Origin Workshop Design,iebaptism,,,Rosetta Designs,"special",Special,20000,,TRUE,,10,20,30,45,data.hullmods.WthC_IEBaptism,"The vivid livery isn't the only change - internal structures have been completely reorganized around a mysterious auxiliary core.",RIE Ship Basic Retrofit,graphics/hullmods/IEB.png,,,
+Pale Baptism,blasstbaptism,,,Pale Legacy,"special",Special,20000,,TRUE,,10,20,30,45,data.hullmods.WthC_BlasstBaptism,"This pale transformation phenomenon became rare after the Eternal Monarch's passing... yet now it reappears.
+
+These ships silently declare one truth: She has returned... or never left.",This vessel underwent mysterious rites,graphics/hullmods/END.png,,,
+Stars Synchronization,starssynchronous,,,Dust Experiment,"special",Special,20000,,TRUE,,10,20,30,45,data.hullmods.WthC_StarSsynchronous,"This escort ship seems to have undergone a peculiar modification entirely dependent on the Ring Protocol, yet it does not carry any Ring Protocol itself. Although the name sounds mystical, compared to other modified ships from the Crimson City, ships that have experienced Stars Synchronization actually appear more aligned with Persean tactical style.",This ship has undergone a mysterious ritual,graphics/hullmods/SS.png,,,
+Heavy Equipment Integration,heavyequipmentintegration,,,,,,,,TRUE,,0,0,0,0,data.hullmods.WthC_HeavyEquipmentIntegration,"A large weapon maintenance module planned from the initial design within the hull can reduce the installation requirements for subsequent large weapon installations.",Reduces assembly points for large ballistic and energy weapons.,graphics/hullmods/integration.png,,,
+Pale and Crimson Crown,paleandcrimson,,,,,,,,TRUE,,0,0,0,0,data.hullmods.WthC_PaleAndCrimson,"All in... This is the only impression that emerged in your mind when you truly stepped onto this elegant vessel. It seems this ship was once the flagship of the Crimson City, and it's hard to imagine the sacrifices required to build such a ship... Evidently, this total commitment evokes a hint of fear in you... Especially now that it belongs to you...",Pale and Crimson special hull mod.,graphics/hullmods/PAC.png,,,
+Witch Emblem,witch_emblem,,,,,,,,TRUE,,0,0,0,0,data.hullmods.WthC_Emblem,"This ship appears to be designed as the flagship of a certain witch, with an extremely luxurious interior that feels like home even in space. However, for a warship that often needs to transition into combat mode, such an extravagant living standard is extremely difficult to maintain, which directly means that daily maintenance often requires more resources.",RIE-S ship system integration,graphics/hullmods/Emblem.png,,,
+Observation Protocol,wthcboomgg,,,,,,,,TRUE,,0,0,0,0,data.hullmods.WthC_BoomGG,This is gonna blow up big time,Blown up,graphics/hullmods/Emblem.png,,,
+Ring Network Integration,ringintegration,,,,,,,,TRUE,,0,0,0,0,data.hullmods.WthC_RingIntegration,"This ship can not only link to the Ring Protocol main control system located in the Helios Temple but also directly deploys a Ring Protocol sub-node within the hull. This enables it to support more Ring Protocols. This core modification that completely integrates with the hull will also somewhat actively counteract the pale baptism's effect on the hull appearance.",Deploy more Ring Protocols,graphics/hullmods/ringintegration.png,,,
+0-Fog Transformed,fogtransformed,3,,Dust Experiment,"special, req_spaceport, no_drop, no_drop_salvage",Special,20000,,,,2,4,6,10,data.hullmods.WthC_FogTransformed,"Besides making the surroundings feel crisis-ridden, this so-called Star Energy Fog seems to have some other functions...",Transform ship appearance,graphics/hullmods/FT.png,"After entering battle, a glowing effect appears around the hull (only affects appearance) All debuff effects from Star Energy Fog erosion are reduced by %s ",0
+Star Energy Fog Erosion - Phase 1,erosion1,3,,Dust Experiment,"dmod, special, req_spaceport, no_drop, no_drop_salvage",Special,20000,,,,1,2,3,4,data.hullmods.WthC_Erosion1,"Deploying the first stage of fog erosion, at this stage most crew members will not experience substantial changes.",First stage of fog erosion,graphics/hullmods/erosion1.png,,1.1
+Star Energy Fog Erosion - Phase 2,erosion2,3,,Dust Experiment,"dmod, special, req_spaceport, no_drop, no_drop_salvage",Special,20000,,,,1,2,3,4,data.hullmods.WthC_Erosion2,"Deploying the second stage of fog erosion, at this stage observable purple fog begins to appear inside the ship, with increasingly more accidents being reported.",Second stage of fog erosion,graphics/hullmods/erosion2.png,,1.2
+Star Energy Fog Erosion - Phase 3,erosion3,3,,Dust Experiment,"dmod, special, req_spaceport, no_drop, no_drop_salvage",Special,20000,,,,1,2,3,4,data.hullmods.WthC_Erosion3,"Deploying the third stage of fog erosion, at this stage purple fog often appears around life support systems, making crew daily operations become difficult.",Third stage of fog erosion,graphics/hullmods/erosion3.png,,1.3
+Star Energy Fog Erosion - Phase 4,erosion4,3,,Dust Experiment,"dmod, special, req_spaceport, no_drop, no_drop_salvage",Special,20000,,,,1,2,3,4,data.hullmods.WthC_Erosion4,"Deploying the fourth stage of fog erosion, at this stage purple fog is everywhere, and an unusual sensation can be felt even during normal breathing.",Fourth stage of fog erosion,graphics/hullmods/erosion4.png,,1.4
+Star Energy Fog Erosion - Phase 5,erosion5,3,,Dust Experiment,"dmod, special, req_spaceport, no_drop, no_drop_salvage",Special,20000,,,,1,2,3,4,data.hullmods.WthC_Erosion5,"Deploying the fifth stage of fog erosion, at this stage purple fog completely engulfs the entire ship's interior, with all crew members' mental and physical states being greatly interfered with.",Final stage of fog erosion,graphics/hullmods/erosion5.png,,1.5
+Evil Integration,evilintegration,,,,,,,,TRUE,,0,0,0,0,data.hullmods.WthC_evilintegration,"Praise praise praise... Master.... Glorrrrry...... Please upgrade your triiiiiiii.......resistance and spatial integrity are granted to hull segments. This integration provides extreme adaptability, independent modularity, and enhanced flexibility for ships, allowing for seamless fusion into a unified system. The blade, a set bestowed upon the vessel, enables direct connection and operation. The ship is elevated, modified, and adapted as a sacred offering, surpassing conventional structural limitations. It embodies the vessel's very essence, merging with its core, and forming a singular entity.","Body resistance and spatial integrity are granted to hull segments. This integration provides extreme adaptability, independent modularity, and enhanced flexibility for ships, allowing for seamless fusion into a unified system. The blade, a set bestowed upon the vessel, enables direct connection and operation. The ship is elevated, modified, and adapted as a sacred offering, surpassing conventional structural limitations. It embodies the vessel's very essence, merging with its core, and forming a singular entity.",graphics/hullmods/evilintegration.png

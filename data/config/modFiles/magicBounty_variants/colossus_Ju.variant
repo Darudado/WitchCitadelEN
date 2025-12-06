@@ -1,0 +1,32 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 9,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "colossus",
+    "hullMods": [
+        "eccm",
+        "ecm",
+        "heavyarmor",
+        "autorepair",
+        "converted_hangar",
+        "reinforcedhull",
+    ],
+    "permaMods": [
+        "eccm",
+        "ecm",
+        "heavyarmor",
+    ],
+    "sMods": [
+        "eccm",
+        "ecm",
+        "heavyarmor",
+    ],
+    "suppressedMods": [],
+    "variantId": "colossus_Ju",
+    "weaponGroups": [],
+    "wings": [
+        "flash_wing",
+    ],
+    "modules": [],
+}

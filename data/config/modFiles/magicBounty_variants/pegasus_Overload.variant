@@ -1,0 +1,100 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 500,
+    "fluxVents": 150,
+    "goalVariant": false,
+    "hullId": "pegasus",
+    "hullMods": [
+        "crimsonmodificationdust",
+        "crimsonmodificationssoul",
+        "hardenedshieldemitter",
+        "ringinterferecross",
+        "supercomputer",
+        "nav_relay",
+        "stabilizedshieldemitter",
+        "targetingunit",
+        "missile_reload",
+        "armoredweapons",
+        "ecm",
+        "heavyarmor",
+        "missleracks",
+        "reinforcedhull",
+        "ringie",
+        "ringsup",
+        "shadowremainssoul",
+        "autorepair",
+        "converted_hangar",
+        "crimsonmodificationie",
+        "hiressensors",
+        "ringfog",
+        "ringsup2",
+        "shadowremainrra",
+        "solar_shielding",
+        "advancedoptics",
+        "crimsonmodificationssoul",
+        "dedicated_targeting_core",
+        "escort_package",
+        "fluxbreakers",
+        "ringba",
+        "ringsup3",
+        "shadowremainie",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "pegasus_Custom",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "hydra",
+                "WS 001": "hydra",
+                "WS 012": "hydra",
+                "WS 013": "hydra",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "hydra",
+                "WS 005": "hydra",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "hveldriver",
+                "WS 009": "hveldriver",
+                "WS 010": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "WthC_NewMoon",
+                "WS 007": "WthC_NewMoon",
+                "WS 002": "WthC_NewMoon",
+                "WS 003": "WthC_NewMoon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "hydra",
+                "WS 014": "hydra",
+                "WS 015": "hydra",
+                "WS 016": "hydra",
+                "WS 017": "hydra",
+            }
+        },
+    ],
+    "wings": [
+        "flash_wing",
+],
+    "modules": [],
+}

@@ -1,0 +1,108 @@
+{
+    "displayName": "LiGod",
+    "fluxCapacitors": 50,
+    "fluxVents": 36,
+    "goalVariant": false,
+    "hullId": "WthC_Holysee_IE_B",
+    "hullMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "ringinterferecross",
+        "ringinterfererra",
+        "crimsonmodificationie",
+        "ringreverse",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "ringinterferecross",
+        "ringinterfererra",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "fluxdistributor",
+        "ringinterferecross",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_Holysee_IE_B_LiGod",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0041": "WthC_LiLancepale",
+                "WS0042": "WthC_LiLancepale",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0039": "WthC_LiLancecrimson",
+                "WS0040": "WthC_LiLancecrimson",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0033": "WthC_LiLancedeepblue2",
+                "WS0034": "WthC_LiLancedeepblue2",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0031": "WthC_LiLancedeepblue",
+                "WS0032": "WthC_LiLancedeepblue",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0021": "WthC_LittleNodeBeam-A",
+                "WS0022": "WthC_LittleNodeBeam-A",
+                "WS0023": "WthC_LittleNodeBeam-A",
+                "WS0024": "WthC_LittleNodeBeam-A",
+                "WS0025": "WthC_LittleNodeBeam-A",
+                "WS0026": "WthC_LittleNodeBeam-A",
+                "WS0027": "WthC_LittleNodeBeam-A",
+                "WS0028": "WthC_LittleNodeBeam-A",
+                "WS0029": "WthC_LittleNodeBeam-A",
+                "WS0030": "WthC_LittleNodeBeam-A",
+                "WS0035": "WthC_LittleNodeBeam-A",
+                "WS0036": "WthC_LittleNodeBeam-A",
+                "WS0037": "WthC_LittleNodeBeam-A",
+                "WS0038": "WthC_LittleNodeBeam-A",
+                "WS0001": "WthC_MicroNodeBeam-A",
+                "WS0002": "WthC_MicroNodeBeam-A",
+                "WS0003": "WthC_MicroNodeBeam-A",
+                "WS0004": "WthC_MicroNodeBeam-A",
+                "WS0005": "WthC_MicroNodeBeam-A",
+                "WS0006": "WthC_MicroNodeBeam-A",
+                "WS0007": "WthC_MicroNodeBeam-A",
+                "WS0008": "WthC_MicroNodeBeam-A",
+                "WS0009": "WthC_MicroNodeBeam-A",
+                "WS0010": "WthC_MicroNodeBeam-A",
+                "WS0011": "WthC_MicroNodeBeam-A",
+                "WS0012": "WthC_MicroNodeBeam-A",
+                "WS0013": "WthC_MicroNodeBeam-A",
+                "WS0014": "WthC_MicroNodeBeam-A",
+                "WS0015": "WthC_MicroNodeBeam-A",
+                "WS0016": "WthC_MicroNodeBeam-A",
+                "WS0017": "WthC_MicroNodeBeam-A",
+                "WS0018": "WthC_MicroNodeBeam-A",
+                "WS0019": "WthC_MicroNodeBeam-A",
+                "WS0020": "WthC_MicroNodeBeam-A",
+            }
+        },
+    ],
+    "wings": [
+        "WthC_CSd_wing",
+        "WthC_CSd_wing",
+    ],
+    "modules": [],
+}

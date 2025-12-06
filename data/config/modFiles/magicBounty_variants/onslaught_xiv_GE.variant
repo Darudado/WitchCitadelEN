@@ -1,0 +1,86 @@
+{
+    "displayName": "GE",
+    "fluxCapacitors": 0,
+    "fluxVents": 27,
+    "goalVariant": false,
+    "hullId": "onslaught_xiv",
+    "hullMods": [
+        "reinforcedhull",
+        "shield_shunt",
+        "armoredweapons",
+        "auxiliarythrusters",
+        "blast_doors",
+        "fluxbreakers",
+        "heavyarmor",
+        "insulatedengine",
+        "missleracks",
+        "pointdefenseai",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "reinforcedhull",
+        "shield_shunt",
+    ],
+    "sMods": [
+        "reinforcedhull",
+        "shield_shunt",
+    ],
+    "suppressedMods": [],
+    "variantId": "onslaught_xiv_GE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "tpc",
+                "WS 016": "tpc",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 024": "annihilatorpod",
+                "WS 022": "annihilatorpod",
+                "WS 023": "annihilatorpod",
+                "WS 021": "annihilatorpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "hveldriver",
+                "WS 003": "hveldriver",
+                "WS 001": "hveldriver",
+                "WS 012": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 019": "devastator",
+                "WS 018": "devastator",
+                "WS 020": "devastator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 014": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "flak",
+                "WS 010": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

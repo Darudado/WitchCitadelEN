@@ -1,0 +1,77 @@
+{
+    "displayName": "Artistic",
+    "fluxCapacitors": 55,
+    "fluxVents": 49,
+    "goalVariant": true,
+    "hullId": "WthC_conquest_IE_B_N",
+    "hullMods": [
+        "crimsonmodificationrra",
+        "fluxcoil",
+        "ringinterferessoul",
+        "armoredweapons",
+        "eccm",
+        "fluxbreakers",
+        "hardenedshieldemitter",
+        "solar_shielding",
+        "stabilizedshieldemitter",
+        "targetingunit",
+    ],
+    "permaMods": [
+        "crimsonmodificationrra",
+        "fluxcoil",
+        "ringinterferessoul",
+    ],
+    "sMods": [
+        "crimsonmodificationrra",
+        "fluxcoil",
+        "ringinterferessoul",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_conquest_IE_B_N_RRA",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "tachyonlance",
+                "WS 014": "tachyonlance",
+                "WS 011": "tachyonlance",
+                "WS 012": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 002": "WthC_starsnode_element_gold",
+                "WS 001": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 018": "WthC_Starrynode",
+                "WS 016": "WthC_Starrynode",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_MicroNodeBeam",
+                "WS 007": "WthC_MicroNodeBeam",
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_MicroNodeBeam",
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 022": "WthC_StarryEmbellishment",
+                "WS 023": "WthC_StarryEmbellishment",
+                "WS 010": "WthC_MicroNodeBeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

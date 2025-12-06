@@ -1,0 +1,80 @@
+{
+    "displayName": "S-SSoul",
+    "fluxCapacitors": 55,
+    "fluxVents": 50,
+    "goalVariant": false,
+    "hullId": "WthC_pegasus_IE",
+    "hullMods": [
+        "ringinterfereie",
+        "targetingunit",
+        "crimsonmodificationssoul",
+        "fluxbreakers",
+        "stabilizedshieldemitter",
+    ],
+    "permaMods": [
+        "ringinterfereie",
+        "targetingunit",
+    ],
+    "sMods": [
+        "ringinterfereie",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_pegasus_IE_S-SSoul",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "tachyonlance",
+                "WS 001": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 008": "WthC_starsnode_element_wood",
+                "WS 010": "WthC_starsnode_element_wood",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "hveldriver",
+                "WS 007": "hveldriver",
+                "WS 004": "hveldriver",
+                "WS 005": "hveldriver",
+                "WS 002": "hveldriver",
+                "WS 003": "hveldriver",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 017": "WthC_MicroNodeBeam",
+                "WS 015": "WthC_MicroNodeBeam",
+                "WS 016": "WthC_MicroNodeBeam",
+                "WS 014": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "flak",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

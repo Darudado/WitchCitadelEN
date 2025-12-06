@@ -1,0 +1,82 @@
+{
+  "hullName": "WthC_TTR",
+  "hullId": "WthC_TTR",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/TTR.png",
+  "style": "RIE_WITCH",
+  "height": 80,
+  "width": 52,
+  "center": [26, 34.5],
+  "collisionRadius": 39,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 39,
+  "viewOffset": 0,
+  "builtInMods": [
+    "no_weapon_flux"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [13.5, 0]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 130,
+      "angle": 45,
+      "locations": [1.5, 10]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "HIDDEN",
+      "arc": 130,
+      "angle": -45,
+      "locations": [1.5, -10]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-24, 11.5],
+      "length": 32.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-26, -0],
+      "length": 46.5,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-24, -11.5],
+      "length": 32.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    37.5, -4,
+    -13, -22.5,
+    -31.5, -17.5,
+    -25.5, -9,
+    -25.5, 9,
+    -31.5, 17.5,
+    -13, 22.5,
+    37.5, 4
+  ]
+}

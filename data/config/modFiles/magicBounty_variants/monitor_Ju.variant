@@ -1,0 +1,35 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 10,
+    "fluxVents": 4,
+    "goalVariant": false,
+    "hullId": "monitor",
+    "hullMods": [
+        "frontemitter",
+        "unstable_injector",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "monitor_Ju",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "flak",
+                "WS 001": "flak",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 003": "gorgon",
+                "WS 004": "gorgon",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

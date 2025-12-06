@@ -1,0 +1,179 @@
+{
+  "hullName": "WthC_whitebird_SS",
+  "hullId": "WthC_whitebird_SS",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/whitebird_SS.png",
+  "style": "RIE_WITCH",
+  "height": 68,
+  "width": 114,
+  "center": [57, 37],
+  "collisionRadius": 71.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 68.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "starssynchronous"
+  ],
+  "builtInWeapons": {
+    "WS0005": "blinker_green",
+    "WS0006": "blinker_green",
+    "WS0007": "blinker_red",
+    "WS0008": "blinker_red",
+    "WS0003": "WthC_starsnode_elementS_soil",
+    "WS0004": "WthC_starsnode_elementS_wood"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": 90,
+      "locations": [-6, 15]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": -90,
+      "locations": [-6, -15]
+    },
+    {
+      "id": "LB 2",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        5, -19,
+        4, 21,
+        12.5, 20,
+        11, -19
+      ]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [5, -48]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [5, 48]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": 0,
+      "locations": [19.5, -27.5]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": -0,
+      "locations": [19.5, 29.5]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": 0,
+      "locations": [-17.5, -46]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": -0,
+      "locations": [-17.5, 48]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-35.5, 28],
+      "length": 40,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 12,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-35, -27],
+      "length": 40,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 12,
+      "style": "RIE_WITCH"
+    },
+    {
+      "location": [-28.5, -6.5],
+      "length": 26,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-28.5, 6.5],
+      "length": 26,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    14, 7.5,
+    26.5, 8,
+    30, 27.5,
+    13, 31.5,
+    17.5, 38.5,
+    10, 44,
+    8.5, 55,
+    -14, 56.5,
+    -16.5, 48,
+    -35, 43,
+    -29.5, 34.5,
+    -34, 33,
+    -34, 21.5,
+    -24.5, 13,
+    -28.5, 10,
+    -28.5, -10,
+    -24.5, -13,
+    -34, -21.5,
+    -34, -33,
+    -29.5, -34.5,
+    -35, -43,
+    -16.5, -48,
+    -14, -56.5,
+    8.5, -55,
+    10, -44,
+    17.5, -38.5,
+    13, -31.5,
+    30, -27.5,
+    26.5, -8,
+    14, -7.5
+  ]
+}

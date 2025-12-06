@@ -1,0 +1,28 @@
+{
+	"id":"DR_WitchElf",
+	"governingAptitude":"WthC_aptitude_darkreal",
+	"compressHullmods":false,
+	"elite":true,
+	"scope":CUSTOM,
+	"scopeStr":"all fleet",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"data.skills.DR_WitchElf$Level1A"},
+				{"type":"SHIP", "script":"data.skills.DR_WitchElf$Level1B"},
+			]
+		},
+		{
+			"name":"特殊修正",
+			"requiredSkillLevel":2,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"data.skills.DR_WitchElf$Level2A"},
+				{"type":"ALL_FIGHTERS_IN_FLEET", "script":"data.skills.DR_WitchElf$Level2AA"},
+				{"type":"SHIP", "script":"data.skills.DR_WitchElf$Level2B"},
+			]
+		},
+	],
+}

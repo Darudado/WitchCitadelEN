@@ -1,0 +1,584 @@
+id,type,text1,text2,text3,text4,notes
+#Weapons
+WthC_Marching,WEAPON,"An experimental product that applies a single Gauss capacitor to a triple railgun array, capable of continuously firing lightweight Gauss projectiles. However, the lightweight rails also reduce the weapon's destructive power and range.
+
+High-speed, precise, long-range, and relatively energy-efficient, this versatile kinetic weapon can even deal significant damage to lightly armored targets. It represents the most important general-purpose artillery in the gradually resurging fleet combat doctrine.",,,,
+WthC_Thundersuite,WEAPON,"A bold quad-mounted magnetic gravity projectile launcher capable of unleashing massive damage in an instant. Modifications to the micro-capacitor projectiles allow for variations in destructive power and EMP effectiveness across different models. The Prologue version excels in EMP disruption and firing rate, though its projectile damage is weaker.
+
+As most would guess, this so-called Thunder Suite is simply two scaled-down Thor cannons combined, even using projectiles of the same caliber. The only difference lies in the charging time.
+
+So why was this somewhat ambiguous weapon designed, finalized, and produced in three different variants? Perhaps the wealthy young lady just has a penchant for unique toys...",,,,
+WthC_Thundersuitemid,WEAPON,"A bold quad-mounted magnetic gravity projectile launcher capable of unleashing massive damage in an instant. Modifications to the micro-capacitor projectiles allow for variations in destructive power and EMP effectiveness across different models. The Interlude version strikes a balance between EMP disruption, damage, and firing rate.
+
+As most would guess, this so-called Thunder Suite is simply two scaled-down Thor cannons combined, even using projectiles of the same caliber. The only difference lies in the charging time.
+
+So why was this somewhat ambiguous weapon designed, finalized, and produced in three different variants? Perhaps the wealthy young lady just has a penchant for unique toys...",,,,
+WthC_Thundersuiteend,WEAPON,"A bold quad-mounted magnetic gravity projectile launcher capable of unleashing massive damage in an instant. Modifications to the micro-capacitor projectiles allow for variations in destructive power and EMP effectiveness across different models. The Finale version fires the most destructive projectiles but has weaker EMP disruption and a slower firing rate.
+
+As most would guess, this so-called Thunder Suite is simply two scaled-down Thor cannons combined, even using projectiles of the same caliber. The only difference lies in the charging time.
+
+So why was this somewhat ambiguous weapon designed, finalized, and produced in three different variants? Perhaps the wealthy young lady just has a penchant for unique toys...",,,,
+WthC_Thundertearcannon,WEAPON,"Fires a massive magnetic gravity projectile capable of causing a localized gravitational collapse, often instantly disabling or destroying the target upon impact. However, this monstrous experimental modification limits its installation to only the largest ships.
+
+Despite the weapon's devastating power, the designer considered it a crude product born from cramming more energy into a larger projectile. For someone who spent her life pursuing higher energy efficiency, this was not a masterpiece worth praising.
+
+Still, the thrill of using it to obliterate targets is always exhilarating for the crew... or perhaps they're just relieved that such a monstrous projectile isn't coming from the enemy.",,,,
+WthC_gonggonq,WEAPON,"A Vulcan variant with an additional barrel. Fires a rapid wave of projectiles to overwhelm any fighters or missiles within range. The use of lighter projectiles also increases the weapon's range.
+
+Although the original Vulcan is considered a pure point-defense weapon with some tactical utility, its variant, the Gonggonq, often doesn't perform as described—""firing a rapid wave of projectiles to overwhelm any fighters or missiles within range."" Instead, it excels at quickly depleting the shields of nearby enemy ships.
+
+This deceptive tactical tendency can sometimes yield unexpected results on the battlefield.",,,,
+WthC_gonggonqarray,WEAPON,"An array version born from the Gonggonq's excellent battlefield performance. While doubling the firepower enhances defensive capabilities, it also increases flux pressure.
+
+Like its smaller counterpart, the Gonggonq Array is better suited as a compromise shield-breaking tool. Even if each projectile isn't particularly threatening, few ships can maintain their shields under such a relentless barrage.",,,,
+WthC_LiLancecrimson,WEAPON,"""Long before she created the first star, she possessed the power to destroy it...""","-""Crimson Lord"" Shilya Crimson",,,
+WthC_LiLancedeepblue,WEAPON,"""The light that symbolizes the beginning is always the element closest to the end...""","-""Primordial Witch"" Rika Primordial",,,
+WthC_LiLancedeepblue2,WEAPON,"""No matter how turbulent the undercurrents, they appear as mere ripples on the surface...""","-""Gazing Demon"" Iris Requickbard",,,
+WthC_LiLancepale,WEAPON,"""When the darkness forcibly imposed on fate is stripped away, the pure form of all life will be revealed...""","-""Pale King"" Lovinya Blast",,,
+WthC_RuneBreathe,WEAPON,"""Wisdom and skill are important, but in the end, only power decides everything...""",-"-""Dust Witch"" Nazel Dust",,,
+WthC_StarryEmbellishment,WEAPON,"""The stars will eventually perish, but before that, they will burn brightly in their glorious lives...""",-"-""Dust Witch"" Nazel Dust",,,
+WthC_Starrynode,WEAPON,"""And so... she plucked the first star, the beginning of the eternal cycle.""","-""Crimson Lord"" Shilya Crimson",,,
+WthC_starsnode,WEAPON,"""Behold... the dazzling stars are the epics they left behind as they perished.""","-""Cross Witch"" Rosalia Cross",,,
+WthC_RecitationCeremony,WEAPON,"""Beneath the sacred one's luxurious appearance lies the purest essence...""","-""Cross Witch"" Rosalia Cross",,,
+WthC_TwinMovement,WEAPON,"""As the sigils dance... the notes rise and fall, and that world will welcome another group of lost wanderers.""","-""Soul Witch"" Su",,,
+WthC_DestinyTrack,WEAPON,"""Fate is often the only path you must tread, a road of no return...""","-""Pale King"" Lovinya Blast",,,
+WthC_JokeAg,WEAPON,"""Don't worry... as long as the theoretical limit is written in the data, they'll willingly install this overly advanced piece of art~""","-""Crimson Lord"" Shilya Crimson",,,
+WthC_streamneedler,WEAPON,"A product born from reinterpreting the Light Needler... while becoming harder to use, it also possesses terrifying burst potential.
+
+In truth... this weapon is just a regular Light Needler with no substantial differences... just a new coat of paint and a less common magazine-fed firing mechanism?
+
+Perhaps the higher deployment cost is simply due to the extra effort required to load each projectile into this weapon.",,,,
+WthC_blazingassault,WEAPON,"A sister weapon to the Blazing Assault Cannon, created by cramming a large amount of explosive charge into a small-caliber barrel. Like other weapons born from Dust experiments, it is extreme. With support from other weapons, even as a small weapon, it can easily pierce heavy armor.
+
+Interestingly, the description makes it seem like a milestone in material compression, but firing a projectile twice the barrel's diameter is still impossible.
+
+In reality, this weapon is essentially a small phase node, with all projectiles being teleported from another acceleration field. More interestingly, sometimes this teleportation process has minor hiccups, causing projectiles from another weapon to appear in a near-superimposed state.
+
+While this unstable phenomenon, which defies many laws of physics, is unsettling, it does have a positive impact on the battlefield.",,,,
+WthC_ForthrightMoon,WEAPON,"A sister weapon to the Blazing Assault Cannon, firing heavier solid projectiles instead, delivering repeated blows to shields and light armor.
+
+Interestingly, the description makes it seem like a milestone in material compression, but firing a projectile twice the barrel's diameter is still impossible.
+
+In reality, this weapon is essentially a small phase node, with all projectiles being teleported from another acceleration field. More interestingly, sometimes this teleportation process has minor hiccups, causing projectiles from another weapon to appear in a near-superimposed state.
+
+While this unstable phenomenon, which defies many laws of physics, is unsettling, it does have a positive impact on the battlefield.",,,,
+WthC_stormveil,WEAPON,"An improved version of the Heavy Autocannon with explosive charges added to its projectiles. The simultaneous firing mechanism also slightly mitigates the excessive recoil.
+
+Numerous battlefield examples have shown that the Heavy Autocannon, a design dating back to the age of surface warships, is not well-suited for space. Thus, the creation of the Stormveil Autocannon was more of a redemption journey.
+
+And the result of all these efforts? It seems such weapons are destined to be swept into the dustbin of history.",,,,
+WthC_magnificentfire,WEAPON,"A heavily redesigned version of the Heavy Mauler, capable of piercing the thickest armor in a few shots, but at the cost of losing its impressive range advantage.
+
+In truth, this weapon has little in common with the Heavy Mauler. The designer merely mimicked the appearance of the so-called prototype, while the actual principles are entirely different.
+
+On rare occasions, the people of the Persean Sector wish for a common medium weapon to deal with overly thick armor, allowing kinetic projectiles of similar range to quickly tear apart the ship's internal structure. The Magnificent Fire Heavy Cannon is exactly what they dreamed of.",,,,
+WthC_BreezeTacticalLaser,WEAPON,"A truly tactically valuable beam suppression weapon. While it deals almost no real damage, it is highly functional.
+
+Most in the Persean Sector prefer to marvel at the technical brilliance of graviton beams, remaining skeptical of their battlefield performance. However, this pure pursuit of knowledge has always been the nature of the Primordial Witch. Soon after, this small, lightweight version was born. Though when finalizing the blueprint, the master from another field realized that opening dimensional rifts was such a trivial matter.",,,,
+WthC_MicroNodeBeam,WEAPON,"A point-defense weapon that is truly better than nothing. From every angle, it resembles a more aesthetically pleasing Mining Laser. But let's face it... your ship will always need plenty of these, won't it?
+
+According to a survey by a Tri-Tachyon employee on a batch of samples obtained from a certain cube, these so-called Denial Nodes are simply Mining Lasers stuffed into white casings. And due to the poorly designed heat dissipation, their energy efficiency is worse...
+
+Unsurprisingly, the employee expressed strong personal condemnation of this act of technological plagiarism from beyond the Sector.",,,,
+WthC_MicroNodeBeam-A,WEAPON,"A beam weapon that is truly better than nothing. From the perspective of modern naval doctrine, it's purely decorative. But perhaps some captains just don't want any empty weapon slots on their ships?
+
+Many in the Persean Sector who have seen these decorative weapons wonder what they actually fire, as something that can cause minor damage without directly connecting to the ship's weapon systems is quite novel. In reality, these weapons are just cheap micro phase nodes, inefficiently gathering and firing energy leaking from somewhere... or something.
+
+While this beam can easily tear through most organic matter, as an anti-ship weapon... it can't even threaten any LPCs seen in this era. Yet, oddly, many captains adore this seemingly useless weapon... Could this strange phenomenon mean the manufacturers added some kind of psychological effect to these white casings?",,,,
+WthC_LittleNodeBeam-A,WEAPON,"A beam weapon that is truly better than nothing. From the perspective of modern naval doctrine, it's purely decorative. But perhaps some captains just don't want any empty weapon slots on their ships? Not even a relatively large one?
+
+Many in the Persean Sector who have seen these decorative weapons wonder what they actually fire, as something that can cause minor damage without directly connecting to the ship's weapon systems is quite novel. In reality, these weapons are just cheap micro phase nodes, inefficiently gathering and firing energy leaking from somewhere... or something.
+
+While this beam can easily tear through most organic matter, as an anti-ship weapon... it can't even threaten any LPCs seen in this era. Yet, oddly, many captains adore this seemingly useless weapon... Could this strange phenomenon mean the manufacturers added some kind of psychological effect to these white casings?",,,,
+WthC_BreezeTacticalLaserLPC,WEAPON,"A Breeze Tactical Laser that no longer deals EMP damage but has slightly improved damage and range. Often only installed on Afflictor-class support craft.",,,,
+WthC_StormClouds,WEAPON,"A tactical weapon that maximizes versatility, though its base damage is quite limited.
+
+For a master of mysticism, creating a highly destructive weapon is not difficult. The real challenge lies in making a beam as functional as possible. While its battlefield performance is only passable, it remains the Primordial Witch's excellent answer to this problem.",,,,
+WthC_StormCloudsLPC,WEAPON,"A single-beam Stormclouds Tactical Laser, with some of its output diverted to increase range. Often only installed on Afflictor-class support craft.",,,,
+WthC_UnderCurrent,WEAPON,"A product of expanding the Pulse Laser's capacitor and controlling it to fire continuously, allowing it to project a large amount of charge at the target. The saturated projectile output can sometimes give enemies a ""little surprise.""
+
+Originally intended to create a Pulse Laser capable of continuous fire, some technical challenges during development gave it a peculiar instability.
+
+While the Primordial Witch could easily solve this issue for higher efficiency, perhaps others in the workshop appreciated this subtle side effect, leading to the Undercurrent Pulse Laser's unique debut.",,,,
+
+#Weapons
+WthC_Lumen,WEAPON,"Fires a large number of micro-Lumen energy projectiles with slight metallic corrosiveness. While these radioactive projectiles are not lethal on their own, thousands of glowing particles can still cause significant trouble for enemy ships.
+
+Though it sounds like a magical element straight out of a fantasy story, the so-called Lumen is actually just a thermal polymer with faint traces of fission radiation. Most of the time, this stable energy field is better suited for lighting or heating, making its battlefield application a bold choice.
+
+Like the precedent set by civilian and mining weapons shining on the Persean Sector battlefield, the Lumen Projector has become the most exceptional small anti-ship weapon in the sector under specific conditions.",,,,
+WthC_Darkest,WEAPON,"A beam weapon born alongside the New Moon. Compared to its sister weapon, this terrifying device fires a matter-disintegration beam that can easily tear through any fragile target in its path, plunging all enemies without armor or shields into their darkest hour, as its name suggests.
+
+Clearly, this all-or-nothing approach to destruction aligns perfectly with the style of a certain figure within the fortress. Whether as a tribute to this philosophy or a tactical necessity, the Darkest was born.",,,,
+WthC_OceanCurrent,WEAPON,"Fires a continuous destructive beam capable of slowly tearing through any target, but its overly firepower-focused design significantly narrows its applicability.
+
+Among all weapons born from the Primordial Workshop, this is the only beam weapon that prioritizes pure destructive power... yet it still retains some functionality, showcasing the Primordial Witch's obsession in this regard.
+
+As a medium weapon, this so-called Stellar Energy Beam's output rivals the high-intensity lasers familiar to the Persean Sector. A few installations can easily destroy most ships in the sector. However, this weapon's strength is also its weakness—for ships capable of mounting multiple units, prolonged firing may bring about their own doom.",,,,
+WthC_GKL_B,WEAPON,"""She was once bound by an endless cycle of hunting missions that never existed...""","-""Crimson Lord"" Shilya Crimson",,,
+WthC_GKL_R,WEAPON,"""Even after the darkness of the past was forgotten, the spear remains as sharp as ever...""","-""Pale King"" Lovinya Blast",,,
+WthC_CHB,WEAPON,"""This blade commemorates the hunter once lost in time...""","-""Primordial Witch"" Rika Primordial",,,
+WthC_TTR,WEAPON,"""A single beam can pierce the soul of the weak...""","-""Cross Witch"" Rosalia Cross",,,
+WthC_NodeVoid,WEAPON,"""She is both the first chosen and will be the last...""","-""Gazing Demon"" Iris Requickbard",,,
+WthC_tpcdreamer,WEAPON,"A heavily modernized and more massive version of the Thermal Pulse Cannon, born alongside its flagship carrier. As the most critical component of its unparalleled forward firepower, it can eliminate all physical obstacles in its path in a short time.",,,,
+WthC_TPCRune,WEAPON,"A heavily modernized and more massive version of the Thermal Pulse Cannon, born alongside its flagship carrier. Equipped with a retro-style elemental rotary lens, its range is reduced, but the additional elemental reactions make this already destructive cannon even more unparalleled.",,,,
+WthC_NewMoon,WEAPON,"A beam weapon born alongside the Darkest. Compared to its sister weapon, the New Moon is entirely focused on tactical support. This difficult-to-counter weapon can effectively disrupt enemy shields and almost instantly disable unshielded ship systems.
+
+Clearly, this complete abandonment of direct damage in favor of slowly cornering the opponent aligns perfectly with the style of a certain figure within the fortress. Whether as a tribute to this philosophy or a tactical necessity, the New Moon was born.",,,,
+WthC_tpcPAC,WEAPON,"""The end of the road is not the end...""","-""Crimson Lord"" Shilya Crimson",,,
+WthC_tpcPAC2,WEAPON,"""Only the end of a legend...""","-""Pale King"" Lovinya Blast",,,
+
+WthC_starsnode_element_soil,WEAPON,"A medium Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_element_gold,WEAPON,"A medium Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_element_water,WEAPON,"A medium Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_element_wood,WEAPON,"A medium Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_element_fire,WEAPON,"A medium Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+
+WthC_starsnode_elementS_soil,WEAPON,"A light Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_elementS_gold,WEAPON,"A light Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_elementS_water,WEAPON,"A light Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_elementS_wood,WEAPON,"A light Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+WthC_starsnode_elementS_fire,WEAPON,"A light Stellar Energy Aggregator equipped with an additional elemental lens, capable of firing homing Essence Spheres. By swapping the internal elemental lens and adjusting the energy convergence program, the weapon's tactical applications can be flexibly altered, resembling a rather ancient design.",,,,
+
+
+#Ship Systems
+GatherStarEnergyDrive,SHIP_SYSTEM,"Temporarily switches the reactor to Stellar Energy Drive mode, significantly enhancing engine and beam weapon output. However, most ship reactors cannot stabilize in this mode for long, reducing flux dissipation and preventing hard flux venting during operation.","Maneuver",,,,
+GatherStarEnergyBurnDrive,SHIP_SYSTEM,"Temporarily switches the reactor to Stellar Energy Drive mode, drastically enhancing engine and shield output without interfering with weapon operation. However, the unstable energy pressure on the reactor makes it difficult to sustain for long, continuously generating and preventing hard flux venting during operation.","Maneuver",,,,
+GatherStarEnergyStormDrive,SHIP_SYSTEM,"Temporarily switches the reactor to Stellar Energy Drive mode, drastically enhancing engine output and generating a weak field around the hull. While this switch does not interfere with weapon operation, the unstable energy pressure on the reactor makes it difficult to sustain for long, continuously generating and preventing hard flux venting during operation.","Maneuver",,,,
+GatherStarCoreOverLoad,SHIP_SYSTEM,"Temporarily overloads the ship's Stellar Energy Reactor, with additional energy demands handled by the main reactor, making it difficult to stabilize for long. Fully activated Stellar Energy significantly enhances the ship's engine and weapon systems, and can be quickly and repeatedly activated as long as the main reactor is not overloaded.","Special",,,,
+GatherStarMEinterference,SHIP_SYSTEM,"Uses Stellar Energy to continuously interfere with the mass-energy state of ship weapons, enhancing their projectile output and lethality. Additional energy is drawn from the engine. While this protocol can be sustained for a long time, improper use often puts the ship in danger.","Special",,,,
+GatherStarConcentrateMode,SHIP_SYSTEM,"Switches the reactor to Stellar Energy Concentration mode, diverting part of the engine output to the weapon systems to significantly enhance firepower. However, the unstable energy pressure on the reactor makes it difficult to sustain for long.","Offense",,,,
+StarDustTeleporter,SHIP_SYSTEM,"Activates the spatial penetration capabilities of small Stardust Phase Nodes within the ship, enabling flexible, long-range teleportation multiple times.","Maneuver",,,,
+StarDustDamper,SHIP_SYSTEM,"Temporarily activates a Stellar Energy field to significantly reduce incoming damage. This relatively stable energy field lasts longer and absorbs more damage than standard dampeners but has a longer cooldown and cannot be used repeatedly in a short time.","Defense",,,,
+StigmataExcite,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, enabling rapid maneuvering and significantly increasing the projectile output of all weapons for a short time.","Special",,,,
+CrossTheBorder,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, temporarily opening a link to the Rift to gain a significant relative time dilation effect.","Special",,,,
+AbandonJourney,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, increasing mobility and generating numerous Essence Spheres to slow enemies for a short time.","Special",,,,
+UntilElapse,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, drastically enhancing ship propulsion at the cost of rapidly depleting hull integrity and boosting weapon performance based on lost hull.","Special",,,,
+GrandCruise,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, temporarily enhancing shield performance and propulsion while generating numerous homing projectiles for disruption.","Special",,,,
+PACGrandCruise,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, temporarily enhancing shield performance and propulsion while continuously generating two types of homing projectiles.","Special",,,,
+MatrixWorkshop,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, disabling shields for an extended period in exchange for enhanced hull and beam weapon performance.","Special",,,,
+MatrixWorkshopBa,SHIP_SYSTEM,"Activates the hidden power within the Sigil Core, disabling shields for an extended period in exchange for enhanced hull and beam weapon performance.","Special",,,,
+
+StigmataExcite_TTR,SHIP_SYSTEM,"Activates the small Stardust Core within the ship, significantly increasing mobility and weapon performance while shifting damage focus to fighters and missiles for a short time.","Special",,,,
+
+HongSeJueMie,SHIP_SYSTEM,"Channels the majority of the ship's energy reserves into the reactor to replicate the most iconic technique of the Primordial Witch. Drastically enhances engine and beam weapon output for an extended period but immediately reduces peak performance time to zero.","Offense",,,,
+
+WthC_Eagle_IE,SHIP,"A special Eagle-class cruiser marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, this Eagle has numerous energy weapon hardpoints, making it even more suited for its already proficient medium-to-long-range engagements. The addition of the Stellar Energy Activator further enhances the tactical value of this already practical cruiser.
+
+However, the increased deployment cost makes this ship, which struggles to quickly break through enemy lines, somewhat awkward in its role... As before its modifications, most captains still prefer its smaller sibling—the Falcon (RIE)-class light cruiser.",,,,
+WthC_Falcon_IE,SHIP,"A special Falcon-class light cruiser marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+For most Persean Sector captains, the Falcon has always been the most affordable and reliable cruiser on the battlefield. When deployed in large numbers, they easily form a mobile defensive line that is difficult to breach. This elite Falcon (RIE) further specializes in these aspects, with an improved flux network and beam weapons capable of dealing more effective damage, making it even more adaptable than its original counterpart.
+
+However, the incomplete nature of its modifications means this ship, like its original version, is still only suitable for long-range engagements. Any expectation of it quickly and effectively eliminating enemy ships is unrealistic.",,,,
+WthC_Falcon_IE_B,SHIP,"This peculiar Falcon (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.",,,,
+WthC_Eagle_IE_B,SHIP,"This peculiar Eagle (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.",,,,
+WthC_Onslaught_IE,SHIP,"A special Onslaught-class battleship marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, this Onslaught has drastically altered most of its original weapon groups and integrated four tactical beam weapons. Even though everything still revolves around its two Thermal Pulse Cannons, its role on the battlefield has fundamentally changed.
+
+Past experience reminds every Persean Sector captain that those accustomed to commanding Onslaught-class battleships to charge recklessly into battle must reconsider their approach. Using outdated tactics with this flashy behemoth could lead to irreversible consequences.",,,,
+WthC_Onslaught_IE_B,SHIP,"This peculiar Onslaught (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+As the Dust Witch's most favored toy in this constellation, this Pale Onslaught is a unique presence in the entire sector. Hand it over to that desperate, suicidal princess—at least this monstrous capital ship can eliminate many unpleasant physical phenomena before her reckless operations completely destroy everything onboard.",,,,
+WthC_Onslaught_IE_B_N,SHIP,"This peculiar Onslaught (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+As the Dust Witch's most favored toy in this constellation, this Pale Onslaught is a unique presence in the entire sector. Hand it over to that desperate, suicidal princess—at least this monstrous capital ship can eliminate many unpleasant physical phenomena before her reckless operations completely destroy everything onboard.",,,,
+WthC_legion_IE,SHIP,"A special Legion-class carrier battleship marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, this Legion has drastically altered its original weapon groups and integrated numerous elemental nodes.
+
+Most Persean Sector captains associate the Legion-class with its powerful support capabilities, thanks to its large missile complement and fighter wings. After losing these advantages, this Legion (RIE) is better suited as a battleship with additional flight decks. At least its improved flux network and ample hull expansion space make it as sturdy and reliable as ever, if not more so on the front lines.",,,,
+
+WthC_legion_IE_B,SHIP,"This peculiar Legion (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+As a ship that aligns well with the tastes of the Cross Witch, this Pale Carrier-Battleship doesn't perform as spectacularly on the battlefield as one might expect. However, no one would want to encounter such a bizarre presence in combat... Anyone who likes this thing must have some serious mental issues.",,,,
+WthC_irises_IE,SHIP,"A special Iris-class battlecruiser marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+The Iris-class battlecruiser is already a rare hull in the sector, and this modified version further shrouds it in mystery. A more sustained Stellar Energy Drive and an improved flux network enhance its output potential. However, the almost completely revamped weapon groups and the design philosophy leaning further toward ""de-armoring"" undoubtedly place this already fragile ship in even greater danger.
+
+But if you truly want a mobile flagship with a well-equipped command center capable of fighting valiantly on the front lines, this oddly positioned ship might just deliver a decent experience.",,,,
+WthC_conquest_IE,SHIP,"A special Conquest-class battlecruiser marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, most of this Conquest's weapon groups have been reoriented to fire forward instead of broadside, and the previously abundant ballistic weapon slots have been replaced with energy weapons that better suit the modifier's aesthetic.
+
+While this approach is undoubtedly insane and completely contradicts the original design philosophy of the Conquest-class battlecruiser, the resulting benefits may not be as immediately apparent as many captains might expect.
+
+After all, the Conquest (RIE) still operates within the framework of the Conquest series, and its battlefield performance remains a unique blend of risk and opportunity, just as it was in the past.",,,,
+WthC_conquest_IE_B,SHIP,"This peculiar Conquest (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+Among all the special ships that have undergone the Pale ritual, this Pale Voyager is perhaps the most normal by comparison. It simply possesses the characteristics typical of its kind, and even its appearance is only slightly faded.
+
+Yet this ""normalcy"" feels like a form of ""strangeness,"" as in your experience, inexplicable phenomena are what one would expect from these ships. Perhaps this also suggests a deep connection between the Enchantress and the one who created this phenomenon?",,,,
+WthC_conquest_IE_B_N,SHIP,"This peculiar Conquest (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+Among all the special ships that have undergone the Pale ritual, this Pale Voyager is perhaps the most normal by comparison. It simply possesses the characteristics typical of its kind, and even its appearance is only slightly faded.
+
+Yet this ""normalcy"" feels like a form of ""strangeness,"" as in your experience, inexplicable phenomena are what one would expect from these ships. Perhaps this also suggests a deep connection between the Enchantress and the one who created this phenomenon?",,,,
+WthC_pegasus_IE,SHIP,"A special Pegasus-class battleship marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, this Pegasus has had its iconic large missile launchers completely removed. The space once occupied by vast missile reserves has been repurposed for an improved flux network, turning it into a more conventional battleship.
+
+To fully exploit the infinite possibilities offered by its numerous weapon slots, the Pegasus (RIE) is equipped with an experimental Stellar Core Overload Protocol, allowing it to unleash unexpected performance in short bursts.
+
+However, this erratic performance shift is difficult for most Persean Sector captains and crews to accept on such a massive capital ship, making it quite challenging to unlock its full potential.",,,,
+WthC_pegasus_IE_B,SHIP,"This peculiar Pegasus (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+This ship... which constantly exudes an eerie aura, belongs to a witch who is biologically long dead... Yes, after demons and witches, the appearance of a ghost seems fitting. The only good news is that the Soul Witch is not somewhere in the Crimson Fortress, nor will she come into close contact with you. She has simply left this equally cursed ship, filled with paranormal events, to you... and awaits more brave souls to embark on this inevitably vanishing journey.",,,,
+WthC_pegasus_IE_B_N,SHIP,"This peculiar Pegasus (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+This ship... which constantly exudes an eerie aura, belongs to a witch who is biologically long dead... Yes, after demons and witches, the appearance of a ghost seems fitting. The only good news is that the Soul Witch is not somewhere in the Crimson Fortress, nor will she come into close contact with you. She has simply left this equally cursed ship, filled with paranormal events, to you... and awaits more brave souls to embark on this inevitably vanishing journey.",,,,
+WthC_fury_IE,SHIP,"A special Fury-class light cruiser marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, this Fury has undergone a... symmetrical redesign, with its weapon groups adjusted to better suit the modifier's aesthetic and tactical style. The clearly biased hull modifications also make it more difficult to handle, often requiring the most experienced captains and elite crews to unlock its true potential.
+
+To better fit its role as an ""assassin"" on the battlefield, the Fury (RIE) is equipped with the Stellar Core Overload Protocol, becoming more lethal while also facing greater risks.",,,,
+WthC_fury_IE_B,SHIP,"This peculiar Fury (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.",,,,
+
+WthC_champion_IE,SHIP,"A special Champion-class heavy cruiser marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, this special Champion has enhanced the firepower of its conventional weapon groups and is equipped with the Stellar Concentration Protocol, which redirects subsystem focus to weapon output efficiency. This means that most small and medium-sized ships entering its weapon range will face utter destruction.
+
+However, the Champion (RIE) also becomes more cumbersome and loses flexibility, making rapid deployment to advantageous positions another significant challenge.",,,,
+WthC_champion_IE_B,SHIP,"This peculiar Champion (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.",,,,
+WthC_dominator_IE,SHIP,"A special Dominator-class heavy cruiser marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat.
+
+Compared to the more common version, this Dominator has made significant improvements in energy management. A complete weapon maintenance module replaces the original powerful missile array, shifting its core focus to more flexible large weapon options.
+
+Unlike its older sibling, the Onslaught (RIE), even after undergoing a series of modifications, the Dominator (RIE) remains a sturdy, reliable ship suited for frontline combat. In most scenarios, it is even better suited to play the role of a space tank on the battlefield.",,,,
+WthC_dominator_IE_B,SHIP,"This peculiar Dominator (RIE) appears to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.",,,,
+WthC_Holysee_IE_B,SHIP,"An extremely bizarre capital ship, equally difficult to face or command.
+
+While the battlefield performance of these B-marked RIE ships is substantially improved, most crew members refuse to serve on these vessels, which seem as if they've returned from hell. Increasing evidence suggests that fighting on ""Pale"" ships always comes with bizarre dangers. According to crew reports, these dangers include but are not limited to: ""flux networks mysteriously overloading while passing through secure pipeline sections,"" ""life support systems intermittently failing after entering combat,"" ""minor external damage precisely causing crew fatalities,"" and ""crew members mysteriously disappearing after hearing eerie laughter.""
+
+Whether these reports are credible or not, the significantly higher mortality rate serves as a warning that any powerful force from an unknown source comes at a cost.
+
+As you are forced to replace veteran crew with less determined recruits, these ships often lose combat effectiveness faster than their counterparts in high-pressure battles. Fortunately, their internal structure is similar to standard RIE ships, minimizing the need for changes in tactical doctrine and maintenance.
+
+While such a massive hull might be the dream of every spacefaring crew, perhaps only a faction completely unconcerned with practicality would build these monsters that cannot integrate into normal fleets.",,,,
+
+WthC_paragon_IE,SHIP,"A special Paragon-class battleship marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+Compared to other RIE ships, this Paragon is more visually distinctive, as if refurbished with a large number of Remnant components. Its most iconic features are the ranging array built from four pairs of Breeze Tactical Lasers and two peculiar Void Elemental Nodes.
+
+The Paragon-class battleship is already an exceedingly rare high-end flagship in the Persean Sector. After undergoing RIE modifications that further enhance its elite status, it unleashes terrifying war potential. A more aggressive Stellar Concentration System replaces the original Fortress Shield, and its ability to project hard flux damage beyond visual range strikes fear into all enemy ships.
+
+Even searching the entire Persean Sector, it would be difficult to find a ship more powerful than the Paragon (RIE). However, how to deploy such an overly cumbersome behemoth in an increasingly mobility-focused battlefield remains a pseudo-problem with no clear answer in military circles.
+
+So... perhaps you should return the question to the one who posed it?",,,,
+WthC_paragon_IE_N,SHIP,"A special Paragon-class battleship marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+Compared to other RIE ships, this Paragon is more visually distinctive, as if refurbished with a large number of Remnant components. Its most iconic features are the ranging array built from four pairs of Breeze Tactical Lasers and two peculiar Void Elemental Nodes.
+
+The Paragon-class battleship is already an exceedingly rare high-end flagship in the Persean Sector. After undergoing RIE modifications that further enhance its elite status, it unleashes terrifying war potential. A more aggressive Stellar Concentration System replaces the original Fortress Shield, and its ability to project hard flux damage beyond visual range strikes fear into all enemy ships.
+
+Even searching the entire Persean Sector, it would be difficult to find a ship more powerful than the Paragon (RIE). However, how to deploy such an overly cumbersome behemoth in an increasingly mobility-focused battlefield remains a pseudo-problem with no clear answer in military circles.
+
+So... perhaps you should return the question to the one who posed it?",,,,
+
+WthC_Dreamer_IE,SHIP,"A special Dreamer-class fast battleship marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+The Dreamer (RIE-S) is a representative flagship. Every detail reveals that the designer poured their heart and soul into this ship, making it one of the most theoretically expensive capital ships in the Persean Sector's conventional industrial system.
+
+Of course... this lack of cost-effectiveness does have its rewards. The power displayed by this museum-piece-like behemoth is comprehensive, with mobility, firepower, armor, shield efficiency, and coverage all reaching exceptional levels. In most conventional conflicts, its theoretical performance will completely surpass the Paragon-class battleship, a benchmark of its era.
+
+It is likely that obtaining such a balanced and powerful flagship is the dream of every Persean Sector captain... Yet, like a genuine collectible, this ship is one of a kind, once gifted by its creator as a symbolic present to their irreplaceable friend.
+
+But why did it end up here?",,,,
+
+WthC_Dreamer_IE_N,SHIP,"A special Dreamer-class fast battleship marked with a golden crescent moon and blue rose petals on its hull, clearly having undergone extensive modifications at the Crimson Fortress. These RIE-marked ships typically replace all missile hardpoints with various elemental nodes and favor beam weapons in combat. The S-mark indicates that this battleship was once given to a certain witch and often served as her flagship.
+
+The Dreamer (RIE-S) is a representative flagship. Every detail reveals that the designer poured their heart and soul into this ship, making it one of the most theoretically expensive capital ships in the Persean Sector's conventional industrial system.
+
+Of course... this lack of cost-effectiveness does have its rewards. The power displayed by this museum-piece-like behemoth is comprehensive, with mobility, firepower, armor, shield efficiency, and coverage all reaching exceptional levels. In most conventional conflicts, its theoretical performance will completely surpass the Paragon-class battleship, a benchmark of its era.
+
+It is likely that obtaining such a balanced and powerful flagship is the dream of every Persean Sector captain... Yet, like a genuine collectible, this ship is one of a kind, once gifted by its creator as a symbolic present to their irreplaceable friend.
+
+But why did it end up here?",,,,
+
+WthC_Minerva_IE,SHIP,"A special Minerva-class small space fortress with a golden crescent and blue rose petal emblem on its hull, clearly having undergone extensive modifications at Crimson Citadel. These RIE-marked ships often replace all missile interfaces with several elemental nodes and prefer to use beam weapons in combat.
+
+Unlike typical RIE ships, few Perseans have seen the original version of this ship, let alone its heavily modified form. It might just be that the original witch designer found the blueprint in the vast database of the Iris Temple and whimsically carried out these modifications.
+
+Compared to other more common ships in Perseus, the Minerva (RIE) boasts an exceptionally large number of weapon slots, even though the flux network of this pocket fortress cannot effectively utilize all of them. Apart from a complete set of advanced targeting systems, the ship retains a vast internal space for modifications, allowing for considerable post-construction expansion, albeit at the cost of significantly reducing the space originally allocated for crew quarters and cargo holds.
+
+In summary, this is a rather peculiar modified warship, and even any captain fortunate enough to board it cannot understand the practical significance of integrating modules directly into the main hull.
+
+By the way, this is also the only ship equipped with all five elemental nodes, even though these weapons with clear tactical intentions seem incompatible when forced together.",,,,
+WthC_Mithril_IE,SHIP,"A special Mithril-class battlecruiser with a golden crescent and blue rose petal emblem on its hull, clearly having undergone extensive modifications at Crimson Citadel. These RIE-marked ships often replace all missile interfaces with several elemental nodes and prefer to use beam weapons in combat.
+
+As a versatile but not particularly outstanding ship, the ancient Mithril-class battlecruiser has not been favored by Perseans, and its presence is rare across the sector.
+
+As a groundbreaking modified version, the Mithril (RIE) class possesses formidable firepower, sturdy armor, and excellent shield endurance, at the cost of some mobility. These changes have transformed this battlecruiser into a battleship with exceptional frontal capabilities.
+
+It is best suited to serve as the backbone of a large fleet, relying on its reliable performance to win most frontal engagements.",,,,
+WthC_Murderers_IE,SHIP,"A special Murderer-class battlecruiser with a golden crescent and blue rose petal emblem on its hull, clearly having undergone extensive modifications at Crimson Citadel. These RIE-marked ships often replace all missile interfaces with several elemental nodes and prefer to use beam weapons in combat.
+
+As a next-generation ship, the Murderer-class battlecruiser features an extremely bold design, with only small and medium-sized weapons distributed across its hull and almost entirely abandoning firepower on all sides except the front. This makes it more inclined to charge straight in and destroy ships smaller than itself.
+
+The Murderer (RIE) class further amplifies this ship's strengths. After installing the Stellar Mass-Energy Interference Protocol, it becomes an even faster and more firepower-intensive striker. However, the extreme modifications favoring frontal assault capabilities also mean this ship is ill-suited for tasks requiring versatility.
+
+True to its name, its only specialty is quickly closing in and thoroughly "murdering" those more fragile than itself. By the way, this is also the only RIE ship not equipped with any elemental nodes or special weapons.",,,,
+WthC_Mithril_IE_B,SHIP,"This bizarre Mithril (RIE) seems to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S mark indicates that this warship was once given to a witch and often served as their flagship.
+
+Although the battlefield performance of these B-marked RIE ships is significantly enhanced, most crew members refuse to serve on these ships, which seem as if they have just returned from hell. Increasing evidence suggests that fighting on "bleached" ships always comes with various bizarre dangers. According to crew reports, these dangers include but are not limited to "flux network mysteriously overloading while passing through safe pipe sections," "life support systems intermittently failing after entering combat," "minor external damage precisely causing crew deaths," and "crew members mysteriously disappearing after hearing eerie laughter."
+
+Whether these mysterious reports are credible or not, the significantly higher mortality rate seems to warn you that any powerful force from unknown sources comes at a cost.
+
+Because you have to fill the vacancies left by veterans with less determined recruits, these ships often lose combat capability faster than other ships of the same class in high-pressure battlefields. Fortunately, their internal structure is similar to ordinary RIE ships, so they don't require much extra effort in tactical doctrine or daily maintenance.
+
+Just like in the past... the Cross Witches still dominate the battlefield, wielding their ornate scepters and proclaiming cruel decrees to win one tragic victory after another.",,,,
+WthC_Mithril_IE_B_N,SHIP,"This bizarre Mithril (RIE) seems to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions. The S mark indicates that this warship was once given to a witch and often served as their flagship.
+
+Although the battlefield performance of these B-marked RIE ships is significantly enhanced, most crew members refuse to serve on these ships, which seem as if they have just returned from hell. Increasing evidence suggests that fighting on "bleached" ships always comes with various bizarre dangers. According to crew reports, these dangers include but are not limited to "flux network mysteriously overloading while passing through safe pipe sections," "life support systems intermittently failing after entering combat," "minor external damage precisely causing crew deaths," and "crew members mysteriously disappearing after hearing eerie laughter."
+
+Whether these mysterious reports are credible or not, the significantly higher mortality rate seems to warn you that any powerful force from unknown sources comes at a cost.
+
+Because you have to fill the vacancies left by veterans with less determined recruits, these ships often lose combat capability faster than other ships of the same class in high-pressure battlefields. Fortunately, their internal structure is similar to ordinary RIE ships, so they don't require much extra effort in tactical doctrine or daily maintenance.
+
+Just like in the past... the Cross Witches still dominate the battlefield, wielding their ornate scepters and proclaiming cruel decrees to win one tragic victory after another.",,,,
+WthC_Mora_IE,SHIP,"A special Mora-class carrier with a golden crescent and blue rose petal emblem on its hull, clearly having undergone extensive modifications at Crimson Citadel. These RIE-marked ships often replace all missile interfaces with several elemental nodes and prefer to use beam weapons in combat.
+
+The Mora-class carrier is an ancient design gradually being phased out by the times. With the increasing maturity of modular hangar technology, the tactical value of most standard carriers has sharply declined, and they now often appear only as stopgap measures in certain fleets.
+
+As a modernized version, the Mora (RIE) class still adheres to the original concept of this ancient design: to block heavy fire on the frontlines while rapidly providing substantial fighter support. The new Stellar Dust Damper and two elemental nodes focused on support and interference have further enhanced the tactical value of this already reliable ship.
+
+Of course... there is still no explanation as to why the designer always goes to great lengths to make these RIE ships perfectly symmetrical...",,,,
+WthC_Mora_IE_B,SHIP,"This bizarre Mora (RIE) seems to have undergone some mysterious ritual, allowing it to unleash extraordinary potential under certain conditions.
+
+Although the battlefield performance of these B-marked RIE ships is significantly enhanced, most crew members refuse to serve on these ships, which seem as if they have just returned from hell. Increasing evidence suggests that fighting on "bleached" ships always comes with various bizarre dangers. According to crew reports, these dangers include but are not limited to "flux network mysteriously overloading while passing through safe pipe sections," "life support systems intermittently failing after entering combat," "minor external damage precisely causing crew deaths," and "crew members mysteriously disappearing after hearing eerie laughter."
+
+Whether these mysterious reports are credible or not, the significantly higher mortality rate seems to warn you that any powerful force from unknown sources comes at a cost.
+
+Because you have to fill the vacancies left by veterans with less determined recruits, these ships often lose combat capability faster than other ships of the same class in high-pressure battlefields. Fortunately, their internal structure is similar to ordinary RIE ships, so they don't require much extra effort in tactical doctrine or daily maintenance.",,,,
+WthC_Medusa_SS,SHIP,"A special Medusa-class destroyer with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Medusa-class destroyer has always been touted as a fast, advanced, and deadly weapon, but its tactical value is often difficult to fully realize on the actual battlefield.
+
+As one of only two destroyers from the Crimson Citadel system, the Medusa (SS) is not an outstanding choice. However, with further enhancements to its original strengths, it is at least more lethal than its prototype and more adept at raiding unprotected targets...",,,,
+WthC_Alcedo_SS,SHIP,"A special Alcedo-class destroyer with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Alcedo-class destroyer is a design with a rather ancient concept... seemingly intended only to supplement fighter support in fleets unable to support large carriers. However, with the gradual maturity of modular hangar technology, this tactical role has been casually adopted by most destroyers in the sector, further reducing its applicability.
+
+In this context, the Alcedo (SS) as a modified version seems strangely born out of some personal whim... Perhaps the existence of this ship indirectly proves that, for the Crimson Lords, the creation of any space warship does not necessarily have to serve a meaningful purpose...",,,,
+WthC_whitebird_SS,SHIP,"A special Whitebird-class micro-carrier with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Whitebird-class micro-carrier is a... well, quite magical existence? Its hull is almost entirely composed of a barely functional flight deck, and the limited modification space on the ship is mostly used to deploy more sophisticated LPCs.
+
+So... how did this ship, which has almost no practical significance on the battlefield, come into existence? And why is there even a special modified version?
+
+Perhaps this will remain a forever mystery...",,,,
+
+WthC_Brawler_SS,SHIP,"A special Brawler-class gunboat with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Brawler-class gunboat has long been known as a deadly weapon in the Perseus sector. Among ships of the frigate class, you will rarely find anything faster or more lethal than these little vessels. Clearly, this Brawler (SS) is based on the most deadly variant, the Brawler (TT).
+
+Paired with the numerous stellar elemental nodes integrated into its hull, it can often vaporize most insufficiently armored enemy ships in an instant when these deadly weapons are used properly. Let's hope you never encounter a fleet with a swarm of these things...",,,,
+WthC_Centurion_SS,SHIP,"A special Centurion-class heavy frigate with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Centurion-class heavy frigate is an exceptionally sturdy and reliable frigate. Even as fleet doctrines across Perseus shift toward favoring more missiles, the tactical value of this class of ship continues to rise.
+
+The heavily modernized Centurion (SS) demonstrates even more reliable performance. With the help of a more dependable stellar dust damper, it always becomes a thorn in the side of any bulky ship.",,,,
+WthC_scarab_SS,SHIP,"A special Scarab-class heavy frigate with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Scarab-class heavy frigate is an extremely rare and peculiar ship, with few traces of its existence found across the Perseus sector. The few captains who have seen it are often amazed by its eerie speed, achieved by temporarily breaking the laws of space-time.
+
+Clearly, the Scarab (SS) inherits this trait. After embedding a pair of elemental nodes with massive projection capabilities, its speed, which defies conventional laws, becomes even more deadly.
+
+However, its tactical philosophy remains as aggressive as ever, and it has even become more fragile...",,,,
+WthC_HundredEyes,SHIP,"A special Hundred Eyes-class support frigate with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+For the Perseans, the Hundred Eyes-class support frigate is often hidden within the vast ship blueprint archives of the Domain. This ship seems to have a myriad of connections to the equally rare Scarab-class, perhaps a product that lost out in some competition.
+
+Compared to the Scarab (SS)'s extreme and bizarre speed, the Hundred Eyes (SS) is equipped with an unusually large number of missiles for a frigate, providing substantial projectile support.
+
+The trade-off is that it is often bulkier than most frigates and struggles to maintain long-term operations on the front lines.",,,,
+WthC_monitor_SS,SHIP,"A special Monitor-class frigate with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+This is a... Monitor, yes, that ship everyone hates. Whether as an ally, an enemy, or even piloting it yourself, it only brings more unpleasant experiences.
+
+Even with the addition of some extremely deadly weapons, this Monitor (SS) remains largely unchanged in terms of tactical performance. So why did the Dust Witch bother to modify them?
+
+After all, this is the doctrine she despises the most—defense-oriented. But perhaps someone out there still likes it... right?",,,,
+WthC_monitor_SS_FT,SHIP,"If you feel like something is watching you from the void... don't doubt it, it's probably just an illusion.",,,,
+WthC_hyperion_SS,SHIP,"A special Hyperion-class advanced gunboat with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Hyperion has always been the safest frigate in the entire Perseus sector, bar none. Although many captains consider investing too much in these little ships a "losing bet," it is often these extreme products that find their most loyal users.
+
+Even after extensive modifications, including the forced distortion of its iconic asymmetrical design, this Hyperion (SS) performs largely the same on the battlefield.
+
+It's just equipped with a pair of stellar elemental nodes that are more strategically valuable than conventional weapons... just using a more advanced subsystem... and just more aesthetically pleasing to some...",,,,
+WthC_hyperion_SS_S,SHIP,"A special Hyperion-class advanced gunboat with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes. The S mark indicates that this warship was once given to a witch and often served as their flagship.
+
+A Hyperion (SS) that has undergone additional secondary modifications, equipped with an unusually large number of built-in weapons and special equipment. This means the maintenance cost after deploying it in battle is comparable to that of some capital ships...
+
+But clearly, as the flagship of a certain witch, this special Hyperion (SS) performs exceptionally on the battlefield. A pair of awe-inspiring lance beam weapons can almost eliminate any enemy ship, and combined with the ultimate mobility provided by the phase teleporter, it is not impossible for it to single-handedly destroy an entire star fortress...
+
+However... this all-in gamble on a frigate means it often requires a skilled captain to unlock its full potential...
+
+So, who will that captain be?",,,,
+WthC_hyperion_SS_S_N,SHIP,"A special Hyperion-class advanced gunboat with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes. The S mark indicates that this warship was once given to a witch and often served as their flagship.
+
+A Hyperion (SS) that has undergone additional secondary modifications, equipped with an unusually large number of built-in weapons and special equipment. This means the maintenance cost after deploying it in battle is comparable to that of some capital ships...
+
+But clearly, as the flagship of a certain witch, this special Hyperion (SS) performs exceptionally on the battlefield. A pair of awe-inspiring lance beam weapons can almost eliminate any enemy ship, and combined with the ultimate mobility provided by the phase teleporter, it is not impossible for it to single-handedly destroy an entire star fortress...
+
+However... this all-in gamble on a frigate means it often requires a skilled captain to unlock its full potential...
+
+So, who will that captain be?",,,,
+WthC_lumen_SS,SHIP,"A special Lumen-class frigate with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Lumen is a peculiar frigate from the Remnant. These fully automated ships, not requiring crew, have more freedom in internal design, allowing them to exhibit more unique combat performance than conventional ships.
+
+This Lumen (SS) can be manually controlled with the help of the Aegis Network, although only a lucky captain can realize this dream, which was once only possible through neural links. After all, acquiring that system from Tri-Tachyon often comes at a hefty price.
+
+Sadly... this experience of becoming one with the Remnant might not be as wonderful as many captains imagine, as this frigate, possibly the most fragile in the entire sector, could become a steel tomb within minutes of engagement.
+
+Of course... this time, the tomb holds only one person.",,,,
+WthC_glimmer_SS,SHIP,"A special Glimmer-class frigate with a faint fusion glow on its hull, seemingly having undergone a baptism known as Stellar Synchronization. These SS-marked ships often serve as strike platforms equipped with numerous elemental nodes.
+
+The Glimmer is a common yet troublesome frigate in Remnant fleets. After all, this little ship is not as fragile as the Lumen, and its reasonable weapon configuration can give larger ships a headache when it gets close.
+
+The Glimmer (SS) significantly enhances its mobility compared to the original, paired with a somewhat luxurious set of elemental nodes for a frigate and improved survivability, making it an excellent platform for continuously launching support missiles at medium range.
+
+With the help of the Aegis Network, it also gains the possibility of manual control, further expanding the tactical versatility of this frigate.
+
+Unfortunately... its once-proud close-range combat capabilities have diminished, often requiring the most daring tactical setups to achieve barely satisfactory results.",,,,
+
+WthC_PaleCrown,SHIP,"Once the flagship of the Crimson Citadel, it symbolizes nobility, mystery, and an unfathomable power.
+
+Although its design is clearly derived from the ancient blueprints of the Domain, the technology used to recreate it seems almost otherworldly. It is also one of the few ships from the Crimson Citadel not born from the Primordial Workshop, adding an extra layer of mystery to its uniqueness.
+
+Any experienced engineer would confidently tell you that even after hundreds of star cycles, humanity would still be unable to fully uncover the secrets hidden within this ship. This also means that when certain critical components are destroyed, repairing them is nearly impossible...
+
+Perhaps this super-dreadnought, a symbol of past glory, will follow the path of other relics from before the Collapse into the grave of history. Or perhaps, it will proudly witness the Persean Sector, burning like embers, reach its destined end...
+
+""The end of the road is not the end... it is merely the end of a legend."" — Inscribed on the central pillar of the bridge.",,,,
+#Fighters
+WthC_CSd,SHIP,A tactical support fighter equipped with dual tactical lasers, widely deployed on all carriers modified by the Primordial Workshop.,,,,
+WthC_VDS,SHIP,One of the twin spirits born alongside the flagship, composed almost entirely of an extremely precise fire control system and a mysterious energy teleporter. Its technology remains unknown. The Vanishing Dark Spirit can project devastating disintegration beams from extreme distances, delivering catastrophic strikes to unprotected targets.,,,,
+WthC_VSS,SHIP,One of the twin spirits born alongside the flagship, composed almost entirely of an extremely precise fire control system and a mysterious energy teleporter. Its technology remains unknown. The Vanishing Shadow Spirit can project tactical disruption beams from extreme distances, leaving all targets in a dilemma.,,,,
+WthC_SMS,SHIP,An attack fighter equipped with both the Solar and Lunar assault cannons, its powerful firepower makes it a threat to large ships. However, its bulky weapon systems and poor maneuverability put it at a disadvantage against other fighters.,,,,
+WthC_HGB,SHIP,A sturdy, fast, and reliable interceptor. When the entire squadron sorties together, it can unleash an overwhelming barrage of firepower to quickly devour any unarmored targets.,,,,
+WthC_RCH,SHIP,A small killing machine capable of shredding physical obstacles in an instant. A single brave pilot can deftly navigate through enemy formations and precisely hunt down fragile targets.,,,,
+WthC_TTR,SHIP,A small harbinger of doom capable of annihilating entire fighter squadrons. A single brave pilot can deftly eliminate LPC and missile threats in the vicinity.,,,,
+WthC_NSP,SHIP,A small, sturdy guardian capable of defending its mothership and unleashing a torrent of light and heat on attackers. A single brave pilot can deftly save hundreds of lives behind it.,,,,
+WthC_LiBi,SHIP,Faster! Tougher! Stronger! Cooler! And almost no requirements to equip it! It could very well be the best Talon of your dreams! So, having only one and a slightly higher maintenance difficulty seems justifiable, doesn't it?,,,,
+
+#Other
+cube_deepblue,RESOURCE,A mysterious cube that seems to contain unimaginable energy. However, if you can't figure out how to use it, it might just end up being a blue-glowing desk lamp.,,,,
+cube_crimson,RESOURCE,"A mysterious cube that seems to contain unimaginable energy. However, if you can't figure out how to use it, it might just end up being a red-glowing desk lamp.
+
+Additional note for those trying to cut corners~ Cubes without the direct authorization mark from the Crimson Lord cannot be used for the lottery.",,,,
+cube_densefog,RESOURCE,A mysterious cube that seems to contain unimaginable energy. However, if you can't figure out how to use it, it might just end up being a purple-glowing desk lamp.,,,,
+
+Crimson_citadel,FACTION,"Perhaps after the Collapse, the mental state of the Perseans isn't what it used to be. In the bars found on every planet, you can see groups of drunken lunatics wandering around, spouting nonsense. While most of the ""heartfelt words"" that pour out with the alcohol are meaningless drivel, a mysterious story that has been circulating among these lowlifes in recent years always catches your attention...
+
+""Near the desolate wasteland lies a massive black hole, so large that it makes one wonder if the entire observable reality we know could one day be swallowed by it. We call it the Void, a forbidden place where even stars cannot escape. But what's terrifying is that around this place, where even the Luddic God might not dare to approach, stands a mysterious castle... Yes, just like the damned ancient ancestors built with a pile of stones... Perhaps only true demons... or gods... or maybe even AI cores stronger than Alpha could survive in that hellish place.""
+
+Clearly, the true identity of the castle's owner varies across different versions of the story, but what's strange is that no one seems to doubt the existence of the castle itself. You feel a long-lost sense of adventure boiling in your blood, something you haven't felt in this chaotic world for a long time, where you've been too busy thinking about credits.
+
+Perhaps one day, you will personally lead a massive exploration fleet to that long-forgotten sector of the Persean stars. Even if it turns out to be another fruitless journey in this damned sector, deep down, like those drunks who never doubt the existence of the ""Void,"" you yearn for the day you can truly delve into it.
+
+After all, perhaps you've already been there... with those who perished in the smoke of battle.",,,,
+
+station_Crimson_citadel,CUSTOM,"""The castle where demons reside,"" as some legends describe it. Of course, there's no harm in saying that, as assuming the true identity of the Crimson Lord isn't a rigorous act. In any case, aside from its appearance being completely out of place in this world, you don't find its interior as mysterious as the legends suggest. It's just home to a few beautiful strangers, buried treasures, and a place to do some business.",,"Fortunately, the castle is as vast as it looks from the outside, with functional docks for normal people. You stand on your flagship, preparing to send a docking request, and start thinking about who to chat with today.",,
+
+Starship_dust,CUSTOM,"A beautifully designed starship... at least that's what you think. Just by observing its engine status, it's clear that it hasn't been used for movement in a long time. While you'd love to see this ship sail the stars as a warship, the thought quickly fades after seeing its interior.",,"The miniature spaceport on this ship isn't large enough for a full docking, but at least a simple connection is possible. After sending the request, you wait for confirmation...",,
+Starship_lose,CUSTOM,"Another beautifully designed starship... at least that's what you think. Just by observing its engine status, it's clear that it hasn't been used for movement in a long time. While you'd love to see this ship sail the stars as a warship, the thought quickly fades after seeing its interior.",,"The miniature spaceport on this ship isn't large enough for a full docking, but at least a simple connection is possible. After sending the request, you wait for confirmation...",,
+D_station_Crimson_citadel,CUSTOM,"A small station seemingly anchored to the Lost... Clearly, it has long been abandoned, but perhaps no one will mind if you use it as a free storage facility?",,,,
+WthC_Citadel,CUSTOM,"A massive black hole so large that you start to wonder if you'll be swallowed in the next instant. Even from light-years away in hyperspace, you can feel its immense pressure. But mysteriously, it doesn't seem to generate the expected gravitational pull, and upon approaching, you even feel a corona? You can't help but wonder how this is possible and turn your gaze to the somewhat eerie castle on the star map...",,,,
+Citadel_gate,CUSTOM,"It looks just like any ordinary Domain-era star gate, with the lavish decorations indicating it belongs to the Crimson Citadel... as if they can still use these ancient relics. However, unlike the fools around you trying to pass through it, you can't shake the eerie feeling that something from beyond might come out of it...",,,,
+anchor_point_fire,CUSTOM,"One of the five... planets orbiting the black hole in the system, arranged in a perfect pentagon. Not only do they share the same diameter, but they also orbit at the same speed... It's hard to imagine these anchor points weren't artificially created. This planet seems to symbolize ""fire,"" with its surface covered in molten lava and flames.",,,,
+anchor_point_water,CUSTOM,"One of the five... planets orbiting the black hole in the system, arranged in a perfect pentagon. Not only do they share the same diameter, but they also orbit at the same speed... It's hard to imagine these anchor points weren't artificially created. This planet seems to symbolize ""water,"" with its surface completely covered by oceans, hiding many secrets beneath.",,,,
+anchor_point_soil,CUSTOM,"One of the five... planets orbiting the black hole in the system, arranged in a perfect pentagon. Not only do they share the same diameter, but they also orbit at the same speed... It's hard to imagine these anchor points weren't artificially created. This planet seems to symbolize ""earth,"" with its barren surface devoid of anything but dust.",,,,
+anchor_point_wood,CUSTOM,"One of the five... planets orbiting the black hole in the system, arranged in a perfect pentagon. Not only do they share the same diameter, but they also orbit at the same speed... It's hard to imagine these anchor points weren't artificially created. This planet seems to symbolize ""wood,"" with towering forests and giant beasts covering the land.",,,,
+anchor_point_gold,CUSTOM,"One of the five... planets orbiting the black hole in the system, arranged in a perfect pentagon. Not only do they share the same diameter, but they also orbit at the same speed... It's hard to imagine these anchor points weren't artificially created. This planet seems to symbolize ""gold,"" with vast wealth buried beneath its deadly environment.",,,,
+anchor_point_initial,CUSTOM,"One of the two... giant planets orbiting the black hole in the system, forming a perfect square with the other artificial structures in the system, orbiting at the same speed... It's hard to imagine these anchor points weren't artificially created. This planet seems to symbolize ""beginning,"" with almost no secrets hidden in its extreme environment.",,,,
+anchor_point_end,CUSTOM,"One of the two... giant planets orbiting the black hole in the system, forming a perfect square with the other artificial structures in the system, orbiting at the same speed... It's hard to imagine these anchor points weren't artificially created. This planet seems to symbolize ""end,"" with no life willing to stay in such a desolate place.",,,,
+dark_world_w,CUSTOM,"One of the two... eerie planets on the edge of the system... While they both show some signs of habitability, everything about them feels unreal. This planet, named Mirage, is barren except for a massive artificial structure, with no signs of life or wealth in the endless sandstorms...",,"With no functional spaceport, you can only pilot a shuttle to land near the castle-like structure, though you doubt this trip will yield any tangible rewards.",,
+XiJie,CUSTOM,"One of the two... eerie planets on the edge of the system... While they both show some signs of habitability, everything about them feels unreal. This planet, named XiJie, appears to be a perfect environment for natural life, but in reality, it's a living hell. Almost anyone who sets foot here dies soon after, a phenomenon that can only be explained by supernatural curses, making anyone wary of approaching...",,,,
+
+Other_Void_fire,CUSTOM,"A strange and worthless celestial body, as if this massive dust cloud in the void actively repels all lost visitors.",,,,
+Other_Void_water,CUSTOM,"A strange and worthless celestial body, as if this massive dust cloud in the void actively repels all lost visitors.",,,,
+Other_Void_soil,CUSTOM,"A strange and worthless celestial body, as if this massive dust cloud in the void actively repels all lost visitors.",,,,
+Other_Void_wood,CUSTOM,"A strange and worthless celestial body, as if this massive dust cloud in the void actively repels all lost visitors.",,,,
+Other_Void_gold,CUSTOM,"A strange and worthless celestial body, as if this massive dust cloud in the void actively repels all lost visitors.",,,,
+Other_Void_initial,CUSTOM,"A strange and worthless celestial body, as if this massive dust cloud in the void actively repels all lost visitors.",,,,
+Other_Void_end,CUSTOM,"A strange and worthless celestial body, as if this massive dust cloud in the void actively repels all lost visitors.",,,,
+
+Other_Void,CUSTOM,"Another massive black hole so large that you start to wonder if you'll be swallowed in the next instant... But clearly, it doesn't generate the slightest gravitational pull, like some kind of real-world internet scam.",,,,

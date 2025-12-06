@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Witch_Citadel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/Witch_Citadel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

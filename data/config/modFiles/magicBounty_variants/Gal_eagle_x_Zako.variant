@@ -1,0 +1,82 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 29,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "Gal_eagle_x",
+    "hullMods": [
+        "crimsonmodificationcross",
+        "eccm",
+        "nav_relay",
+        "ringinterfererra",
+		"damaged_mounts",
+        "degraded_life_support",
+        "faulty_auto",
+		"erratic_injector",
+        "increased_maintenance",
+        "hardenedshieldemitter",
+        "ringinterferessoul",
+        "ringreverse",
+        "unstable_injector",
+    ],
+    "permaMods": [
+        "crimsonmodificationcross",
+        "eccm",
+        "nav_relay",
+        "ringinterfererra",
+		"damaged_mounts",
+        "degraded_life_support",
+        "faulty_auto",
+		"erratic_injector",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "crimsonmodificationcross",
+        "eccm",
+        "nav_relay",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "Gal_eagle_x_Zako",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "gorgonpod",
+                "WS 008": "gorgonpod",
+                "WS 013": "gorgonpod",
+                "WS 005": "WthC_starsnode_element_gold",
+                "WS 006": "WthC_starsnode_element_gold",
+                "WS 009": "WthC_starsnode_element_fire",
+                "WS 001": "gazer",
+                "WS 002": "gazer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "WthC_MicroNodeBeam",
+                "WS 004": "WthC_MicroNodeBeam",
+                "WS 011": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 012": "shockrepeater",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "pdburst",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

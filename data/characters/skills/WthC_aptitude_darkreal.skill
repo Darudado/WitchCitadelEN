@@ -1,0 +1,12 @@
+{
+	"id":"WthC_aptitude_darkreal",
+	"governingAptitude":"WthC_aptitude_darkreal",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":0,
+			"effects":[
+				{"type":"DESCRIPTION", "script":"com.fs.starfarer.api.impl.campaign.skills.AptitudeDesc$Level0"},
+			]
+		},
+	],
+}

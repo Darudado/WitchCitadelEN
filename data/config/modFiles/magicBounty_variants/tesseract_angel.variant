@@ -1,0 +1,75 @@
+{
+    "displayName": "angel",
+    "fluxCapacitors": 16,
+    "fluxVents": 30,
+    "goalVariant": false,
+    "hullId": "tesseract",
+    "hullMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "targetingunit"
+        ],
+    "permaMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "hardenedshieldemitter",
+        "targetingunit",
+    ],
+    "suppressedMods": [],
+    "variantId": "tesseract_angel",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "riftcascade",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "resonatormrm",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "minipulser",
+                "WS 000": "minipulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "cryoflux",
+                "WS 010": "cryoflux",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "disintegrator",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "shockrepeater",
+                "WS 002": "shockrepeater",
+                "WS 003": "shockrepeater",
+                "WS 001": "shockrepeater",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

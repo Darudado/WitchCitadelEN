@@ -1,0 +1,44 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 5,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "scintilla",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "scintilla_RE",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "dragon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "reaper",
+                "WS 007": "reaper",
+            }
+        },
+    ],
+    "wings": [
+        "flash_wing",
+        "flash_wing",
+    ],
+    "modules": [],
+}

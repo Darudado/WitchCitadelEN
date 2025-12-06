@@ -1,0 +1,48 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "shade_d_pirates",
+    "hullMods": [
+        "fluxcoil",
+        "reinforcedhull",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+        "phase_anchor",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "reinforcedhull",
+        "ringinterfererra",
+        "damaged_mounts",
+        "degraded_life_support",
+        "erratic_injector",
+        "faulty_auto",
+        "increased_maintenance",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "reinforcedhull",
+        "ringinterfererra",
+    ],
+    "suppressedMods": [],
+    "variantId": "shade_d_pirates_default_D_Zako",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lightneedler",
+                "WS 002": "lightneedler",
+                "WS 004": "amblaster",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

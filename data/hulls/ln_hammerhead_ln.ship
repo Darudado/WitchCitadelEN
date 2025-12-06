@@ -1,0 +1,197 @@
+{
+  "hullName": "ng_hammerhead_ln",
+  "hullId": "ln_hammerhead_ln",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/LandsknechteTest/ships/ln_hammerhead_ln.png",
+  "style": "MIDLINE",
+  "height": 164,
+  "width": 108,
+  "center": [54.5, 82],
+  "collisionRadius": 96.5,
+  "shieldCenter": [0, 0.5],
+  "shieldRadius": 95.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "fluxshunt"
+  ],
+  "builtInWeapons": {
+    "WS0001": "kineticblaster",
+    "WS0002t": "kineticblaster"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "HARDPOINT",
+      "arc": 30,
+      "angle": 0,
+      "locations": [70, 31.5]
+    },
+    {
+      "id": "WS0002t",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "HARDPOINT",
+      "arc": 30,
+      "angle": -0,
+      "locations": [70, -31.5]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 30,
+      "angle": -0,
+      "locations": [73.5, -10.5]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 30,
+      "angle": 0,
+      "locations": [73.5, 10.5]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -0,
+      "locations": [44.5, -15.5]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 0,
+      "locations": [44.5, 15.5]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -90,
+      "locations": [-28, -38.5]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 90,
+      "locations": [-28, 38.5]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -31, 1,
+        -13, 1.5
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-78, -14],
+      "length": 27,
+      "width": 21,
+      "angle": 180,
+      "contrailSize": 21,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-78, 14],
+      "length": 27,
+      "width": 21,
+      "angle": -180,
+      "contrailSize": 21,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-77.5, -26.5],
+      "length": 31.5,
+      "width": 14,
+      "angle": 180,
+      "contrailSize": 14,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-77.5, 26.5],
+      "length": 31.5,
+      "width": 14,
+      "angle": -180,
+      "contrailSize": 14,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-78, -37],
+      "length": 49,
+      "width": 13,
+      "angle": 180,
+      "contrailSize": 13,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-78, 37],
+      "length": 49,
+      "width": 13,
+      "angle": -180,
+      "contrailSize": 13,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -44.5, -2,
+    -49, -7.5,
+    -69.5, -7.5,
+    -78, -11.5,
+    -80, -43.5,
+    -74.5, -48,
+    -64, -41.5,
+    -52, -40.5,
+    -39, -52.5,
+    -19.5, -52.5,
+    -8.5, -44.5,
+    2, -32.5,
+    6, -16,
+    32, -23,
+    40, -51,
+    61, -51,
+    65.5, -40,
+    78.5, -40,
+    79.5, -8,
+    79.5, 8,
+    78.5, 40,
+    65.5, 40,
+    61, 51,
+    40, 51,
+    32, 23,
+    6, 16,
+    2, 32.5,
+    -8.5, 44.5,
+    -19.5, 52.5,
+    -39, 52.5,
+    -52, 40.5,
+    -64, 41.5,
+    -74.5, 48,
+    -80, 43.5,
+    -78, 11.5,
+    -69.5, 7.5,
+    -49, 7.5,
+    -44.5, 2
+  ]
+}

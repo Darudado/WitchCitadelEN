@@ -1,0 +1,44 @@
+{
+    "displayName": "LD",
+    "fluxCapacitors": 8,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "manticore",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+        "converted_hangar",
+        "safetyoverrides",
+    ],
+    "permaMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "sMods": [
+        "hardenedshieldemitter",
+        "missleracks",
+    ],
+    "suppressedMods": [],
+    "variantId": "manticore_LD",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 000": "devastator",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
+            }
+        },
+    ],
+    "wings": [
+        "talon_wing",
+    ],
+    "modules": [],
+}

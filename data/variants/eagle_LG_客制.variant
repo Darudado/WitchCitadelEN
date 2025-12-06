@@ -1,0 +1,25 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "eagle_LG",
+    "hullMods": [
+        "glitched_sensors",
+        "malfunctioning_comms",
+        "defective_manufactory",
+    ],
+    "permaMods": [
+        "glitched_sensors",
+        "malfunctioning_comms",
+        "defective_manufactory",
+    ],
+    "sMods": [],
+    "suppressedMods": [
+        "andrada_mods",
+    ],
+    "variantId": "eagle_LG_Custom",
+    "weaponGroups": [],
+    "wings": [],
+    "modules": [],
+}

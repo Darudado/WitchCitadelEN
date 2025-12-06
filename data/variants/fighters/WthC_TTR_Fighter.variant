@@ -1,0 +1,29 @@
+{
+	"quality":1,
+	"displayName":"Interceptor",
+	"hullId":"WthC_TTR",
+	"variantId":"WthC_TTR_Fighter",
+	"fluxVents":0,
+	"fluxCapacitors":0,
+	"hullMods":[
+		"no_weapon_flux",
+		"autorepair",
+		"insulatedengine",
+	], # array of strings
+	
+	# mode is either LINKED or ALTERNATING
+	# slot ids (WS ***) must match what's in the .ship file
+	"weaponGroups":[
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0001":"WthC_TTR"
+		 		   },
+		},
+		{"mode":"LINKED",
+		 "weapons":{
+		 			"WS0002":"WthC_StarryEmbellishment",
+					"WS0003":"WthC_StarryEmbellishment"
+		 		   },
+		},
+	],
+}

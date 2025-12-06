@@ -1,0 +1,55 @@
+{
+    "displayName": "S-SSoul",
+    "fluxCapacitors": 14,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "WthC_lumen_SS",
+    "hullMods": [
+        "fluxcoil",
+        "ringinterferessoul",
+        "fluxbreakers",
+    ],
+    "permaMods": [
+        "fluxcoil",
+        "ringinterferessoul",
+    ],
+    "sMods": [
+        "fluxcoil",
+        "ringinterferessoul",
+    ],
+    "suppressedMods": [],
+    "variantId": "WthC_lumen_SS_S-SSoul",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "WthC_Lumen",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_starsnode_elementS_water",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 009": "WthC_starsnode_elementS_wood",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "sabot",
+                "WS 007": "sabot",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

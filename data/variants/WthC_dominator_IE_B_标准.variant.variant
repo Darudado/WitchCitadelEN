@@ -1,0 +1,67 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 35,
+    "fluxVents": 16,
+    "goalVariant": true,
+    "hullId": "WthC_dominator_IE_B",
+    "hullMods": [
+        "armoredweapons",
+        "eccm",
+        "fluxbreakers",
+        "insulatedengine",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "WthC_dominator_IE_B_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 013": "tachyonlance",
+                "WS 012": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 015": "WthC_starsnode_element_gold",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 016": "WthC_starsnode_element_soil",
+                "WS 014": "WthC_starsnode_element_soil",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "WthC_MicroNodeBeam",
+                "WS 009": "WthC_MicroNodeBeam",
+                "WS 006": "WthC_BreezeTacticalLaser",
+                "WS 007": "WthC_MicroNodeBeam",
+                "WS 005": "WthC_BreezeTacticalLaser",
+                "WS 002": "WthC_BreezeTacticalLaser",
+                "WS 003": "WthC_BreezeTacticalLaser",
+                "WS 001": "WthC_MicroNodeBeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 011": "gravitonbeam",
+                "WS 010": "gravitonbeam",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}
