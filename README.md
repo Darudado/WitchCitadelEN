@@ -1,6 +1,6 @@
 WITCH CITADEL 
 Translated in english. 
-!(https://github.com/Darudado/WitchCitadelEN/blob/main/231620pj8rqm6ubzm78lb6.png)
+![](https://github.com/Darudado/WitchCitadelEN/blob/main/231620pj8rqm6ubzm78lb6.png)
 
 Alice ship pack is required:
 https://github.com/Darudado/ac-alice-ship-pack-ENGLISH-0.75-C-3
@@ -52,11 +52,20 @@ Fossil thread: https://www.fossic.org/thread-8970-1-1.html
 
 To start their quest: Go to their system, go to the crimson citadel and buy the 2 items that will unlock the quests. The 1st is only the main quest, the second has all the side quests, it's a bit messy. You get items to skip steps of the bounty, but you won't get rewards.
 
-1)How do I get the officers?
+
+
+
+
+FAQ:
+
+1) How do I get the officers?
 Start the questline by buying the 1st book in 'crimson citadel', then start the crimson invitation questline,  you'll fight fake versions of the witches, 3 bounties between the rift planet and the mirage planet,  then you'll start the pale invitation questline and get to fight the actual witches, they'll drop a card that gives you their ship and them as officers.  By the end you will have all of them, there are like 15-20 bounties, the officers start to be available in the later half. 
-2) I can't find my crimson citadel stuff!
-You'll find a purple card in your inventory later, it'll work like a storage for your mod related stuff. 
-3) How do I get the 'holy see' variant in the mod? 
-Roll the cubes until you get all the books, you'll know when you read all of them as you'll see a new bounty with the holy see. 
+
+2) I can't find my crimson citadel stuff! 
+You'll find a purple card in your inventory later, it'll work like a storage for your mod related stuff.
+
+3) How do I get the 'holy see' variant in the mod?
+Roll the cubes until you get all the books, you'll know when you read all of them as you'll see a new bounty with the holy see.
+
 4) How do I unlock pale skills for my officers? 
 Finish the main questline, click their cards again. 
