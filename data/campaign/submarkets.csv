@@ -16,3 +16,5 @@ You suspect its secrets will be trivial once you gain access.",data.world.system
 Between_Visits,,,"As unreal as the rest of this planet... May you find valuable intel here.",data.world.systems.Between_Visits,,101
 
 Witch_Data,,,"A database within the Primordial Workshop, hiding secrets about the so-called witches...",data.world.systems.Witch_Data,,101
+
+witch_ship_market,,,"A rare, hidden shipyard offering custom vessels of the faction at premium prices. Refreshes stock every 30 days.",data.world.systems.WitchShipMarket,,102

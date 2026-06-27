@@ -116,6 +116,7 @@ public class WthC_Citadel extends BaseIndustry implements MarketImmigrationModif
         this.market.addTransientImmigrationModifier(this);
     }
 
+
     public static float getAccessibilityBonus(int marketSize) {
         if (marketSize <= 4) {
             return 0.0F;

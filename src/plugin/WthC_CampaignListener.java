@@ -21,6 +21,13 @@ public class WthC_CampaignListener extends BaseCampaignEventListener implements 
 
     @Override
     public void reportPlayerOpenedMarket(MarketAPI market) {
+        if (market.hasIndustry("citadel") || market.hasIndustry("kingdom")) {
+            if (isQuestChainFinished()) {
+                if (!market.hasSubmarket("witch_ship_market")) {
+                    market.addSubmarket("witch_ship_market");
+                }
+            }
+        }
         FactionAPI CC = Global.getSector().getFaction("Crimson_citadel");
         FactionAPI PP = Global.getSector().getFaction("Pale_Phantom");
         if (market.getFaction() == CC) {
@@ -368,5 +375,31 @@ public class WthC_CampaignListener extends BaseCampaignEventListener implements 
     @Override
     public void advance(float amount) {
 
+    }
+
+    private boolean isQuestChainFinished() {
+        String[] keys = {
+            "$WthC_CM-RRA",
+            "$WthC_CM-Cross",
+            "$WthC_CM-IE",
+            "$WthC_CM-SSoul",
+            "$WthC_CM-Elf",
+            "$WthC_CM-Dust",
+            "$WthC_BA-RRA",
+            "$WthC_BA-Cross",
+            "$WthC_BA-IE",
+            "$WthC_BA-SSoul",
+            "$WthC_BA-Elf",
+            "$WthC_BA-Dust",
+            "$WthC_AL-1",
+            "$WthC_AL-2",
+            "$WthC_AL-3"
+        };
+        for (String key : keys) {
+            if (!Global.getSector().getMemoryWithoutUpdate().getBoolean(key)) {
+                return false;
+            }
+        }
+        return true;
     }
 }
